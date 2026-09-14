@@ -1,38 +1,24 @@
-# 🎧 Streaming-Datenanalyse (Zwischenprojekt)
+# Musik-Streaming – Datenanalyse (Zwischenprojekt)
 
-Willkommen im **Streaming-Datenanalyse** Repository! 
-Dieses Projekt widmet sich der tiefgehenden Auswertung von Musik-Streaming-Verhalten, Nutzerdaten und Song-Statistiken über mehrere Quartale hinweg, um Muster und Trends auf der Plattform zu identifizieren.
+Auswertung von Musik-Streaming-Verhalten, Nutzerdaten und Song-Statistiken über zwei Quartale, um Muster im Hörverhalten zu identifizieren.
 
-## 🛠️ Technologie-Stack
+Zwischenprojekt im Rahmen der Weiterbildung Data Analytics (DataSmart Point), Modul Python für Datenanalyse.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib" />
-</p>
+## Technologie-Stack
 
----
+Python · pandas · Jupyter Notebook
 
-## 📂 Projektstruktur
+## Projektstruktur
 
-Das Repository enthält strukturierte CSV-Datensätze sowie ein Jupyter Notebook, das die gesamte Datenvorbereitung, Analyse und visuelle Präsentation bündelt:
+Das Repository enthält die Rohdaten als CSV sowie ein Jupyter Notebook mit der gesamten Datenaufbereitung, Analyse und den Ergebnissen:
 
 | Datei | Beschreibung |
-|:---|:---|
-| 📓 **`Zwischenprojekt_Streaming_Praese.ipynb`** | Das Haupt-Notebook mit der interaktiven Datenanalyse, Visualisierungen und der Abschlusspräsentation. |
-| 👥 **`nutzer.csv`** | Enthält demografische und accountbezogene Daten der Streaming-Nutzer. |
-| 🎵 **`songs.csv`** | Metadaten zu den verfügbaren Musiktiteln (z. B. Künstler, Genre, Dauer). |
-| 📊 **`streams_q1.csv`** | Log-Daten und Streaming-Historie aus dem ersten Quartal (Q1). |
-| 📊 **`streams_q2.csv`** | Log-Daten und Streaming-Historie aus dem zweiten Quartal (Q2). |
+|---|---|
+| `Zwischenprojekt_Streaming_Praese.ipynb` | Notebook mit Datenaufbereitung, Analyse und Ergebnissen |
+| `nutzer.csv` | Nutzer-Stammdaten |
+| `songs.csv` | Song-Katalog |
+| `streams_q1.csv`, `streams_q2.csv` | Abspiel-Protokolle Q1/Q2 2026 |
 
----
+## Auftrag
 
-## 🚀 Installation & Ausführung
-
-Um dieses Projekt lokal auszuführen und die Daten selbst zu erkunden, folge diesen Schritten:
-
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/thorstenschwarck/Streaming.git
-   cd Streaming
+Fiktiver Auftrag als Datenanalyst bei Klangwelle, einem Musik-Streaming-Dienst. Die Geschäftsführung will wissen: *Was wird gehört, von wem, wann – und wo klicken die Leute weg?*
