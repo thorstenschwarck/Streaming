@@ -1,0 +1,2090 @@
+stream_id,datum,wochentag,uhrzeit,nutzer_id,geraet,quelle,song_id,sekunden_gehoert
+E-00001,2026-01-01,Donnerstag,07:33,U-0153,Tablet,Autoplay,S-010,158
+E-00002,2026-01-01,Donnerstag,08:06,U-0164,Tablet,Playlist,S-078,24
+E-00003,2026-01-01,Donnerstag,09:26,U-0061,Desktop,Album,S-062,302
+E-00004,2026-01-01,Donnerstag,09:54,U-0051,Handy,Playlist,S-001,223
+E-00005,2026-01-01,Donnerstag,10:36,U-0200,handy,Playlist,S-021,223
+E-00006,2026-01-01,Donnerstag,11:45,U-0058,Desktop,Playlist,S-013,174
+E-00007,2026-01-01,Donnerstag,12:20,U-0021,Handy,Playlist,S-069,313
+E-00008,2026-01-01,Donnerstag,16:12,U-0052,Desktop,Suche,S-063,298
+E-00009,2026-01-01,Donnerstag,16:18,U-0152,Desktop,Playlist,S-066,149
+E-00010,2026-01-01,Donnerstag,17:19,U-0063,Handy,Album,S-041,189
+E-00011,2026-01-01,Donnerstag,17:36,U-0150,Smart Speaker,Suche,S-086,339
+E-00012,2026-01-01,Donnerstag,18:46,,Smart Speaker,Autoplay,S-108,367
+E-00013,2026-01-01,Donnerstag,19:19,U-0105,Smart Speaker,Playlist,S-075,356
+E-00014,2026-01-01,Donnerstag,21:15,U-0044,Desktop,Playlist,S-056,204
+E-00015,2026-01-01,Donnerstag,22:57,U-0160,Desktop,Playlist,S-062,6
+E-00016,2026-01-02,Freitag,03:32,U-0081,Tablet,Suche,S-062,302
+E-00017,2026-01-02,Freitag,09:07,U-0025,Handy,Autoplay,S-114,359
+E-00018,2026-01-02,Freitag,09:30,U-0167,Handy,Playlist,S-011,49
+E-00019,2026-01-02,Freitag,11:00,U-0110,Desktop,Playlist,S-061,233
+E-00020,2026-01-02,Freitag,13:35,U-0147,Desktop,Playlist,S-078,208
+E-00021,2026-01-02,Freitag,14:00,U-0095,Desktop,Autoplay,S-047,11
+E-00022,2026-01-02,Freitag,15:24,U-0026,Handy,Playlist,S-100,76
+E-00023,2026-01-02,Freitag,16:09,U-0161,Desktop,Playlist,S-103,190
+E-00024,2026-01-02,Freitag,18:07,U-0033,Handy,Suche,S-015,160
+E-00025,2026-01-02,Freitag,18:23,U-0064,Handy,Suche,S-070,114
+E-00026,2026-01-02,Freitag,18:39,U-0184,Smart Speaker,Playlist,S-086,29
+E-00027,2026-01-02,Freitag,19:13,U-0056,Handy,Suche,S-044,160
+E-00028,2026-01-02,Freitag,19:16,U-0145,Smart Speaker,Autoplay,S-021,5
+E-00029,2026-01-02,Freitag,19:28,U-0131,Tablet,Playlist,S-015,27
+E-00030,2026-01-02,Freitag,19:41,U-0153,Handy,Autoplay,S-048,18
+E-00031,2026-01-02,Freitag,20:04,U-0083,Handy,Suche,S-086,339
+E-00032,2026-01-02,Freitag,21:43,U-0164,Smart Speaker,Playlist,S-084,124
+E-00033,2026-01-02,Freitag,21:55,U-0088,Handy,Autoplay,S-029,6
+E-00034,2026-01-03,Samstag,06:36,U-0188,Desktop,Album,S-049,14
+E-00035,2026-01-03,Samstag,10:58,U-0119,Desktop,Playlist,S-120,98
+E-00036,2026-01-03,Samstag,12:54,U-0152,Handy,Playlist,S-033,241
+E-00037,2026-01-03,Samstag,12:56,U-0063,Smart Speaker,Playlist,S-053,248
+E-00038,2026-01-03,Samstag,15:15,U-0200,Smart Speaker,Autoplay,S-022,157
+E-00039,2026-01-03,Samstag,15:25,U-0035,Handy,Playlist,S-096,196
+E-00040,2026-01-03,Samstag,17:02,U-0037,Handy,Album,S-001,11
+E-00041,2026-01-03,Samstag,17:58,U-0103,Handy,Autoplay,S-053,23
+E-00042,2026-01-03,Samstag,18:10,U-0233,Handy,Autoplay,S-021,223
+E-00043,2026-01-03,Samstag,18:49,U-0054,Tablet,Playlist,S-103,190
+E-00044,2026-01-03,Samstag,18:55,U-0083,Handy,Playlist,S-003,9
+E-00045,2026-01-03,Samstag,19:30,U-0060,Smart Speaker,Album,S-096,20
+E-00046,2026-01-03,Samstag,19:32,,Handy,Autoplay,S-095,23
+E-00047,2026-01-03,Samstag,20:02,U-0176,Handy,Autoplay,S-081,362
+E-00048,2026-01-03,Samstag,20:02,U-0070,Tablet,Playlist,S-005,177
+E-00049,2026-01-03,Samstag,20:16,U-0097,Handy,Suche,S-041,189
+E-00050,2026-01-03,Samstag,21:08,U-0163,Desktop,Suche,S-009,223
+E-00051,2026-01-04,Sonntag,00:48,U-0127,Desktop,Playlist,S-109,156
+E-00052,2026-01-04,Sonntag,08:27,U-0080,Handy,Album,S-108,102
+E-00053,2026-01-04,Sonntag,09:20,U-0037,Handy,Suche,S-031,242
+E-00054,2026-01-04,Sonntag,09:34,U-0125,Handy,Autoplay,S-057,308
+E-00055,2026-01-04,Sonntag,09:43,U-0178,Handy,Autoplay,S-011,16
+E-00056,2026-01-04,Sonntag,10:20,U-0160,Handy,Suche,S-031,88
+E-00057,2026-01-04,Sonntag,10:36,U-0083,Handy,Suche,S-096,196
+E-00058,2026-01-04,Sonntag,11:03,U-0123,Handy,Suche,S-021,223
+E-00059,2026-01-04,Sonntag,11:35,U-0057,Handy,Playlist,S-041,189
+E-00060,2026-01-04,Sonntag,12:12,U-0020,,Playlist,S-080,145
+E-00061,2026-01-04,Sonntag,13:29,U-0002,Tablet,Playlist,S-008,212
+E-00062,2026-01-04,Sonntag,13:42,U-0095,Tablet,Playlist,S-078,115
+E-00063,2026-01-04,Sonntag,14:34,U-0083,Tablet,Album,S-043,157
+E-00064,2026-01-04,Sonntag,14:44,U-0008,Handy,Album,S-058,160
+E-00065,2026-01-04,Sonntag,17:05,U-0118,Handy,Suche,S-016,80
+E-00066,2026-01-04,Sonntag,17:36,U-0038,Smart Speaker,Playlist,S-096,196
+E-00067,2026-01-04,Sonntag,17:39,U-0179,Tablet,Album,S-018,189
+E-00068,2026-01-04,Sonntag,18:10,U-0071,Tablet,Suche,S-019,163
+E-00069,2026-01-04,Sonntag,18:26,U-0070,Smart Speaker,Suche,S-052,204
+E-00070,2026-01-04,Sonntag,19:14,U-0021,Smart Speaker,Playlist,S-054,61
+E-00071,2026-01-04,Sonntag,20:44,U-0010,Smart Speaker,Suche,S-026,245
+E-00072,2026-01-04,Sonntag,20:51,U-0151,Handy,Playlist,S-085,139
+E-00073,2026-01-04,Sonntag,22:05,U-0181,Desktop,Playlist,S-088,237
+E-00074,2026-01-04,Sonntag,22:05,U-0040,Handy,Suche,S-043,58
+E-00075,2026-01-04,Sonntag,22:11,U-0112,Smart Speaker,Suche,S-016,205
+E-00076,2026-01-04,Sonntag,22:28,U-0037,Handy,Playlist,S-019,163
+E-00077,2026-01-05,Montag,05:07,U-0060,Handy,Playlist,S-092,204
+E-00078,2026-01-05,Montag,07:14,U-0037,Handy,Album,S-048,285
+E-00079,2026-01-05,Montag,11:34,,Desktop,Suche,S-021,223
+E-00080,2026-01-05,Montag,13:00,U-0176,Handy,Autoplay,S-103,257
+E-00081,2026-01-05,Montag,14:58,U-0033,Desktop,Autoplay,S-024,9
+E-00082,2026-01-05,Montag,17:49,U-0063,Handy,Playlist,S-031,242
+E-00083,2026-01-05,Montag,18:43,U-0158,Smart Speaker,Suche,S-105,13
+E-00084,2026-01-05,Montag,19:12,U-0170,Handy,Autoplay,S-021,223
+E-00085,2026-01-05,Montag,19:21,U-0153,Tablet,Playlist,S-009,19
+E-00086,2026-01-05,Montag,22:25,U-0044,Handy,Playlist,S-109,317
+E-00087,2026-01-05,Montag,22:26,U-0161,,Autoplay,S-005,205
+E-00088,2026-01-06,Dienstag,07:59,U-0173,Handy,Suche,S-087,354
+E-00089,2026-01-06,Dienstag,08:24,U-0176,Handy,Playlist,S-066,184
+E-00090,2026-01-06,Dienstag,08:43,U-0040,Handy,Album,S-041,189
+E-00091,2026-01-06,Dienstag,10:24,U-0065,Tablet,Autoplay,S-013,174
+E-00092,2026-01-06,Dienstag,13:54,U-0049,Handy,Playlist,S-096,196
+E-00093,2026-01-06,Dienstag,14:12,U-0067,Handy,Playlist,S-080,17
+E-00094,2026-01-06,Dienstag,16:29,U-0031,Desktop,Suche,S-086,339
+E-00095,2026-01-06,Dienstag,18:18,U-0035,Desktop,Playlist,S-116,125
+E-00096,2026-01-06,Dienstag,18:24,U-0107,Handy,Playlist,S-008,16
+E-00097,2026-01-06,Dienstag,19:16,U-0096,Handy,Playlist,S-061,13
+E-00098,2026-01-06,Dienstag,19:35,U-0031,Tablet,Playlist,S-086,339
+E-00099,2026-01-06,Dienstag,19:55,U-0058,,Playlist,S-009,223
+E-00100,2026-01-06,Dienstag,21:28,U-0143,handy,Album,S-031,146
+E-00101,2026-01-06,Dienstag,21:37,U-0095,Handy,Playlist,S-018,50
+E-00102,2026-01-06,Dienstag,22:17,U-0010,Tablet,Album,S-041,154
+E-00103,2026-01-06,Dienstag,22:29,U-0045,Handy,Album,S-062,27
+E-00104,2026-01-06,Dienstag,23:55,U-0107,Handy,Autoplay,S-046,273
+E-00105,2026-01-07,Mittwoch,03:25,U-0070,Handy,Album,S-101,253
+E-00106,2026-01-07,Mittwoch,07:10,U-0122,Tablet,Album,S-011,164
+E-00107,2026-01-07,Mittwoch,07:27,U-0077,Handy,Suche,S-059,308
+E-00108,2026-01-07,Mittwoch,07:54,U-0075,Handy,Playlist,S-047,196
+E-00109,2026-01-07,Mittwoch,08:01,U-0165,Desktop,Autoplay,S-041,13
+E-00110,2026-01-07,Mittwoch,08:08,U-0146,Handy,Playlist,S-028,12
+E-00111,2026-01-07,Mittwoch,08:11,U-0077,Handy,Album,S-046,5
+E-00112,2026-01-07,Mittwoch,10:52,U-0080,Desktop,Playlist,S-062,254
+E-00113,2026-01-07,Mittwoch,16:42,U-0164,Handy,Playlist,S-018,189
+E-00114,2026-01-07,Mittwoch,16:51,U-0058,Desktop,Playlist,S-008,212
+E-00115,2026-01-07,Mittwoch,17:15,U-0159,Desktop,Playlist,S-028,195
+E-00116,2026-01-07,Mittwoch,18:00,,Handy,Suche,S-053,248
+E-00117,2026-01-07,Mittwoch,19:46,U-0152,Handy,Playlist,S-105,202
+E-00118,2026-01-07,Mittwoch,20:13,U-0119,Handy,Autoplay,S-103,190
+E-00119,2026-01-07,Mittwoch,20:33,U-0156,Tablet,Playlist,S-120,442
+E-00119,2026-01-07,Mittwoch,20:33,U-0156,Tablet,Playlist,S-120,442
+E-00120,2026-01-07,Mittwoch,20:34,U-0117,Desktop,Album,S-023,173
+E-00121,2026-01-07,Mittwoch,21:45,U-0103,Handy,Autoplay,S-011,164
+E-00122,2026-01-07,Mittwoch,22:09,U-0107,Desktop,Playlist,S-041,189
+E-00123,2026-01-07,Mittwoch,22:37,U-0030,Desktop,Playlist,S-053,172
+E-00124,2026-01-08,Donnerstag,04:37,U-0066,Handy,Playlist,S-092,127
+E-00125,2026-01-08,Donnerstag,06:43,U-0007,Handy,Playlist,S-018,19
+E-00126,2026-01-08,Donnerstag,08:49,U-0156,Handy,Suche,S-047,264
+E-00127,2026-01-08,Donnerstag,09:21,U-0072,Handy,Autoplay,S-061,27
+E-00128,2026-01-08,Donnerstag,09:33,U-0064,Handy,Autoplay,S-041,143
+E-00129,2026-01-08,Donnerstag,09:55,U-0109,Handy,Playlist,S-086,42
+E-00130,2026-01-08,Donnerstag,11:08,U-0029,Desktop,Suche,S-016,205
+E-00131,2026-01-08,Donnerstag,12:22,U-0036,Smart Speaker,Autoplay,S-047,264
+E-00132,2026-01-08,Donnerstag,12:23,U-0051,Handy,Playlist,S-086,6
+E-00133,2026-01-08,Donnerstag,12:33,U-0189,Desktop,Playlist,S-032,5
+E-00134,2026-01-08,Donnerstag,13:01,U-0112,Handy,Autoplay,S-004,88
+E-00135,2026-01-08,Donnerstag,13:18,U-0111,Handy,Playlist,S-011,8
+E-00136,2026-01-08,Donnerstag,13:20,U-0010,Desktop,Suche,S-065,223
+E-00137,2026-01-08,Donnerstag,13:22,U-0054,Smart Speaker,Album,S-105,202
+E-00138,2026-01-08,Donnerstag,14:44,U-0111,Handy,Playlist,S-078,58
+E-00139,2026-01-08,Donnerstag,15:28,U-0010,Desktop,Album,S-078,28
+E-00140,2026-01-08,Donnerstag,16:44,U-0033,Desktop,Playlist,S-093,148
+E-00141,2026-01-08,Donnerstag,17:39,U-0102,Smart Speaker,Album,S-004,22
+E-00142,2026-01-08,Donnerstag,18:48,U-0104,Tablet,Playlist,S-105,202
+E-00143,2026-01-08,Donnerstag,18:53,U-0076,Desktop,Autoplay,S-078,19
+E-00144,2026-01-08,Donnerstag,19:09,U-0124,,Autoplay,S-096,196
+E-00145,2026-01-08,Donnerstag,19:23,U-0009,,Playlist,S-046,4
+E-00146,2026-01-08,Donnerstag,19:30,U-0105,Handy,Album,S-011,8
+E-00147,2026-01-09,Freitag,05:39,U-0165,Handy,Suche,S-020,162
+E-00148,2026-01-09,Freitag,06:45,U-0118,Handy,Album,S-046,273
+E-00149,2026-01-09,Freitag,07:26,U-0094,Handy,Playlist,S-031,82
+E-00150,2026-01-09,Freitag,08:00,U-0107,Handy,Playlist,S-020,162
+E-00151,2026-01-09,Freitag,08:06,U-0058,Handy,Album,S-004,18
+E-00152,2026-01-09,Freitag,08:49,U-0110,Handy,Suche,S-062,26
+E-00153,2026-01-09,Freitag,09:03,U-0049,Handy,Suche,S-004,156
+E-00154,2026-01-09,Freitag,09:11,,Tablet,Playlist,S-056,127
+E-00155,2026-01-09,Freitag,09:39,U-0133,Desktop,Autoplay,S-078,147
+E-00156,2026-01-09,Freitag,09:55,U-0032,,Playlist,S-078,148
+E-00157,2026-01-09,Freitag,10:50,U-0116,Handy,Playlist,S-020,90
+E-00158,2026-01-09,Freitag,11:24,U-0200,Desktop,Album,S-096,37
+E-00159,2026-01-09,Freitag,14:01,U-0192,Smart Speaker,Album,S-077,242
+E-00160,2026-01-09,Freitag,14:44,U-0092,Smart Speaker,Playlist,S-055,166
+E-00161,2026-01-09,Freitag,16:55,U-0016,Desktop,Autoplay,S-026,20
+E-00162,2026-01-09,Freitag,17:07,,Smart Speaker,Autoplay,S-092,24
+E-00163,2026-01-09,Freitag,17:10,U-0054,Smart Speaker,Playlist,S-019,137
+E-00164,2026-01-09,Freitag,17:35,U-0081,Handy,Suche,S-096,196
+E-00165,2026-01-09,Freitag,17:47,U-0145,Handy,Suche,S-056,204
+E-00166,2026-01-09,Freitag,17:54,U-0092,Tablet,Autoplay,S-041,72
+E-00167,2026-01-09,Freitag,17:58,U-0133,Smart Speaker,Playlist,S-004,42
+E-00168,2026-01-09,Freitag,18:07,U-0170,Tablet,Album,S-108,367
+E-00168,2026-01-09,Freitag,18:07,U-0170,Tablet,Album,S-108,367
+E-00169,2026-01-09,Freitag,18:18,U-0037,Smart Speaker,Playlist,S-100,110
+E-00170,2026-01-09,Freitag,19:02,U-0143,Smart Speaker,Playlist,S-026,245
+E-00171,2026-01-09,Freitag,20:07,U-0037,Smart Speaker,Playlist,S-083,200
+E-00172,2026-01-09,Freitag,20:20,U-0184,Tablet,Album,S-041,189
+E-00173,2026-01-09,Freitag,20:48,U-0156,Handy,Album,S-078,208
+E-00174,2026-01-09,Freitag,22:59,U-0157,,Album,S-041,189
+E-00175,2026-01-09,Freitag,23:54,U-0115,Tablet,Album,S-004,156
+E-00176,2026-01-10,Samstag,05:45,U-0112,Handy,Autoplay,S-018,18
+E-00177,2026-01-10,Samstag,07:36,U-0173,Tablet,Autoplay,S-001,26
+E-00178,2026-01-10,Samstag,07:54,,Handy,Playlist,S-116,116
+E-00179,2026-01-10,Samstag,09:00,U-0200,Handy,Suche,S-041,189
+E-00180,2026-01-10,Samstag,09:22,,,Autoplay,S-031,242
+E-00181,2026-01-10,Samstag,10:48,U-0135,Handy,Playlist,S-041,189
+E-00182,2026-01-10,Samstag,10:57,U-0038,Tablet,Suche,S-010,158
+E-00183,2026-01-10,Samstag,12:09,U-0179,Handy,Playlist,S-092,204
+E-00184,2026-01-10,Samstag,13:01,U-0087,Handy,Album,S-041,189
+E-00185,2026-01-10,Samstag,14:36,U-0188,Handy,Autoplay,S-052,23
+E-00186,2026-01-10,Samstag,17:27,U-0155,Handy,Playlist,S-014,201
+E-00187,2026-01-10,Samstag,17:30,U-0023,Handy,Playlist,S-031,37
+E-00188,2026-01-10,Samstag,19:00,U-0103,Smart Speaker,Autoplay,S-078,27
+E-00189,2026-01-10,Samstag,19:08,U-0151,Smart Speaker,Playlist,S-053,25
+E-00190,2026-01-10,Samstag,19:33,U-0001,Smart Speaker,Suche,S-092,204
+E-00191,2026-01-10,Samstag,19:53,U-0021,Handy,Autoplay,S-059,308
+E-00192,2026-01-10,Samstag,19:59,U-0038,Smart Speaker,Autoplay,S-057,29
+E-00193,2026-01-10,Samstag,20:21,U-0035,Smart Speaker,Playlist,S-111,105
+E-00194,2026-01-10,Samstag,20:49,U-0080,Handy,Suche,S-041,189
+E-00195,2026-01-11,Sonntag,07:24,U-0027,Desktop,Suche,S-004,156
+E-00196,2026-01-11,Sonntag,09:54,U-0095,Handy,Album,S-096,5
+E-00197,2026-01-11,Sonntag,10:25,U-0047,Desktop,Suche,S-114,183
+E-00198,2026-01-11,Sonntag,11:16,U-0167,Handy,Album,S-085,16
+E-00199,2026-01-11,Sonntag,12:19,U-0107,Handy,Album,S-041,189
+E-00200,2026-01-11,Sonntag,13:02,U-0200,Smart Speaker,Suche,S-116,312
+E-00201,2026-01-11,Sonntag,17:10,U-0020,Tablet,Playlist,S-041,13
+E-00202,2026-01-11,Sonntag,17:52,U-0037,Handy,Album,S-092,204
+E-00203,2026-01-11,Sonntag,18:24,U-0065,Desktop,Playlist,S-032,239
+E-00204,2026-01-11,Sonntag,18:28,U-0035,Handy,Album,S-092,204
+E-00205,2026-01-11,Sonntag,18:55,U-0105,Desktop,Suche,S-047,264
+E-00206,2026-01-11,Sonntag,22:02,U-0038,Smart Speaker,Album,S-031,158
+E-00207,2026-01-11,Sonntag,22:15,U-0126,Tablet,Album,S-029,14
+E-00208,2026-01-12,Montag,06:33,U-0064,Handy,Album,S-057,308
+E-00209,2026-01-12,Montag,08:13,U-0111,Handy,Playlist,S-068,94
+E-00210,2026-01-12,Montag,08:17,,Smart Speaker,Album,S-086,211
+E-00211,2026-01-12,Montag,08:21,U-0110,Handy,Autoplay,S-105,105
+E-00212,2026-01-12,Montag,09:04,U-0151,Handy,Album,S-042,189
+E-00213,2026-01-12,Montag,09:58,U-0054,Handy,Playlist,S-031,49
+E-00214,2026-01-12,Montag,11:18,U-0055,Desktop,Autoplay,S-107,132
+E-00215,2026-01-12,Montag,13:07,U-0052,Smart Speaker,Autoplay,S-117,12
+E-00216,2026-01-12,Montag,13:09,,Handy,Playlist,S-004,156
+E-00217,2026-01-12,Montag,14:07,U-0058,Handy,Playlist,S-011,22
+E-00218,2026-01-12,Montag,14:32,U-0056,Desktop,Playlist,S-078,208
+E-00219,2026-01-12,Montag,16:28,U-0103,Desktop,Autoplay,S-082,93
+E-00220,2026-01-12,Montag,17:24,U-0141,Smart Speaker,Autoplay,S-011,164
+E-00221,2026-01-12,Montag,17:59,U-0156,Smart Speaker,Playlist,S-088,237
+E-00222,2026-01-12,Montag,18:17,U-0004,Handy,Suche,S-114,364
+E-00223,2026-01-12,Montag,18:19,U-0011,handy,Playlist,S-095,240
+E-00224,2026-01-12,Montag,19:35,U-0068,Handy,Album,S-056,26
+E-00225,2026-01-12,Montag,21:54,U-0014,Smart Speaker,Playlist,S-078,11
+E-00226,2026-01-12,Montag,21:55,U-0052,Handy,Album,S-057,308
+E-00227,2026-01-12,Montag,22:48,U-0085,Handy,Playlist,S-037,226
+E-00228,2026-01-12,Montag,23:15,U-0014,Tablet,Playlist,S-031,242
+E-00229,2026-01-13,Dienstag,07:03,U-0063,Desktop,Playlist,S-011,164
+E-00230,2026-01-13,Dienstag,07:20,U-0063,Tablet,Suche,S-014,201
+E-00231,2026-01-13,Dienstag,08:10,U-0100,Handy,Autoplay,S-054,19
+E-00232,2026-01-13,Dienstag,08:15,U-0077,Handy,Autoplay,S-058,327
+E-00233,2026-01-13,Dienstag,08:16,U-0138,Desktop,Suche,S-041,189
+E-00234,2026-01-13,Dienstag,12:42,U-0060,Desktop,Playlist,S-096,22
+E-00235,2026-01-13,Dienstag,13:33,U-0181,Handy,Playlist,S-032,12
+E-00236,2026-01-13,Dienstag,13:54,U-0135,Desktop,Playlist,S-042,8
+E-00237,2026-01-13,Dienstag,16:43,U-0151,Handy,Album,S-100,71
+E-00238,2026-01-13,Dienstag,19:37,U-0071,Smart Speaker,Playlist,S-036,194
+E-00239,2026-01-13,Dienstag,20:13,U-0076,Handy,Album,S-054,200
+E-00240,2026-01-13,Dienstag,20:48,U-0027,Handy,Playlist,S-013,174
+E-00241,2026-01-13,Dienstag,21:19,U-0179,Smart Speaker,Playlist,S-023,173
+E-00242,2026-01-13,Dienstag,22:30,,Tablet,Autoplay,S-021,223
+E-00243,2026-01-14,Mittwoch,02:42,U-0103,Handy,Album,S-075,118
+E-00244,2026-01-14,Mittwoch,09:22,U-0161,Handy,Suche,S-023,173
+E-00245,2026-01-14,Mittwoch,10:26,U-0049,Smart Speaker,Playlist,S-041,189
+E-00246,2026-01-14,Mittwoch,10:58,U-0051,Desktop,Suche,S-007,210
+E-00247,2026-01-14,Mittwoch,11:49,U-0112,Desktop,Playlist,S-041,19
+E-00248,2026-01-14,Mittwoch,13:33,U-0091,Tablet,Album,S-074,281
+E-00249,2026-01-14,Mittwoch,16:10,U-0176,Smart Speaker,Suche,S-007,210
+E-00250,2026-01-14,Mittwoch,17:43,U-0021,Smart Speaker,Autoplay,S-102,179
+E-00251,2026-01-14,Mittwoch,20:50,U-0058,Handy,Autoplay,S-070,17
+E-00252,2026-01-14,Mittwoch,22:44,U-0023,Handy,Playlist,S-074,281
+E-00253,2026-01-15,Donnerstag,08:53,U-0141,Tablet,Playlist,S-004,156
+E-00254,2026-01-15,Donnerstag,10:35,U-0153,Handy,Album,S-026,245
+E-00255,2026-01-15,Donnerstag,11:39,U-0124,Handy,Autoplay,S-036,194
+E-00256,2026-01-15,Donnerstag,12:17,U-0009,Desktop,Suche,S-096,196
+E-00257,2026-01-15,Donnerstag,12:55,U-0134,Handy,Autoplay,S-062,7
+E-00258,2026-01-15,Donnerstag,13:23,U-0175,Desktop,Album,S-066,260
+E-00259,2026-01-15,Donnerstag,14:45,U-0141,Handy,Album,S-041,189
+E-00260,2026-01-15,Donnerstag,15:49,U-0176,Desktop,Playlist,S-092,16
+E-00261,2026-01-15,Donnerstag,16:35,U-0021,Handy,Playlist,S-005,190
+E-00262,2026-01-15,Donnerstag,17:23,U-0104,Handy,Autoplay,S-046,273
+E-00263,2026-01-15,Donnerstag,19:34,U-0001,Smart Speaker,Playlist,S-003,181
+E-00264,2026-01-15,Donnerstag,19:36,U-0189,Handy,Playlist,S-031,242
+E-00265,2026-01-15,Donnerstag,20:15,U-0068,Handy,Playlist,S-114,237
+E-00266,2026-01-15,Donnerstag,20:26,U-0045,Smart Speaker,Album,S-095,240
+E-00267,2026-01-15,Donnerstag,22:48,U-0028,Smart Speaker,Playlist,S-007,20
+E-00268,2026-01-16,Freitag,07:00,U-0170,Desktop,Album,S-119,25
+E-00269,2026-01-16,Freitag,07:24,U-0156,Desktop,Autoplay,S-066,142
+E-00270,2026-01-16,Freitag,08:01,U-0097,Handy,Album,S-105,202
+E-00271,2026-01-16,Freitag,08:17,U-0051,Handy,Playlist,S-078,208
+E-00272,2026-01-16,Freitag,09:43,U-0077,Handy,Album,S-052,18
+E-00273,2026-01-16,Freitag,11:36,U-0233,Handy,Suche,S-104,201
+E-00274,2026-01-16,Freitag,13:49,U-0038,Handy,Suche,S-062,302
+E-00275,2026-01-16,Freitag,14:23,U-0049,Smart Speaker,Playlist,S-029,181
+E-00276,2026-01-16,Freitag,15:17,U-0069,Handy,Playlist,S-114,391
+E-00277,2026-01-16,Freitag,16:26,U-0169,Desktop,Playlist,S-021,131
+E-00278,2026-01-16,Freitag,16:36,U-0200,Desktop,Album,S-079,184
+E-00279,2026-01-16,Freitag,17:40,U-0080,Smart Speaker,Playlist,S-066,260
+E-00280,2026-01-16,Freitag,18:04,U-0071,Smart Speaker,Autoplay,S-004,156
+E-00281,2026-01-16,Freitag,18:17,U-0098,Desktop,Autoplay,S-086,16
+E-00282,2026-01-16,Freitag,19:31,U-0107,Handy,Suche,S-023,114
+E-00283,2026-01-16,Freitag,19:37,U-0143,Smart Speaker,Playlist,S-037,226
+E-00284,2026-01-16,Freitag,20:00,U-0048,Tablet,Playlist,S-060,205
+E-00285,2026-01-16,Freitag,20:32,,Handy,Playlist,S-066,191
+E-00286,2026-01-16,Freitag,20:53,U-0132,Handy,Suche,S-096,196
+E-00287,2026-01-16,Freitag,21:07,U-0063,Handy,Playlist,S-001,223
+E-00288,2026-01-16,Freitag,21:13,U-0019,Desktop,Suche,S-023,52
+E-00289,2026-01-16,Freitag,22:01,U-0152,Handy,Autoplay,S-087,29
+E-00290,2026-01-17,Samstag,05:44,U-0104,Tablet,Autoplay,S-033,241
+E-00291,2026-01-17,Samstag,06:09,U-0170,Tablet,Album,S-058,327
+E-00292,2026-01-17,Samstag,08:12,U-0005,Desktop,Playlist,S-105,202
+E-00293,2026-01-17,Samstag,08:19,U-0170,Tablet,Autoplay,S-109,317
+E-00294,2026-01-17,Samstag,08:21,U-0037,Handy,Playlist,S-078,67
+E-00295,2026-01-17,Samstag,08:34,U-0084,Handy,Playlist,S-082,207
+E-00296,2026-01-17,Samstag,08:48,U-0107,Handy,Playlist,S-104,6
+E-00296,2026-01-17,Samstag,08:48,U-0107,Handy,Playlist,S-104,6
+E-00297,2026-01-17,Samstag,09:55,U-0084,Handy,Playlist,S-062,302
+E-00298,2026-01-17,Samstag,10:51,U-0178,Handy,Autoplay,S-032,180
+E-00299,2026-01-17,Samstag,12:20,U-0106,Handy,Playlist,S-073,223
+E-00300,2026-01-17,Samstag,12:27,U-0117,Smart Speaker,Playlist,S-057,308
+E-00301,2026-01-17,Samstag,12:59,U-0123,Handy,Album,S-068,16
+E-00302,2026-01-17,Samstag,13:01,U-0095,Handy,Suche,S-051,261
+E-00303,2026-01-17,Samstag,14:12,U-0021,Handy,Playlist,S-016,10
+E-00304,2026-01-17,Samstag,14:39,U-0032,Smart Speaker,Autoplay,S-090,19
+E-00305,2026-01-17,Samstag,15:52,U-0008,Handy,Suche,S-080,176
+E-00306,2026-01-17,Samstag,18:01,U-0059,Desktop,Suche,S-105,202
+E-00307,2026-01-17,Samstag,18:18,U-0176,Tablet,Playlist,S-001,223
+E-00308,2026-01-17,Samstag,18:39,U-0064,Handy,Playlist,S-036,114
+E-00309,2026-01-17,Samstag,18:52,U-0063,Desktop,Autoplay,S-114,8
+E-00310,2026-01-17,Samstag,19:06,U-0143,Tablet,Playlist,S-011,164
+E-00311,2026-01-17,Samstag,20:11,U-0110,Smart Speaker,Playlist,S-001,130
+E-00312,2026-01-17,Samstag,21:47,U-0013,Tablet,Suche,S-026,208
+E-00313,2026-01-17,Samstag,22:35,U-0103,Desktop,Playlist,S-078,123
+E-00314,2026-01-17,Samstag,22:45,U-0164,Smart Speaker,Album,S-056,57
+E-00315,2026-01-17,Samstag,23:01,U-0155,Smart Speaker,Playlist,S-080,115
+E-00316,2026-01-18,Sonntag,03:32,U-0037,Smart Speaker,Album,S-070,319
+E-00317,2026-01-18,Sonntag,06:23,U-0063,Handy,Playlist,S-062,152
+E-00318,2026-01-18,Sonntag,07:30,U-0072,Handy,Album,S-008,45
+E-00319,2026-01-18,Sonntag,08:08,U-0079,Handy,Autoplay,S-029,18
+E-00320,2026-01-18,Sonntag,08:50,U-0065,Handy,Autoplay,S-041,31
+E-00321,2026-01-18,Sonntag,10:10,U-0151,Tablet,Album,S-086,339
+E-00322,2026-01-18,Sonntag,10:55,U-0057,Handy,Autoplay,S-021,223
+E-00323,2026-01-18,Sonntag,10:56,U-0153,Tablet,Playlist,S-091,216
+E-00324,2026-01-18,Sonntag,13:10,U-0044,,Autoplay,S-009,223
+E-00325,2026-01-18,Sonntag,13:23,U-0111,Handy,Suche,S-011,10
+E-00326,2026-01-18,Sonntag,13:50,U-0114,Handy,Album,S-033,241
+E-00327,2026-01-18,Sonntag,15:02,U-0037,Desktop,Playlist,S-036,194
+E-00328,2026-01-18,Sonntag,16:01,U-0054,Handy,Playlist,S-109,68
+E-00329,2026-01-18,Sonntag,16:30,,Tablet,Autoplay,S-041,30
+E-00330,2026-01-18,Sonntag,17:32,U-0150,Smart Speaker,Autoplay,S-083,200
+E-00331,2026-01-18,Sonntag,18:17,U-0151,Smartphone,Playlist,S-043,157
+E-00332,2026-01-18,Sonntag,19:09,U-0083,Handy,Playlist,S-029,181
+E-00333,2026-01-18,Sonntag,19:18,U-0063,Handy,Playlist,S-018,113
+E-00334,2026-01-18,Sonntag,19:27,,Handy,Autoplay,S-041,13
+E-00335,2026-01-18,Sonntag,19:37,U-0149,Handy,Autoplay,S-013,29
+E-00336,2026-01-18,Sonntag,19:54,U-0061,Handy,Album,S-062,102
+E-00337,2026-01-18,Sonntag,20:23,U-0186,Tablet,Playlist,S-008,212
+E-00338,2026-01-18,Sonntag,21:01,U-0176,Handy,Autoplay,S-024,96
+E-00339,2026-01-18,Sonntag,21:06,U-0176,Handy,Playlist,S-004,156
+E-00340,2026-01-18,Sonntag,21:42,U-0010,Desktop,Suche,S-052,204
+E-00341,2026-01-18,Sonntag,22:01,U-0044,Smart Speaker,Playlist,S-063,298
+E-00342,2026-01-18,Sonntag,22:27,U-0173,Handy,Album,S-079,27
+E-00343,2026-01-18,Sonntag,22:31,U-0058,Smart Speaker,Album,S-028,195
+E-00344,2026-01-18,Sonntag,23:09,U-0047,handy,Playlist,S-116,271
+E-00345,2026-01-19,Montag,06:16,U-0181,Handy,Playlist,S-078,182
+E-00346,2026-01-19,Montag,07:30,U-0196,Handy,Playlist,S-044,160
+E-00347,2026-01-19,Montag,07:56,U-0052,Handy,Playlist,S-011,164
+E-00348,2026-01-19,Montag,08:10,U-0058,Handy,Autoplay,S-032,17
+E-00349,2026-01-19,Montag,08:46,U-0035,Handy,Album,S-107,301
+E-00350,2026-01-19,Montag,09:47,U-0007,Handy,Suche,S-035,169
+E-00351,2026-01-19,Montag,12:27,U-0183,Handy,Playlist,S-004,11
+E-00352,2026-01-19,Montag,13:42,U-0066,Desktop,Autoplay,S-004,13
+E-00353,2026-01-19,Montag,14:55,U-0192,Desktop,Suche,S-041,189
+E-00354,2026-01-19,Montag,15:20,U-0105,Desktop,Album,S-083,200
+E-00355,2026-01-19,Montag,18:05,U-0199,Smart Speaker,Album,S-021,10
+E-00356,2026-01-19,Montag,18:27,,Smart Speaker,Album,S-091,216
+E-00357,2026-01-19,Montag,18:30,U-0068,Desktop,Autoplay,S-088,237
+E-00358,2026-01-19,Montag,21:36,U-0118,Tablet,Suche,S-009,185
+E-00359,2026-01-19,Montag,21:38,U-0107,Smart Speaker,Playlist,S-011,164
+E-00360,2026-01-20,Dienstag,00:35,U-0105,Tablet,Playlist,S-087,354
+E-00361,2026-01-20,Dienstag,09:44,U-0113,Handy,Suche,S-057,308
+E-00362,2026-01-20,Dienstag,11:56,U-0177,Tablet,Suche,S-062,8
+E-00363,2026-01-20,Dienstag,12:15,U-0054,handy,Playlist,S-114,382
+E-00364,2026-01-20,Dienstag,13:04,U-0156,Desktop,Autoplay,S-031,29
+E-00365,2026-01-20,Dienstag,14:08,U-0048,Desktop,Playlist,S-103,257
+E-00366,2026-01-20,Dienstag,14:14,U-0034,Handy,Autoplay,S-085,253
+E-00367,2026-01-20,Dienstag,15:05,U-0096,Tablet,Playlist,S-070,10
+E-00368,2026-01-20,Dienstag,15:20,U-0059,Handy,Album,S-062,302
+E-00369,2026-01-20,Dienstag,16:20,U-0160,Smart Speaker,Playlist,S-031,93
+E-00370,2026-01-20,Dienstag,19:14,U-0153,Handy,Album,S-021,223
+E-00371,2026-01-20,Dienstag,20:20,U-0160,Handy,Autoplay,S-041,16
+E-00372,2026-01-20,Dienstag,20:25,U-0058,,Playlist,S-083,200
+E-00373,2026-01-20,Dienstag,21:37,U-0105,Handy,Playlist,S-078,6
+E-00374,2026-01-20,Dienstag,21:51,U-0102,Handy,Playlist,S-105,49
+E-00375,2026-01-20,Dienstag,23:24,,Smart Speaker,Autoplay,S-011,164
+E-00376,2026-01-20,Dienstag,23:25,U-0140,Handy,Autoplay,S-037,205
+E-00377,2026-01-20,Dienstag,23:48,U-0135,Handy,Autoplay,S-086,29
+E-00378,2026-01-21,Mittwoch,06:21,U-0200,Handy,Album,S-047,21
+E-00379,2026-01-21,Mittwoch,07:51,U-0137,Handy,Playlist,S-041,189
+E-00380,2026-01-21,Mittwoch,07:55,U-0069,Desktop,Playlist,S-003,181
+E-00381,2026-01-21,Mittwoch,09:40,U-0140,Desktop,Autoplay,S-080,14
+E-00382,2026-01-21,Mittwoch,11:30,U-0035,Handy,Album,S-088,7
+E-00383,2026-01-21,Mittwoch,11:46,U-0088,Desktop,Playlist,S-054,6
+E-00384,2026-01-21,Mittwoch,13:57,U-0139,Handy,Album,S-068,24
+E-00385,2026-01-21,Mittwoch,14:35,U-0035,Handy,Album,S-024,221
+E-00386,2026-01-21,Mittwoch,16:20,U-0065,Handy,Album,S-085,18
+E-00387,2026-01-21,Mittwoch,16:40,U-0119,handy,Album,S-031,27
+E-00388,2026-01-21,Mittwoch,16:47,U-0045,Desktop,Autoplay,S-096,10
+E-00389,2026-01-21,Mittwoch,17:35,U-0166,Handy,Album,S-070,119
+E-00390,2026-01-21,Mittwoch,18:00,U-0156,Handy,Autoplay,S-057,272
+E-00391,2026-01-21,Mittwoch,19:07,U-0185,Smart Speaker,Autoplay,S-041,189
+E-00392,2026-01-21,Mittwoch,20:00,U-0200,Handy,Album,S-023,173
+E-00393,2026-01-21,Mittwoch,20:23,U-0088,Desktop,Autoplay,S-105,3
+E-00394,2026-01-21,Mittwoch,20:31,U-0135,Desktop,Playlist,S-066,260
+E-00395,2026-01-21,Mittwoch,21:38,U-0147,Handy,Autoplay,S-070,28
+E-00396,2026-01-22,Donnerstag,06:21,U-0073,Smart Speaker,Playlist,S-007,7
+E-00397,2026-01-22,Donnerstag,07:56,U-0189,Handy,Playlist,S-004,156
+E-00398,2026-01-22,Donnerstag,08:24,U-0146,Handy,Autoplay,S-011,120
+E-00399,2026-01-22,Donnerstag,08:27,U-0070,Handy,Playlist,S-055,316
+E-00400,2026-01-22,Donnerstag,09:48,U-0033,Handy,Suche,S-062,118
+E-00401,2026-01-22,Donnerstag,14:17,U-0036,Desktop,Album,S-111,230
+E-00402,2026-01-22,Donnerstag,15:16,U-0086,Desktop,Suche,S-114,102
+E-00403,2026-01-22,Donnerstag,16:55,U-0058,Smart Speaker,Album,S-016,106
+E-00404,2026-01-22,Donnerstag,17:10,U-0170,Desktop,Suche,S-118,440
+E-00405,2026-01-22,Donnerstag,17:42,U-0105,Smart Speaker,Autoplay,S-068,9999
+E-00406,2026-01-22,Donnerstag,19:53,U-0163,Handy,Autoplay,S-103,3
+E-00407,2026-01-22,Donnerstag,20:24,U-0093,Tablet,Suche,S-082,207
+E-00408,2026-01-22,Donnerstag,21:33,U-0185,Smart Speaker,Suche,S-088,237
+E-00409,2026-01-22,Donnerstag,22:12,U-0011,Handy,Album,S-031,242
+E-00410,2026-01-22,Donnerstag,22:40,U-0032,Tablet,Playlist,S-073,223
+E-00411,2026-01-22,Donnerstag,22:50,,Handy,Album,S-066,260
+E-00412,2026-01-22,Donnerstag,23:51,U-0023,Desktop,Album,S-044,160
+E-00413,2026-01-23,Freitag,07:29,U-0063,Handy,Playlist,S-061,101
+E-00414,2026-01-23,Freitag,07:32,U-0083,Handy,Suche,S-011,164
+E-00415,2026-01-23,Freitag,07:33,U-0133,Desktop,Album,S-009,149
+E-00416,2026-01-23,Freitag,07:42,,Handy,Autoplay,S-046,273
+E-00417,2026-01-23,Freitag,08:37,U-0159,Smart Speaker,Playlist,S-109,317
+E-00418,2026-01-23,Freitag,08:51,U-0049,Tablet,Album,S-041,22
+E-00419,2026-01-23,Freitag,09:04,U-0118,Handy,Album,S-096,196
+E-00420,2026-01-23,Freitag,09:19,U-0199,Handy,Album,S-008,212
+E-00421,2026-01-23,Freitag,09:50,U-0140,Handy,Playlist,S-096,196
+E-00422,2026-01-23,Freitag,09:52,U-0031,Handy,Autoplay,S-026,29
+E-00423,2026-01-23,Freitag,10:35,U-0032,Desktop,Album,S-114,416
+E-00424,2026-01-23,Freitag,11:13,U-0061,Handy,Autoplay,S-101,22
+E-00425,2026-01-23,Freitag,11:36,U-0144,Desktop,Playlist,S-007,141
+E-00426,2026-01-23,Freitag,11:54,U-0118,Smart Speaker,Autoplay,S-056,19
+E-00427,2026-01-23,Freitag,12:50,U-0118,Handy,Playlist,S-059,81
+E-00428,2026-01-23,Freitag,13:02,U-0111,Handy,Playlist,S-011,112
+E-00428,2026-01-23,Freitag,13:02,U-0111,Handy,Playlist,S-011,112
+E-00429,2026-01-23,Freitag,15:04,U-0065,Tablet,Playlist,S-091,216
+E-00430,2026-01-23,Freitag,15:11,U-0070,Desktop,Playlist,S-096,196
+E-00431,2026-01-23,Freitag,15:19,U-0117,Desktop,Playlist,S-105,202
+E-00432,2026-01-23,Freitag,15:31,U-0061,Desktop,Suche,S-086,27
+E-00433,2026-01-23,Freitag,17:46,U-0124,Handy,Suche,S-036,194
+E-00434,2026-01-23,Freitag,17:47,U-0178,Handy,Playlist,S-084,33
+E-00435,2026-01-23,Freitag,18:29,U-0114,Handy,Suche,S-075,356
+E-00436,2026-01-23,Freitag,19:28,U-0181,Handy,Suche,S-070,143
+E-00437,2026-01-23,Freitag,20:03,U-0155,Handy,Autoplay,S-011,136
+E-00438,2026-01-23,Freitag,20:49,U-0077,Handy,Playlist,S-105,27
+E-00439,2026-01-23,Freitag,21:17,U-0063,Tablet,Suche,S-004,156
+E-00440,2026-01-23,Freitag,22:09,U-0139,Handy,Album,S-073,12
+E-00441,2026-01-23,Freitag,22:40,U-0032,Handy,Album,S-007,210
+E-00442,2026-01-23,Freitag,23:21,U-0112,Handy,Playlist,S-057,308
+E-00443,2026-01-23,Freitag,23:27,U-0142,Handy,Playlist,S-069,10
+E-00444,2026-01-23,Freitag,23:50,,Handy,Album,S-096,48
+E-00445,2026-01-23,Freitag,23:58,U-0126,Desktop,Album,S-031,242
+E-00446,2026-01-24,Samstag,01:24,U-0083,Smart Speaker,Album,S-104,107
+E-00447,2026-01-24,Samstag,06:06,U-0116,Handy,Autoplay,S-114,291
+E-00448,2026-01-24,Samstag,06:24,U-0010,Handy,Playlist,S-055,169
+E-00449,2026-01-24,Samstag,07:31,U-0181,Handy,Playlist,S-085,180
+E-00450,2026-01-24,Samstag,07:34,U-0056,Handy,Playlist,S-103,257
+E-00451,2026-01-24,Samstag,07:41,U-0125,Tablet,Playlist,S-078,127
+E-00452,2026-01-24,Samstag,08:19,U-0207,Handy,Autoplay,S-111,53
+E-00453,2026-01-24,Samstag,08:35,U-0070,Desktop,Suche,S-031,242
+E-00454,2026-01-24,Samstag,08:36,U-0132,Handy,Album,S-024,221
+E-00455,2026-01-24,Samstag,08:53,U-0108,Handy,Autoplay,S-029,7
+E-00456,2026-01-24,Samstag,11:45,U-0042,Handy,Playlist,S-096,22
+E-00457,2026-01-24,Samstag,12:08,U-0059,Handy,Album,S-011,164
+E-00458,2026-01-24,Samstag,14:03,U-0008,Desktop,Playlist,S-011,164
+E-00459,2026-01-24,Samstag,14:11,U-0081,Desktop,Playlist,S-011,164
+E-00460,2026-01-24,Samstag,17:30,U-0026,Smart Speaker,Suche,S-011,164
+E-00461,2026-01-24,Samstag,18:12,U-0192,Tablet,Autoplay,S-019,163
+E-00462,2026-01-24,Samstag,18:16,U-0176,Tablet,Suche,S-037,137
+E-00463,2026-01-24,Samstag,19:37,,Smart Speaker,Playlist,S-031,3
+E-00464,2026-01-24,Samstag,19:51,U-0001,Smart Speaker,Autoplay,S-041,189
+E-00465,2026-01-24,Samstag,20:51,U-0058,Tablet,Playlist,S-031,242
+E-00466,2026-01-24,Samstag,22:12,U-0038,Handy,Playlist,S-040,57
+E-00467,2026-01-25,Sonntag,05:34,U-0015,Smart Speaker,Suche,S-011,164
+E-00468,2026-01-25,Sonntag,06:11,U-0036,Handy,Playlist,S-037,181
+E-00469,2026-01-25,Sonntag,08:17,U-0030,Handy,Suche,S-103,257
+E-00470,2026-01-25,Sonntag,08:45,U-0032,Tablet,Playlist,S-029,181
+E-00471,2026-01-25,Sonntag,10:15,U-0083,Tablet,Playlist,S-011,164
+E-00472,2026-01-25,Sonntag,11:27,U-0135,Handy,Playlist,S-088,20
+E-00473,2026-01-25,Sonntag,12:38,U-0032,Desktop,Playlist,S-021,93
+E-00474,2026-01-25,Sonntag,16:33,U-0102,Tablet,Suche,S-019,9
+E-00475,2026-01-25,Sonntag,17:12,U-0170,Handy,Suche,S-109,7
+E-00476,2026-01-25,Sonntag,17:21,U-0117,Handy,Album,S-097,195
+E-00477,2026-01-25,Sonntag,17:42,U-0026,Smart Speaker,Autoplay,S-021,14
+E-00478,2026-01-25,Sonntag,18:06,U-0011,Handy,Playlist,S-036,77
+E-00479,2026-01-25,Sonntag,18:35,U-0083,Handy,Album,S-118,226
+E-00480,2026-01-25,Sonntag,19:46,U-0088,Handy,Album,S-011,164
+E-00481,2026-01-25,Sonntag,20:02,U-0021,Handy,Suche,S-041,189
+E-00482,2026-01-25,Sonntag,20:07,U-0128,Smart Speaker,Album,S-062,302
+E-00483,2026-01-25,Sonntag,20:18,U-0066,Smart Speaker,Autoplay,S-031,242
+E-00484,2026-01-25,Sonntag,20:31,U-0069,Smart Speaker,Playlist,S-062,97
+E-00485,2026-01-25,Sonntag,21:14,U-0182,Smart Speaker,Album,S-007,210
+E-00486,2026-01-25,Sonntag,21:30,U-0117,Smart Speaker,Playlist,S-055,316
+E-00487,2026-01-25,Sonntag,21:50,U-0068,Handy,Suche,S-011,164
+E-00488,2026-01-25,Sonntag,21:52,U-0021,Handy,Playlist,S-011,164
+E-00489,2026-01-26,Montag,00:46,U-0031,Tablet,Playlist,S-004,156
+E-00490,2026-01-26,Montag,06:16,U-0121,Desktop,Suche,S-011,164
+E-00491,2026-01-26,Montag,07:01,U-0191,Handy,Album,S-051,261
+E-00492,2026-01-26,Montag,07:40,U-0207,Desktop,Autoplay,S-016,99
+E-00493,2026-01-26,Montag,07:46,U-0152,Handy,Album,S-001,14
+E-00494,2026-01-26,Montag,08:57,U-0058,Handy,Album,S-033,241
+E-00495,2026-01-26,Montag,09:33,U-0077,Handy,Playlist,S-105,202
+E-00496,2026-01-26,Montag,09:48,U-0088,,Playlist,S-058,327
+E-00497,2026-01-26,Montag,10:24,U-0040,Smartphone,Playlist,S-009,223
+E-00498,2026-01-26,Montag,11:27,U-0156,Handy,Suche,S-031,242
+E-00499,2026-01-26,Montag,11:35,U-0052,Tablet,Playlist,S-011,164
+E-00500,2026-01-26,Montag,13:47,U-0105,Handy,Playlist,S-005,117
+E-00501,2026-01-26,Montag,16:26,U-0112,Handy,Suche,S-011,57
+E-00502,2026-01-26,Montag,17:36,U-0138,Handy,Suche,S-085,253
+E-00503,2026-01-26,Montag,18:16,U-0200,Handy,Playlist,S-041,10
+E-00504,2026-01-26,Montag,19:49,U-0072,Tablet,Album,S-020,162
+E-00505,2026-01-26,Montag,22:00,U-0106,Smart Speaker,Playlist,S-078,208
+E-00506,2026-01-26,Montag,22:26,U-0111,Handy,Album,S-068,184
+E-00507,2026-01-26,Montag,22:37,U-0122,Tablet,Suche,S-041,189
+E-00508,2026-01-26,Montag,23:36,U-0023,Smart Speaker,Album,S-061,318
+E-00509,2026-01-27,Dienstag,04:22,U-0110,Handy,Autoplay,S-024,9999
+E-00510,2026-01-27,Dienstag,05:41,U-0037,Handy,Album,S-094,211
+E-00511,2026-01-27,Dienstag,07:21,U-0070,Desktop,Suche,S-119,331
+E-00512,2026-01-27,Dienstag,07:34,,Handy,Playlist,S-031,22
+E-00513,2026-01-27,Dienstag,08:39,U-0151,Handy,Suche,S-053,248
+E-00514,2026-01-27,Dienstag,08:53,U-0025,Desktop,Playlist,S-062,215
+E-00515,2026-01-27,Dienstag,09:32,U-0023,Handy,Playlist,S-060,53
+E-00516,2026-01-27,Dienstag,09:52,U-0158,,Autoplay,S-076,26
+E-00517,2026-01-27,Dienstag,10:13,U-0165,Desktop,Suche,S-021,223
+E-00518,2026-01-27,Dienstag,12:57,U-0073,Desktop,Autoplay,S-107,10
+E-00519,2026-01-27,Dienstag,13:42,U-0132,Desktop,Album,S-044,36
+E-00520,2026-01-27,Dienstag,13:52,U-0045,Handy,Playlist,S-033,241
+E-00521,2026-01-27,Dienstag,14:10,U-0194,Handy,Playlist,S-023,173
+E-00522,2026-01-27,Dienstag,14:50,U-0111,Handy,Playlist,S-077,242
+E-00523,2026-01-27,Dienstag,15:26,U-0049,Desktop,Playlist,S-011,164
+E-00524,2026-01-27,Dienstag,15:33,U-0166,Smart Speaker,Playlist,S-024,221
+E-00525,2026-01-27,Dienstag,16:14,U-0015,handy,Playlist,S-011,164
+E-00526,2026-01-27,Dienstag,18:25,U-0156,Handy,Suche,S-080,27
+E-00527,2026-01-27,Dienstag,19:12,U-0031,Handy,Album,S-024,117
+E-00528,2026-01-27,Dienstag,19:22,U-0176,Tablet,Playlist,S-082,116
+E-00529,2026-01-27,Dienstag,19:43,U-0043,Handy,Playlist,S-049,221
+E-00530,2026-01-27,Dienstag,20:46,U-0039,Smart Speaker,Playlist,S-041,189
+E-00531,2026-01-27,Dienstag,20:51,U-0105,Desktop,Playlist,S-062,225
+E-00532,2026-01-27,Dienstag,21:28,U-0063,Smart Speaker,Playlist,S-001,9
+E-00533,2026-01-28,Mittwoch,06:45,U-0088,Handy,Playlist,S-004,13
+E-00534,2026-01-28,Mittwoch,06:57,U-0097,Handy,Album,S-105,27
+E-00535,2026-01-28,Mittwoch,07:09,,Handy,Autoplay,S-046,33
+E-00536,2026-01-28,Mittwoch,07:18,U-0006,Handy,Album,S-063,298
+E-00537,2026-01-28,Mittwoch,08:26,U-0045,Desktop,Autoplay,S-096,184
+E-00538,2026-01-28,Mittwoch,08:46,U-0138,handy,Autoplay,S-033,155
+E-00539,2026-01-28,Mittwoch,08:51,U-0095,Handy,Playlist,S-061,318
+E-00540,2026-01-28,Mittwoch,08:57,U-0007,Handy,Album,S-041,189
+E-00541,2026-01-28,Mittwoch,10:16,U-0030,Desktop,Suche,S-007,210
+E-00542,2026-01-28,Mittwoch,10:38,U-0106,Handy,Playlist,S-018,10
+E-00543,2026-01-28,Mittwoch,11:30,U-0107,Tablet,Suche,S-105,28
+E-00544,2026-01-28,Mittwoch,14:34,U-0133,Handy,Autoplay,S-001,14
+E-00545,2026-01-28,Mittwoch,15:07,U-0063,Handy,Playlist,S-021,223
+E-00546,2026-01-28,Mittwoch,15:45,U-0004,Handy,Playlist,S-047,18
+E-00547,2026-01-28,Mittwoch,16:24,U-0095,Handy,Playlist,S-057,308
+E-00548,2026-01-28,Mittwoch,17:25,U-0061,Handy,Playlist,S-038,80
+E-00549,2026-01-28,Mittwoch,17:42,U-0153,Tablet,Album,S-030,125
+E-00550,2026-01-28,Mittwoch,18:23,U-0051,Handy,Playlist,S-062,302
+E-00551,2026-01-28,Mittwoch,18:25,U-0193,Handy,Playlist,S-060,205
+E-00552,2026-01-28,Mittwoch,18:57,U-0156,Desktop,Playlist,S-085,112
+E-00553,2026-01-28,Mittwoch,19:34,U-0013,Desktop,Album,S-023,115
+E-00554,2026-01-28,Mittwoch,19:47,,Tablet,Playlist,S-096,196
+E-00555,2026-01-28,Mittwoch,20:39,U-0005,Desktop,Playlist,S-102,33
+E-00556,2026-01-28,Mittwoch,22:52,U-0043,Handy,Playlist,S-062,23
+E-00557,2026-01-28,Mittwoch,23:29,U-0172,Tablet,Autoplay,S-096,11
+E-00558,2026-01-29,Donnerstag,07:14,U-0031,Smart Speaker,Playlist,S-096,196
+E-00559,2026-01-29,Donnerstag,07:17,U-0026,Handy,Album,S-072,22
+E-00560,2026-01-29,Donnerstag,07:35,,Handy,Playlist,S-031,16
+E-00561,2026-01-29,Donnerstag,08:54,,Smart Speaker,Playlist,S-004,156
+E-00562,2026-01-29,Donnerstag,10:04,U-0056,Desktop,Playlist,S-062,302
+E-00563,2026-01-29,Donnerstag,10:16,U-0170,Handy,Suche,S-096,196
+E-00564,2026-01-29,Donnerstag,11:12,U-0063,Handy,Playlist,S-107,284
+E-00565,2026-01-29,Donnerstag,12:31,U-0025,Handy,Autoplay,S-007,13
+E-00566,2026-01-29,Donnerstag,12:49,U-0166,Desktop,Album,S-096,76
+E-00567,2026-01-29,Donnerstag,13:12,U-0099,Desktop,Playlist,S-028,19
+E-00568,2026-01-29,Donnerstag,17:00,U-0176,Smart Speaker,Playlist,S-098,257
+E-00569,2026-01-29,Donnerstag,17:49,U-0107,Handy,Playlist,S-075,356
+E-00570,2026-01-29,Donnerstag,18:13,U-0189,handy,Suche,S-011,164
+E-00571,2026-01-29,Donnerstag,18:43,U-0164,Tablet,Playlist,S-109,317
+E-00572,2026-01-29,Donnerstag,19:17,U-0161,Handy,Playlist,S-041,189
+E-00573,2026-01-29,Donnerstag,19:47,U-0118,,Album,S-011,164
+E-00574,2026-01-29,Donnerstag,20:25,U-0011,Handy,Autoplay,S-035,71
+E-00575,2026-01-29,Donnerstag,20:26,U-0117,Handy,Suche,S-094,132
+E-00576,2026-01-30,Freitag,09:03,U-0068,Handy,Autoplay,S-024,221
+E-00577,2026-01-30,Freitag,09:27,U-0162,Desktop,Playlist,S-011,164
+E-00578,2026-01-30,Freitag,10:49,U-0156,Handy,Playlist,S-083,3
+E-00579,2026-01-30,Freitag,12:29,U-0005,Handy,Playlist,S-088,237
+E-00580,2026-01-30,Freitag,12:59,U-0049,Desktop,Album,S-070,10
+E-00581,2026-01-30,Freitag,13:53,U-0062,Desktop,Autoplay,S-057,23
+E-00582,2026-01-30,Freitag,14:03,U-0160,Desktop,Playlist,S-021,223
+E-00583,2026-01-30,Freitag,14:09,U-0054,Handy,Playlist,S-047,264
+E-00584,2026-01-30,Freitag,16:38,U-0152,Handy,Autoplay,S-070,319
+E-00585,2026-01-30,Freitag,16:48,U-0010,Desktop,Playlist,S-031,242
+E-00586,2026-01-30,Freitag,16:57,U-0012,Tablet,Album,S-053,248
+E-00587,2026-01-30,Freitag,17:08,U-0033,Handy,Playlist,S-053,248
+E-00588,2026-01-30,Freitag,17:37,U-0060,Handy,Autoplay,S-041,23
+E-00589,2026-01-30,Freitag,18:01,U-0060,Tablet,Autoplay,S-069,5
+E-00590,2026-01-30,Freitag,18:40,U-0032,Smart Speaker,Suche,S-100,256
+E-00591,2026-01-30,Freitag,19:00,U-0073,Smart Speaker,Album,S-062,302
+E-00592,2026-01-30,Freitag,19:38,U-0054,Smart Speaker,Autoplay,S-055,148
+E-00593,2026-01-30,Freitag,19:50,U-0116,Tablet,Autoplay,S-049,138
+E-00594,2026-01-30,Freitag,21:02,U-0107,Desktop,Autoplay,S-032,239
+E-00595,2026-01-30,Freitag,21:15,U-0133,Handy,Autoplay,S-011,164
+E-00596,2026-01-30,Freitag,21:47,U-0063,Smart Speaker,Playlist,S-011,164
+E-00597,2026-01-30,Freitag,21:58,U-0141,Handy,Playlist,S-078,67
+E-00598,2026-01-30,Freitag,22:16,U-0063,Handy,Suche,S-083,200
+E-00599,2026-01-30,Freitag,22:34,U-0039,Handy,Suche,S-031,242
+E-00600,2026-01-30,Freitag,22:36,U-0132,Handy,Autoplay,S-055,316
+E-00601,2026-01-30,Freitag,22:52,U-0060,Handy,Playlist,S-004,12
+E-00602,2026-01-31,Samstag,00:06,U-0096,Handy,Autoplay,S-047,77
+E-00603,2026-01-31,Samstag,02:32,U-0141,Tablet,Autoplay,S-072,296
+E-00604,2026-01-31,Samstag,06:07,,Handy,Autoplay,S-016,17
+E-00605,2026-01-31,Samstag,06:39,U-0025,Handy,Playlist,S-067,172
+E-00606,2026-01-31,Samstag,08:22,U-0160,Desktop,Autoplay,S-021,223
+E-00607,2026-01-31,Samstag,08:33,,Tablet,Suche,S-050,332
+E-00608,2026-01-31,Samstag,08:51,,handy,Autoplay,S-041,189
+E-00609,2026-01-31,Samstag,09:27,U-0189,Handy,Album,S-036,194
+E-00610,2026-01-31,Samstag,10:02,U-0007,Smart Speaker,Playlist,S-096,196
+E-00611,2026-01-31,Samstag,11:13,U-0173,Handy,Suche,S-103,60
+E-00612,2026-01-31,Samstag,13:25,U-0077,Handy,Autoplay,S-066,5
+E-00613,2026-01-31,Samstag,13:37,U-0037,Handy,Playlist,S-011,38
+E-00614,2026-01-31,Samstag,14:00,U-0170,Handy,Suche,S-065,223
+E-00615,2026-01-31,Samstag,14:47,U-0086,Handy,Suche,S-062,302
+E-00616,2026-01-31,Samstag,15:20,U-0041,Handy,Playlist,S-022,157
+E-00617,2026-01-31,Samstag,16:11,U-0069,Handy,Playlist,S-014,50
+E-00618,2026-01-31,Samstag,16:25,U-0171,Desktop,Autoplay,S-086,16
+E-00619,2026-01-31,Samstag,16:45,U-0151,Desktop,Album,S-036,141
+E-00620,2026-01-31,Samstag,17:01,U-0143,Smart Speaker,Playlist,S-103,257
+E-00621,2026-01-31,Samstag,17:40,U-0060,Handy,Playlist,S-096,84
+E-00622,2026-01-31,Samstag,18:45,U-0143,Smart Speaker,Album,S-079,237
+E-00623,2026-01-31,Samstag,18:53,U-0143,Handy,Suche,S-007,95
+E-00624,2026-01-31,Samstag,19:20,U-0115,Smart Speaker,Autoplay,S-047,107
+E-00625,2026-01-31,Samstag,19:37,U-0063,Tablet,Autoplay,S-026,90
+E-00626,2026-01-31,Samstag,20:14,U-0112,Desktop,Autoplay,S-042,9999
+E-00627,2026-01-31,Samstag,20:42,U-0026,Tablet,Playlist,S-096,88
+E-00628,2026-01-31,Samstag,20:44,U-0176,,Playlist,S-105,202
+E-00629,2026-01-31,Samstag,20:47,U-0143,Handy,Album,S-026,245
+E-00630,2026-01-31,Samstag,20:55,U-0189,Smartphone,Suche,S-019,163
+E-00631,2026-01-31,Samstag,21:55,U-0064,Tablet,Suche,S-036,194
+E-00632,2026-01-31,Samstag,21:58,U-0084,Handy,Album,S-041,189
+E-00633,2026-01-31,Samstag,22:15,U-0041,Desktop,Autoplay,S-001,109
+E-00634,2026-01-31,Samstag,22:58,U-0058,handy,Playlist,S-041,16
+E-00635,2026-02-01,Sonntag,06:26,U-0040,Handy,Album,S-031,27
+E-00636,2026-02-01,Sonntag,08:05,U-0150,Handy,Playlist,S-076,111
+E-00637,2026-02-01,Sonntag,08:30,U-0073,Handy,Playlist,S-087,354
+E-00638,2026-02-01,Sonntag,08:46,U-0063,Handy,Playlist,S-011,35
+E-00639,2026-02-01,Sonntag,10:34,U-0151,Handy,Playlist,S-032,239
+E-00640,2026-02-01,Sonntag,11:11,U-0159,Tablet,Playlist,S-014,201
+E-00641,2026-02-01,Sonntag,13:15,U-0152,Tablet,Autoplay,S-046,162
+E-00642,2026-02-01,Sonntag,16:01,U-0158,Handy,Playlist,S-022,102
+E-00643,2026-02-01,Sonntag,16:43,U-0189,Handy,Album,S-021,22
+E-00644,2026-02-01,Sonntag,18:34,U-0098,Tablet,Album,S-087,226
+E-00645,2026-02-01,Sonntag,19:58,U-0188,handy,Playlist,S-044,109
+E-00646,2026-02-01,Sonntag,20:22,U-0160,Smart Speaker,Suche,S-019,135
+E-00647,2026-02-01,Sonntag,20:24,U-0023,Tablet,Autoplay,S-103,21
+E-00648,2026-02-01,Sonntag,20:25,U-0110,Handy,Playlist,S-053,144
+E-00649,2026-02-01,Sonntag,20:52,U-0158,Tablet,Playlist,S-078,70
+E-00650,2026-02-01,Sonntag,21:16,U-0176,Smart Speaker,Album,S-011,20
+E-00651,2026-02-01,Sonntag,22:18,U-0164,Smart Speaker,Playlist,S-026,135
+E-00652,2026-02-01,Sonntag,23:13,U-0077,Smart Speaker,Playlist,S-050,332
+E-00653,2026-02-02,Montag,08:09,U-0043,Handy,Autoplay,S-066,92
+E-00654,2026-02-02,Montag,09:47,U-0105,Desktop,Suche,S-058,29
+E-00655,2026-02-02,Montag,10:12,U-0040,Desktop,Suche,S-003,46
+E-00656,2026-02-02,Montag,10:32,U-0175,Handy,Autoplay,S-004,156
+E-00657,2026-02-02,Montag,10:44,U-0151,Handy,Suche,S-041,159
+E-00658,2026-02-02,Montag,11:00,U-0116,Desktop,Playlist,S-037,226
+E-00659,2026-02-02,Montag,11:45,U-0167,Desktop,Playlist,S-023,173
+E-00660,2026-02-02,Montag,13:04,U-0036,Handy,Album,S-058,327
+E-00661,2026-02-02,Montag,18:48,U-0023,Tablet,Playlist,S-041,189
+E-00662,2026-02-02,Montag,19:12,U-0105,Smart Speaker,Playlist,S-020,162
+E-00663,2026-02-02,Montag,19:15,U-0029,Handy,Suche,S-029,181
+E-00664,2026-02-02,Montag,19:26,U-0190,Handy,Playlist,S-114,416
+E-00665,2026-02-02,Montag,19:45,U-0018,Desktop,Autoplay,S-041,12
+E-00666,2026-02-02,Montag,19:55,U-0049,Desktop,Playlist,S-070,319
+E-00667,2026-02-02,Montag,20:17,U-0040,Tablet,Album,S-004,156
+E-00668,2026-02-02,Montag,20:27,U-0151,Tablet,Autoplay,S-023,25
+E-00669,2026-02-02,Montag,20:31,U-0108,Handy,Autoplay,S-004,26
+E-00670,2026-02-02,Montag,20:53,U-0105,Smart Speaker,Album,S-024,221
+E-00671,2026-02-02,Montag,22:09,U-0162,Handy,Playlist,S-088,149
+E-00672,2026-02-02,Montag,22:27,U-0144,Handy,Playlist,S-061,6
+E-00673,2026-02-02,Montag,22:38,U-0011,Smart Speaker,Autoplay,S-092,156
+E-00674,2026-02-02,Montag,23:09,U-0066,Handy,Autoplay,S-057,308
+E-00675,2026-02-03,Dienstag,02:20,U-0037,Tablet,Album,S-004,156
+E-00676,2026-02-03,Dienstag,07:10,U-0151,Handy,Suche,S-100,199
+E-00677,2026-02-03,Dienstag,07:15,U-0079,Handy,Autoplay,S-078,13
+E-00678,2026-02-03,Dienstag,07:23,U-0023,,Suche,S-028,195
+E-00679,2026-02-03,Dienstag,07:39,U-0079,Handy,Autoplay,S-062,4
+E-00680,2026-02-03,Dienstag,09:41,,Handy,Suche,S-011,144
+E-00681,2026-02-03,Dienstag,10:13,U-0097,Desktop,Playlist,S-062,302
+E-00682,2026-02-03,Dienstag,11:08,U-0033,Handy,Playlist,S-067,126
+E-00683,2026-02-03,Dienstag,12:06,U-0005,Handy,Suche,S-005,20
+E-00684,2026-02-03,Dienstag,13:29,U-0056,Handy,Playlist,S-011,74
+E-00685,2026-02-03,Dienstag,13:49,U-0107,Handy,Autoplay,S-011,15
+E-00686,2026-02-03,Dienstag,14:23,U-0077,Desktop,Suche,S-054,301
+E-00687,2026-02-03,Dienstag,17:20,U-0052,Desktop,Playlist,S-082,88
+E-00688,2026-02-03,Dienstag,18:29,U-0073,Smart Speaker,Playlist,S-093,211
+E-00689,2026-02-03,Dienstag,19:04,U-0176,Smart Speaker,Autoplay,S-004,10
+E-00690,2026-02-03,Dienstag,19:06,U-0161,,Album,S-088,237
+E-00691,2026-02-03,Dienstag,19:10,U-0135,Desktop,Autoplay,S-010,57
+E-00692,2026-02-03,Dienstag,19:30,U-0049,Smart Speaker,Playlist,S-011,102
+E-00693,2026-02-03,Dienstag,21:15,U-0022,Handy,Autoplay,S-022,124
+E-00694,2026-02-03,Dienstag,21:57,U-0053,Tablet,Playlist,S-088,237
+E-00695,2026-02-03,Dienstag,22:06,U-0108,Smart Speaker,Autoplay,S-096,40
+E-00696,2026-02-04,Mittwoch,00:48,U-0141,Handy,Playlist,S-062,302
+E-00697,2026-02-04,Mittwoch,01:37,U-0103,Tablet,Autoplay,S-004,156
+E-00698,2026-02-04,Mittwoch,06:20,U-0186,Handy,Album,S-031,242
+E-00699,2026-02-04,Mittwoch,07:10,U-0105,Handy,Playlist,S-078,208
+E-00700,2026-02-04,Mittwoch,07:27,U-0058,Handy,Playlist,S-096,196
+E-00701,2026-02-04,Mittwoch,09:13,U-0164,Handy,Autoplay,S-057,244
+E-00702,2026-02-04,Mittwoch,09:39,U-0010,Handy,Playlist,S-011,164
+E-00703,2026-02-04,Mittwoch,11:05,U-0038,Desktop,Playlist,S-070,169
+E-00704,2026-02-04,Mittwoch,11:57,U-0149,Desktop,Playlist,S-090,94
+E-00705,2026-02-04,Mittwoch,12:22,U-0158,Handy,Suche,S-062,302
+E-00706,2026-02-04,Mittwoch,13:07,U-0049,Desktop,Playlist,S-097,195
+E-00707,2026-02-04,Mittwoch,16:10,U-0018,Desktop,Playlist,S-086,9
+E-00708,2026-02-04,Mittwoch,16:15,U-0058,Smart Speaker,Autoplay,S-078,208
+E-00709,2026-02-04,Mittwoch,17:03,U-0141,Handy,Playlist,S-057,308
+E-00710,2026-02-04,Mittwoch,17:41,,Tablet,Playlist,S-062,302
+E-00711,2026-02-04,Mittwoch,18:17,U-0168,Desktop,Playlist,S-023,23
+E-00712,2026-02-04,Mittwoch,20:08,U-0170,Tablet,Autoplay,S-058,25
+E-00713,2026-02-04,Mittwoch,21:09,U-0103,Desktop,Album,S-105,202
+E-00714,2026-02-04,Mittwoch,21:14,U-0091,Handy,Playlist,S-070,319
+E-00715,2026-02-05,Donnerstag,01:18,U-0087,Handy,Playlist,S-013,11
+E-00716,2026-02-05,Donnerstag,07:21,U-0111,Handy,Suche,S-031,242
+E-00717,2026-02-05,Donnerstag,07:29,U-0092,Handy,Album,S-062,15
+E-00718,2026-02-05,Donnerstag,07:30,U-0161,,Album,S-036,98
+E-00719,2026-02-05,Donnerstag,07:36,U-0010,Handy,Playlist,S-041,133
+E-00720,2026-02-05,Donnerstag,07:39,U-0048,Handy,Playlist,S-100,256
+E-00721,2026-02-05,Donnerstag,07:49,U-0031,,Playlist,S-031,242
+E-00722,2026-02-05,Donnerstag,08:42,U-0182,Handy,Album,S-048,115
+E-00723,2026-02-05,Donnerstag,08:53,,Desktop,Playlist,S-021,192
+E-00724,2026-02-05,Donnerstag,09:38,U-0170,Smart Speaker,Suche,S-052,113
+E-00725,2026-02-05,Donnerstag,12:23,U-0122,Desktop,Suche,S-038,207
+E-00726,2026-02-05,Donnerstag,16:43,U-0194,Desktop,Playlist,S-085,56
+E-00727,2026-02-05,Donnerstag,17:09,U-0132,Tablet,Album,S-086,339
+E-00728,2026-02-05,Donnerstag,18:35,U-0058,Handy,Suche,S-042,78
+E-00729,2026-02-05,Donnerstag,19:00,U-0140,Tablet,Album,S-038,207
+E-00730,2026-02-05,Donnerstag,20:44,U-0112,Smart Speaker,Playlist,S-021,62
+E-00731,2026-02-05,Donnerstag,22:08,U-0142,Handy,Playlist,S-036,120
+E-00732,2026-02-05,Donnerstag,22:54,U-0125,Handy,Playlist,S-024,221
+E-00733,2026-02-06,Freitag,08:35,U-0001,Handy,Playlist,S-052,40
+E-00734,2026-02-06,Freitag,08:41,,Handy,Suche,S-083,117
+E-00735,2026-02-06,Freitag,08:57,U-0023,Handy,Playlist,S-019,163
+E-00736,2026-02-06,Freitag,10:45,U-0068,Desktop,Autoplay,S-070,319
+E-00737,2026-02-06,Freitag,10:56,U-0065,Handy,Playlist,S-040,32
+E-00738,2026-02-06,Freitag,11:12,U-0044,Desktop,Playlist,S-005,205
+E-00739,2026-02-06,Freitag,13:26,U-0169,Handy,Playlist,S-027,93
+E-00740,2026-02-06,Freitag,14:27,U-0107,Smart Speaker,Playlist,S-070,319
+E-00741,2026-02-06,Freitag,16:12,U-0138,Tablet,Playlist,S-096,103
+E-00742,2026-02-06,Freitag,16:31,U-0006,Desktop,Album,S-105,109
+E-00743,2026-02-06,Freitag,17:22,U-0170,Tablet,Playlist,S-035,18
+E-00744,2026-02-06,Freitag,17:44,U-0151,Handy,Playlist,S-090,38
+E-00745,2026-02-06,Freitag,17:45,U-0015,Smart Speaker,Album,S-103,34
+E-00746,2026-02-06,Freitag,17:54,U-0111,Smart Speaker,Playlist,S-109,19
+E-00747,2026-02-06,Freitag,19:15,U-0077,Desktop,Album,S-096,23
+E-00748,2026-02-06,Freitag,19:26,U-0118,Tablet,Playlist,S-066,198
+E-00749,2026-02-06,Freitag,19:39,U-0034,Smart Speaker,Album,S-050,332
+E-00750,2026-02-06,Freitag,20:31,U-0088,Handy,Playlist,S-037,226
+E-00751,2026-02-06,Freitag,20:41,U-0036,Smart Speaker,Playlist,S-114,23
+E-00752,2026-02-06,Freitag,20:53,U-0020,Handy,Autoplay,S-091,15
+E-00753,2026-02-06,Freitag,21:12,U-0145,Handy,Suche,S-062,302
+E-00754,2026-02-06,Freitag,21:30,U-0096,Tablet,Playlist,S-019,163
+E-00755,2026-02-06,Freitag,22:34,U-0010,Desktop,Playlist,S-041,27
+E-00756,2026-02-06,Freitag,23:57,U-0020,Tablet,Autoplay,S-011,131
+E-00757,2026-02-07,Samstag,07:39,U-0108,Handy,Playlist,S-021,153
+E-00758,2026-02-07,Samstag,09:42,U-0108,Tablet,Suche,S-114,7
+E-00759,2026-02-07,Samstag,09:51,U-0049,Handy,Album,S-039,174
+E-00760,2026-02-07,Samstag,10:12,U-0068,Desktop,Album,S-024,51
+E-00761,2026-02-07,Samstag,10:26,U-0105,Handy,Playlist,S-120,442
+E-00762,2026-02-07,Samstag,11:40,U-0021,Smart Speaker,Autoplay,S-007,61
+E-00763,2026-02-07,Samstag,12:54,U-0058,Tablet,Playlist,S-062,302
+E-00764,2026-02-07,Samstag,14:39,U-0173,Desktop,Album,S-086,339
+E-00765,2026-02-07,Samstag,14:46,U-0014,Desktop,Album,S-041,189
+E-00766,2026-02-07,Samstag,15:09,U-0031,Handy,Autoplay,S-105,30
+E-00767,2026-02-07,Samstag,16:21,U-0117,Desktop,Album,S-096,18
+E-00768,2026-02-07,Samstag,16:50,U-0182,Tablet,Album,S-100,62
+E-00769,2026-02-07,Samstag,16:50,U-0069,Tablet,Playlist,S-041,189
+E-00770,2026-02-07,Samstag,17:04,U-0011,Tablet,Album,S-040,150
+E-00771,2026-02-07,Samstag,17:11,U-0183,handy,Autoplay,S-091,24
+E-00772,2026-02-07,Samstag,17:51,U-0045,Smart Speaker,Autoplay,S-114,9999
+E-00773,2026-02-07,Samstag,18:39,U-0182,Handy,Playlist,S-068,235
+E-00774,2026-02-07,Samstag,18:42,U-0025,Handy,Playlist,S-041,36
+E-00775,2026-02-07,Samstag,19:15,U-0155,Handy,Playlist,S-054,23
+E-00776,2026-02-07,Samstag,19:27,U-0128,Handy,Suche,S-054,301
+E-00777,2026-02-07,Samstag,20:03,U-0045,Smart Speaker,Playlist,S-011,164
+E-00778,2026-02-07,Samstag,20:47,U-0011,Handy,Suche,S-041,189
+E-00779,2026-02-07,Samstag,21:00,U-0031,Handy,Playlist,S-062,302
+E-00780,2026-02-07,Samstag,21:07,U-0153,,Album,S-024,221
+E-00781,2026-02-07,Samstag,21:17,U-0102,Desktop,Autoplay,S-056,14
+E-00782,2026-02-07,Samstag,21:42,U-0083,Smartphone,Suche,S-096,196
+E-00783,2026-02-07,Samstag,21:56,U-0037,Smart Speaker,Playlist,S-011,164
+E-00784,2026-02-07,Samstag,22:33,,Smart Speaker,Autoplay,S-015,79
+E-00785,2026-02-08,Sonntag,07:05,U-0120,Handy,Autoplay,S-001,223
+E-00786,2026-02-08,Sonntag,07:26,U-0014,Tablet,Autoplay,S-036,194
+E-00787,2026-02-08,Sonntag,07:40,U-0049,Handy,Playlist,S-041,109
+E-00788,2026-02-08,Sonntag,08:05,U-0182,Handy,Playlist,S-031,242
+E-00789,2026-02-08,Sonntag,08:52,U-0061,Handy,Playlist,S-011,164
+E-00790,2026-02-08,Sonntag,09:16,U-0023,Handy,Album,S-031,242
+E-00791,2026-02-08,Sonntag,11:44,U-0040,Handy,Playlist,S-021,223
+E-00792,2026-02-08,Sonntag,14:06,U-0054,Desktop,Album,S-067,252
+E-00793,2026-02-08,Sonntag,14:28,U-0114,Handy,Playlist,S-078,208
+E-00794,2026-02-08,Sonntag,15:32,U-0117,Desktop,Playlist,S-001,223
+E-00795,2026-02-08,Sonntag,15:51,U-0037,Desktop,Album,S-086,69
+E-00796,2026-02-08,Sonntag,16:06,U-0180,Handy,Autoplay,S-073,22
+E-00797,2026-02-08,Sonntag,16:36,U-0149,Handy,Autoplay,S-103,257
+E-00798,2026-02-08,Sonntag,16:54,,Handy,Playlist,S-026,173
+E-00799,2026-02-08,Sonntag,16:56,U-0090,Handy,Suche,S-078,118
+E-00800,2026-02-08,Sonntag,17:19,U-0063,Desktop,Autoplay,S-105,82
+E-00801,2026-02-08,Sonntag,19:29,U-0095,Handy,Playlist,S-096,196
+E-00802,2026-02-08,Sonntag,19:33,U-0033,Desktop,Playlist,S-014,201
+E-00803,2026-02-08,Sonntag,19:39,U-0138,Tablet,Suche,S-087,354
+E-00804,2026-02-08,Sonntag,20:43,U-0052,Handy,Autoplay,S-031,134
+E-00805,2026-02-08,Sonntag,21:36,U-0026,Tablet,Autoplay,S-032,239
+E-00806,2026-02-08,Sonntag,22:27,U-0004,Handy,Playlist,S-008,212
+E-00807,2026-02-08,Sonntag,22:33,U-0011,Handy,Suche,S-001,223
+E-00808,2026-02-08,Sonntag,22:54,U-0143,Smart Speaker,Autoplay,S-016,99
+E-00809,2026-02-08,Sonntag,23:18,U-0176,Tablet,Album,S-021,223
+E-00810,2026-02-09,Montag,00:32,U-0122,Handy,Suche,S-039,92
+E-00811,2026-02-09,Montag,02:59,U-0153,Handy,Album,S-056,29
+E-00812,2026-02-09,Montag,04:17,U-0057,Handy,Album,S-088,38
+E-00813,2026-02-09,Montag,07:16,U-0005,Handy,Suche,S-015,160
+E-00814,2026-02-09,Montag,08:22,U-0167,Handy,Album,S-038,207
+E-00815,2026-02-09,Montag,13:17,U-0010,Desktop,Playlist,S-031,138
+E-00816,2026-02-09,Montag,14:22,U-0063,Desktop,Playlist,S-096,69
+E-00817,2026-02-09,Montag,15:07,U-0107,Smart Speaker,Autoplay,S-032,239
+E-00818,2026-02-09,Montag,16:16,U-0103,Desktop,Playlist,S-082,8
+E-00819,2026-02-09,Montag,16:47,U-0058,Desktop,Playlist,S-005,205
+E-00820,2026-02-09,Montag,16:53,U-0037,Handy,Suche,S-036,40
+E-00821,2026-02-09,Montag,17:58,U-0108,Handy,Autoplay,S-070,29
+E-00822,2026-02-09,Montag,18:24,U-0100,Tablet,Playlist,S-055,316
+E-00823,2026-02-09,Montag,19:11,U-0049,Handy,Suche,S-015,160
+E-00824,2026-02-09,Montag,21:24,U-0104,Handy,Autoplay,S-092,127
+E-00825,2026-02-09,Montag,21:31,U-0152,Desktop,Playlist,S-080,7
+E-00826,2026-02-09,Montag,21:32,U-0151,Tablet,Playlist,S-088,237
+E-00827,2026-02-09,Montag,22:03,U-0079,Smart Speaker,Playlist,S-011,45
+E-00828,2026-02-09,Montag,22:40,U-0077,Smart Speaker,Autoplay,S-057,308
+E-00829,2026-02-09,Montag,23:01,U-0103,Tablet,Autoplay,S-055,6
+E-00830,2026-02-09,Montag,23:19,U-0010,,Autoplay,S-110,5
+E-00831,2026-02-10,Dienstag,06:46,U-0111,Handy,Playlist,S-109,189
+E-00832,2026-02-10,Dienstag,07:10,U-0066,Handy,Playlist,S-088,237
+E-00833,2026-02-10,Dienstag,07:14,U-0071,Handy,Playlist,S-032,239
+E-00834,2026-02-10,Dienstag,09:53,U-0125,Handy,Playlist,S-058,25
+E-00835,2026-02-10,Dienstag,10:27,U-0105,Tablet,Suche,S-032,7
+E-00836,2026-02-10,Dienstag,15:23,U-0083,Handy,Playlist,S-031,242
+E-00837,2026-02-10,Dienstag,16:07,U-0011,Desktop,Playlist,S-047,159
+E-00838,2026-02-10,Dienstag,17:09,U-0111,Smartphone,Playlist,S-088,15
+E-00839,2026-02-10,Dienstag,18:35,U-0250,Tablet,Autoplay,S-105,202
+E-00840,2026-02-10,Dienstag,19:19,U-0164,Smart Speaker,Album,S-059,52
+E-00841,2026-02-10,Dienstag,19:27,U-0023,Desktop,Suche,S-081,53
+E-00842,2026-02-10,Dienstag,19:55,U-0025,Desktop,Autoplay,S-058,7
+E-00843,2026-02-10,Dienstag,19:56,U-0063,Smart Speaker,Album,S-050,332
+E-00844,2026-02-10,Dienstag,20:18,U-0063,Smart Speaker,Playlist,S-037,118
+E-00845,2026-02-10,Dienstag,20:30,U-0176,Handy,Playlist,S-018,189
+E-00846,2026-02-10,Dienstag,21:09,U-0106,Desktop,Playlist,S-019,163
+E-00847,2026-02-11,Mittwoch,00:14,U-0188,Handy,Suche,S-021,16
+E-00848,2026-02-11,Mittwoch,06:45,U-0014,Tablet,Album,S-092,204
+E-00849,2026-02-11,Mittwoch,07:23,U-0141,Tablet,Playlist,S-109,136
+E-00850,2026-02-11,Mittwoch,08:53,U-0140,,Playlist,S-043,56
+E-00851,2026-02-11,Mittwoch,10:57,U-0066,Desktop,Playlist,S-013,174
+E-00852,2026-02-11,Mittwoch,11:27,U-0188,,Album,S-041,189
+E-00853,2026-02-11,Mittwoch,11:40,U-0146,Desktop,Suche,S-003,181
+E-00854,2026-02-11,Mittwoch,12:01,U-0070,Smart Speaker,Playlist,S-024,221
+E-00855,2026-02-11,Mittwoch,12:09,U-0133,Handy,Album,S-023,4
+E-00856,2026-02-11,Mittwoch,13:13,U-0011,Desktop,Album,S-008,212
+E-00857,2026-02-11,Mittwoch,13:54,U-0073,Desktop,Playlist,S-062,17
+E-00858,2026-02-11,Mittwoch,14:22,U-0102,Tablet,Suche,S-001,130
+E-00859,2026-02-11,Mittwoch,14:24,U-0037,Handy,Playlist,S-005,205
+E-00860,2026-02-11,Mittwoch,15:10,U-0010,Handy,Autoplay,S-024,221
+E-00861,2026-02-11,Mittwoch,16:01,U-0107,Desktop,Playlist,S-013,92
+E-00862,2026-02-11,Mittwoch,16:26,U-0058,handy,Suche,S-103,11
+E-00863,2026-02-11,Mittwoch,16:32,U-0044,Tablet,Autoplay,S-062,302
+E-00864,2026-02-11,Mittwoch,18:08,U-0081,Smart Speaker,Playlist,S-089,230
+E-00865,2026-02-11,Mittwoch,18:25,U-0188,Handy,Autoplay,S-012,124
+E-00866,2026-02-11,Mittwoch,18:35,U-0129,Tablet,Autoplay,S-062,240
+E-00867,2026-02-11,Mittwoch,19:04,U-0154,Handy,Album,S-084,165
+E-00868,2026-02-11,Mittwoch,19:05,U-0072,Smart Speaker,Autoplay,S-065,21
+E-00869,2026-02-11,Mittwoch,19:43,U-0021,Handy,Autoplay,S-078,29
+E-00870,2026-02-11,Mittwoch,19:44,U-0083,Handy,Playlist,S-101,253
+E-00871,2026-02-11,Mittwoch,20:29,U-0107,Handy,Suche,S-096,196
+E-00872,2026-02-11,Mittwoch,20:39,U-0152,Tablet,Autoplay,S-011,16
+E-00873,2026-02-11,Mittwoch,20:55,U-0200,Desktop,Suche,S-062,302
+E-00874,2026-02-11,Mittwoch,21:17,U-0145,Handy,Playlist,S-011,164
+E-00875,2026-02-11,Mittwoch,23:33,U-0105,Smart Speaker,Autoplay,S-001,223
+E-00876,2026-02-12,Donnerstag,00:03,U-0054,Handy,Suche,S-062,302
+E-00877,2026-02-12,Donnerstag,07:55,U-0088,Handy,Suche,S-053,13
+E-00878,2026-02-12,Donnerstag,08:13,U-0087,handy,Album,S-018,189
+E-00879,2026-02-12,Donnerstag,09:25,U-0061,handy,Playlist,S-103,257
+E-00880,2026-02-12,Donnerstag,10:28,U-0023,Smart Speaker,Autoplay,S-070,288
+E-00881,2026-02-12,Donnerstag,11:57,U-0071,Handy,Album,S-076,359
+E-00882,2026-02-12,Donnerstag,11:59,U-0105,Desktop,Album,S-041,189
+E-00883,2026-02-12,Donnerstag,13:42,U-0176,Desktop,Album,S-005,205
+E-00884,2026-02-12,Donnerstag,14:16,U-0021,Handy,Suche,S-032,239
+E-00885,2026-02-12,Donnerstag,14:47,U-0176,Handy,Playlist,S-096,95
+E-00886,2026-02-12,Donnerstag,15:47,U-0051,Desktop,Autoplay,S-049,5
+E-00887,2026-02-12,Donnerstag,17:03,U-0069,Smart Speaker,Playlist,S-014,201
+E-00888,2026-02-12,Donnerstag,17:54,U-0061,Tablet,Playlist,S-105,202
+E-00889,2026-02-12,Donnerstag,18:38,U-0051,Tablet,Playlist,S-057,16
+E-00890,2026-02-12,Donnerstag,18:43,U-0045,Desktop,Playlist,S-070,131
+E-00891,2026-02-12,Donnerstag,19:26,U-0084,Smart Speaker,Album,S-007,210
+E-00892,2026-02-12,Donnerstag,19:27,U-0094,Tablet,Playlist,S-067,252
+E-00893,2026-02-12,Donnerstag,20:56,U-0070,Handy,Suche,S-053,99
+E-00894,2026-02-12,Donnerstag,20:56,U-0105,Handy,Suche,S-068,235
+E-00895,2026-02-12,Donnerstag,21:30,U-0079,Tablet,Album,S-059,308
+E-00896,2026-02-12,Donnerstag,21:50,U-0058,Smart Speaker,Album,S-041,18
+E-00897,2026-02-12,Donnerstag,22:29,,Desktop,Autoplay,S-032,239
+E-00898,2026-02-12,Donnerstag,22:44,U-0163,Tablet,Album,S-031,242
+E-00899,2026-02-12,Donnerstag,23:20,U-0103,Handy,Playlist,S-011,164
+E-00900,2026-02-13,Freitag,01:55,U-0007,Desktop,Autoplay,S-066,183
+E-00901,2026-02-13,Freitag,06:15,U-0165,Handy,Autoplay,S-007,210
+E-00902,2026-02-13,Freitag,06:42,U-0015,Handy,Autoplay,S-041,12
+E-00903,2026-02-13,Freitag,07:03,U-0159,Desktop,Album,S-092,25
+E-00904,2026-02-13,Freitag,07:36,U-0098,Handy,Playlist,S-041,189
+E-00905,2026-02-13,Freitag,07:40,U-0107,Handy,Playlist,S-097,195
+E-00906,2026-02-13,Freitag,08:02,U-0061,Handy,Playlist,S-075,356
+E-00907,2026-02-13,Freitag,08:22,U-0043,Handy,Playlist,S-036,194
+E-00908,2026-02-13,Freitag,09:19,U-0102,Handy,Album,S-062,302
+E-00909,2026-02-13,Freitag,12:50,U-0038,Handy,Playlist,S-015,99
+E-00910,2026-02-13,Freitag,13:36,U-0151,Desktop,Album,S-092,204
+E-00911,2026-02-13,Freitag,13:45,U-0014,Desktop,Playlist,S-021,223
+E-00912,2026-02-13,Freitag,16:01,U-0017,,Playlist,S-041,159
+E-00913,2026-02-13,Freitag,17:39,U-0056,Desktop,Album,S-036,194
+E-00914,2026-02-13,Freitag,18:09,U-0143,Desktop,Album,S-021,223
+E-00915,2026-02-13,Freitag,18:16,U-0070,Tablet,Suche,S-011,164
+E-00916,2026-02-13,Freitag,18:30,U-0027,handy,Playlist,S-020,76
+E-00917,2026-02-13,Freitag,18:47,U-0110,Tablet,Playlist,S-024,37
+E-00918,2026-02-13,Freitag,19:18,U-0056,Handy,Album,S-032,239
+E-00919,2026-02-13,Freitag,21:18,U-0010,Handy,Suche,S-055,316
+E-00920,2026-02-13,Freitag,21:30,U-0182,Handy,Playlist,S-012,212
+E-00921,2026-02-13,Freitag,21:56,U-0058,Smart Speaker,Playlist,S-007,210
+E-00922,2026-02-13,Freitag,21:57,U-0084,Smart Speaker,Playlist,S-001,223
+E-00923,2026-02-13,Freitag,22:37,U-0170,Handy,Album,S-015,160
+E-00924,2026-02-13,Freitag,23:44,U-0111,Smart Speaker,Playlist,S-078,208
+E-00925,2026-02-14,Samstag,00:54,U-0049,Handy,Autoplay,S-031,5
+E-00926,2026-02-14,Samstag,01:40,U-0127,Desktop,Playlist,S-043,157
+E-00927,2026-02-14,Samstag,02:00,U-0103,Handy,Playlist,S-109,265
+E-00928,2026-02-14,Samstag,07:25,U-0032,Handy,Autoplay,S-031,242
+E-00929,2026-02-14,Samstag,07:31,U-0023,Handy,Playlist,S-011,164
+E-00930,2026-02-14,Samstag,07:41,U-0037,Handy,Playlist,S-030,213
+E-00931,2026-02-14,Samstag,07:44,U-0040,Handy,Autoplay,S-084,24
+E-00932,2026-02-14,Samstag,07:59,U-0056,Handy,Playlist,S-047,9
+E-00933,2026-02-14,Samstag,08:08,U-0180,Handy,Album,S-068,21
+E-00934,2026-02-14,Samstag,08:23,U-0183,Desktop,Playlist,S-036,194
+E-00935,2026-02-14,Samstag,09:46,U-0032,Smart Speaker,Playlist,S-043,157
+E-00936,2026-02-14,Samstag,10:35,U-0032,Handy,Suche,S-070,319
+E-00937,2026-02-14,Samstag,10:49,U-0184,Tablet,Playlist,S-088,163
+E-00938,2026-02-14,Samstag,12:52,U-0042,Smart Speaker,Autoplay,S-082,29
+E-00939,2026-02-14,Samstag,12:55,U-0096,Desktop,Playlist,S-031,99
+E-00940,2026-02-14,Samstag,13:33,U-0120,Handy,Album,S-014,201
+E-00941,2026-02-14,Samstag,15:05,U-0102,Smart Speaker,Playlist,S-045,191
+E-00942,2026-02-14,Samstag,15:46,U-0178,Handy,Playlist,S-013,174
+E-00943,2026-02-14,Samstag,15:50,U-0178,,Suche,S-031,145
+E-00944,2026-02-14,Samstag,16:21,U-0058,Desktop,Playlist,S-070,319
+E-00945,2026-02-14,Samstag,17:14,U-0002,Smart Speaker,Playlist,S-059,308
+E-00946,2026-02-14,Samstag,17:40,U-0105,Desktop,Suche,S-007,210
+E-00947,2026-02-14,Samstag,17:42,U-0141,Smart Speaker,Playlist,S-031,20
+E-00948,2026-02-14,Samstag,18:16,U-0032,Smart Speaker,Playlist,S-041,189
+E-00949,2026-02-14,Samstag,18:43,U-0107,Smart Speaker,Playlist,S-004,156
+E-00950,2026-02-14,Samstag,18:54,U-0102,Desktop,Album,S-031,242
+E-00951,2026-02-14,Samstag,19:28,U-0155,Handy,Album,S-038,207
+E-00952,2026-02-14,Samstag,19:42,U-0095,,Playlist,S-057,185
+E-00952,2026-02-14,Samstag,19:42,U-0095,,Playlist,S-057,185
+E-00953,2026-02-14,Samstag,19:48,U-0031,Tablet,Album,S-070,319
+E-00954,2026-02-14,Samstag,19:58,U-0063,Desktop,Playlist,S-096,196
+E-00955,2026-02-14,Samstag,22:39,U-0060,Handy,Autoplay,S-066,260
+E-00956,2026-02-14,Samstag,22:46,U-0145,Smart Speaker,Album,S-041,189
+E-00957,2026-02-15,Sonntag,00:16,U-0031,Handy,Playlist,S-096,196
+E-00958,2026-02-15,Sonntag,06:34,U-0036,Smart Speaker,Playlist,S-097,108
+E-00959,2026-02-15,Sonntag,07:03,U-0069,Handy,Autoplay,S-078,61
+E-00960,2026-02-15,Sonntag,07:32,U-0063,Smart Speaker,Autoplay,S-033,137
+E-00961,2026-02-15,Sonntag,08:42,U-0041,Handy,Autoplay,S-100,19
+E-00962,2026-02-15,Sonntag,10:41,U-0103,Tablet,Playlist,S-008,212
+E-00963,2026-02-15,Sonntag,12:58,U-0015,Desktop,Playlist,S-090,239
+E-00964,2026-02-15,Sonntag,14:58,U-0156,Desktop,Album,S-054,301
+E-00965,2026-02-15,Sonntag,16:08,U-0068,Handy,Album,S-053,23
+E-00966,2026-02-15,Sonntag,16:12,U-0140,Tablet,Album,S-011,164
+E-00967,2026-02-15,Sonntag,16:45,U-0107,Handy,Album,S-014,201
+E-00968,2026-02-15,Sonntag,17:33,U-0102,Desktop,Playlist,S-103,6
+E-00969,2026-02-15,Sonntag,18:28,U-0188,Tablet,Playlist,S-062,302
+E-00970,2026-02-15,Sonntag,19:41,U-0176,Tablet,Autoplay,S-029,22
+E-00971,2026-02-15,Sonntag,20:07,U-0073,Smart Speaker,Autoplay,S-100,15
+E-00972,2026-02-15,Sonntag,21:17,U-0188,Handy,Playlist,S-091,216
+E-00973,2026-02-15,Sonntag,21:23,U-0151,Tablet,Suche,S-066,260
+E-00974,2026-02-15,Sonntag,21:26,U-0049,Smart Speaker,Autoplay,S-023,173
+E-00975,2026-02-15,Sonntag,21:28,U-0118,Smart Speaker,Album,S-058,327
+E-00976,2026-02-15,Sonntag,23:24,U-0020,Smart Speaker,Suche,S-096,196
+E-00977,2026-02-16,Montag,07:16,U-0037,Handy,Album,S-062,302
+E-00978,2026-02-16,Montag,07:20,U-0068,Handy,Album,S-062,24
+E-00979,2026-02-16,Montag,08:23,U-0066,Handy,Autoplay,S-078,208
+E-00980,2026-02-16,Montag,08:27,U-0049,Handy,Suche,S-041,189
+E-00981,2026-02-16,Montag,09:08,U-0072,Tablet,Playlist,S-001,29
+E-00982,2026-02-16,Montag,09:54,U-0111,Handy,Playlist,S-047,264
+E-00983,2026-02-16,Montag,10:25,U-0083,Handy,Playlist,S-092,204
+E-00984,2026-02-16,Montag,10:59,U-0179,Handy,Playlist,S-086,203
+E-00985,2026-02-16,Montag,11:08,,Desktop,Autoplay,S-044,18
+E-00986,2026-02-16,Montag,11:54,,Tablet,Playlist,S-037,226
+E-00987,2026-02-16,Montag,13:13,U-0103,Smart Speaker,Album,S-004,7
+E-00988,2026-02-16,Montag,16:10,U-0071,Tablet,Playlist,S-085,8
+E-00989,2026-02-16,Montag,16:22,U-0140,Desktop,Playlist,S-020,162
+E-00990,2026-02-16,Montag,17:20,U-0157,Smart Speaker,Playlist,S-032,239
+E-00991,2026-02-16,Montag,18:14,U-0111,Smart Speaker,Autoplay,S-064,19
+E-00992,2026-02-16,Montag,18:30,U-0058,Smart Speaker,Suche,S-057,308
+E-00993,2026-02-16,Montag,18:33,U-0040,Smart Speaker,Album,S-004,156
+E-00994,2026-02-16,Montag,18:46,U-0199,Desktop,Suche,S-062,302
+E-00995,2026-02-16,Montag,18:56,U-0062,Tablet,Suche,S-078,208
+E-00996,2026-02-16,Montag,18:58,U-0060,Smart Speaker,Autoplay,S-115,341
+E-00997,2026-02-16,Montag,19:52,U-0033,Handy,Album,S-041,189
+E-00998,2026-02-16,Montag,20:18,U-0046,Handy,Playlist,S-031,242
+E-00999,2026-02-16,Montag,21:30,U-0079,Handy,Suche,S-096,196
+E-01000,2026-02-16,Montag,21:38,U-0125,Handy,Playlist,S-013,174
+E-01001,2026-02-16,Montag,22:43,U-0155,Smartphone,Playlist,S-029,91
+E-01002,2026-02-17,Dienstag,06:58,U-0143,Handy,Playlist,S-032,239
+E-01003,2026-02-17,Dienstag,08:08,U-0108,Handy,Autoplay,S-112,20
+E-01004,2026-02-17,Dienstag,08:25,U-0063,Handy,Playlist,S-007,98
+E-01005,2026-02-17,Dienstag,08:29,U-0103,Handy,Autoplay,S-018,107
+E-01006,2026-02-17,Dienstag,09:18,U-0105,Handy,Playlist,S-024,17
+E-01007,2026-02-17,Dienstag,12:00,U-0021,Smart Speaker,Album,S-060,205
+E-01008,2026-02-17,Dienstag,15:26,U-0138,Handy,Suche,S-053,248
+E-01009,2026-02-17,Dienstag,15:26,U-0108,Desktop,Playlist,S-037,7
+E-01010,2026-02-17,Dienstag,17:52,U-0049,Handy,Suche,S-103,235
+E-01011,2026-02-17,Dienstag,18:01,U-0112,Smart Speaker,Autoplay,S-074,12
+E-01012,2026-02-17,Dienstag,19:05,U-0087,Smart Speaker,Playlist,S-004,5
+E-01013,2026-02-17,Dienstag,19:08,U-0083,Smart Speaker,Suche,S-047,264
+E-01014,2026-02-17,Dienstag,19:52,U-0156,Smart Speaker,Playlist,S-064,241
+E-01015,2026-02-17,Dienstag,19:58,U-0073,Tablet,Playlist,S-007,210
+E-01016,2026-02-17,Dienstag,20:28,U-0121,Handy,Album,S-096,196
+E-01017,2026-02-17,Dienstag,20:35,U-0151,Handy,Autoplay,S-105,202
+E-01018,2026-02-17,Dienstag,21:42,U-0166,Handy,Playlist,S-011,86
+E-01019,2026-02-17,Dienstag,22:26,U-0063,Handy,Album,S-112,192
+E-01020,2026-02-17,Dienstag,23:46,U-0161,Smart Speaker,Playlist,S-105,202
+E-01021,2026-02-18,Mittwoch,00:38,,Handy,Autoplay,S-066,260
+E-01022,2026-02-18,Mittwoch,07:16,U-0013,Handy,Autoplay,S-021,223
+E-01023,2026-02-18,Mittwoch,07:18,U-0019,Desktop,Autoplay,S-078,208
+E-01024,2026-02-18,Mittwoch,07:44,U-0176,Handy,Playlist,S-012,212
+E-01025,2026-02-18,Mittwoch,08:45,U-0162,Handy,Playlist,S-029,181
+E-01026,2026-02-18,Mittwoch,09:01,U-0017,Handy,Playlist,S-116,11
+E-01027,2026-02-18,Mittwoch,09:07,U-0072,handy,Playlist,S-041,189
+E-01028,2026-02-18,Mittwoch,10:22,U-0037,Tablet,Autoplay,S-033,241
+E-01029,2026-02-18,Mittwoch,10:51,U-0076,Desktop,Album,S-020,162
+E-01030,2026-02-18,Mittwoch,11:05,U-0124,Handy,Playlist,S-003,181
+E-01031,2026-02-18,Mittwoch,11:36,U-0103,Smart Speaker,Playlist,S-018,189
+E-01032,2026-02-18,Mittwoch,14:44,U-0097,Desktop,Playlist,S-004,156
+E-01033,2026-02-18,Mittwoch,15:38,U-0081,Handy,Playlist,S-066,260
+E-01034,2026-02-18,Mittwoch,16:08,U-0179,Desktop,Suche,S-015,160
+E-01035,2026-02-18,Mittwoch,17:57,U-0038,Handy,Album,S-011,164
+E-01036,2026-02-18,Mittwoch,18:42,U-0100,Tablet,Playlist,S-088,237
+E-01037,2026-02-18,Mittwoch,19:00,U-0062,Desktop,Playlist,S-036,12
+E-01038,2026-02-18,Mittwoch,19:13,U-0071,Tablet,Album,S-078,25
+E-01039,2026-02-18,Mittwoch,20:10,U-0026,Handy,Playlist,S-086,339
+E-01040,2026-02-18,Mittwoch,21:22,U-0103,Smart Speaker,Autoplay,S-023,173
+E-01041,2026-02-18,Mittwoch,23:28,U-0132,Handy,Suche,S-011,164
+E-01042,2026-02-19,Donnerstag,07:24,U-0143,Handy,Album,S-041,189
+E-01043,2026-02-19,Donnerstag,08:17,U-0182,Handy,Suche,S-004,156
+E-01044,2026-02-19,Donnerstag,08:35,U-0107,Handy,Album,S-021,28
+E-01045,2026-02-19,Donnerstag,10:26,U-0031,Tablet,Suche,S-117,331
+E-01046,2026-02-19,Donnerstag,11:23,U-0091,Tablet,Playlist,S-086,10
+E-01047,2026-02-19,Donnerstag,15:00,U-0176,Handy,Playlist,S-066,26
+E-01048,2026-02-19,Donnerstag,15:02,U-0152,Tablet,Autoplay,S-013,20
+E-01049,2026-02-19,Donnerstag,16:02,U-0169,Handy,Album,S-062,302
+E-01050,2026-02-19,Donnerstag,16:50,U-0058,Desktop,Autoplay,S-026,245
+E-01051,2026-02-19,Donnerstag,17:49,U-0191,Tablet,Autoplay,S-106,24
+E-01052,2026-02-19,Donnerstag,18:05,U-0063,Handy,Album,S-011,9999
+E-01053,2026-02-19,Donnerstag,18:37,U-0139,Handy,Playlist,S-033,226
+E-01054,2026-02-19,Donnerstag,20:10,U-0088,Handy,Playlist,S-011,164
+E-01055,2026-02-20,Freitag,00:53,U-0037,Tablet,Autoplay,S-085,10
+E-01056,2026-02-20,Freitag,01:49,U-0156,Handy,Playlist,S-058,88
+E-01057,2026-02-20,Freitag,07:41,,handy,Suche,S-062,302
+E-01058,2026-02-20,Freitag,07:46,U-0063,Handy,Playlist,S-105,202
+E-01059,2026-02-20,Freitag,08:05,U-0188,Tablet,Suche,S-068,115
+E-01060,2026-02-20,Freitag,08:50,U-0181,Handy,Album,S-011,24
+E-01061,2026-02-20,Freitag,08:53,U-0057,Handy,Autoplay,S-028,195
+E-01062,2026-02-20,Freitag,08:55,U-0058,Handy,Playlist,S-105,9
+E-01063,2026-02-20,Freitag,09:30,U-0111,Handy,Album,S-096,155
+E-01064,2026-02-20,Freitag,10:53,U-0031,Handy,Album,S-087,133
+E-01065,2026-02-20,Freitag,12:37,U-0069,Tablet,Suche,S-023,173
+E-01066,2026-02-20,Freitag,16:41,U-0140,Tablet,Playlist,S-093,20
+E-01067,2026-02-20,Freitag,16:43,U-0152,Handy,Playlist,S-023,173
+E-01068,2026-02-20,Freitag,17:42,U-0014,Smart Speaker,Playlist,S-007,210
+E-01069,2026-02-20,Freitag,17:49,U-0030,Handy,Autoplay,S-023,44
+E-01070,2026-02-20,Freitag,17:54,U-0139,Handy,Playlist,S-031,242
+E-01071,2026-02-20,Freitag,18:34,U-0021,Smart Speaker,Autoplay,S-026,245
+E-01072,2026-02-20,Freitag,18:38,U-0012,Tablet,Suche,S-105,142
+E-01073,2026-02-20,Freitag,19:08,U-0143,Smart Speaker,Playlist,S-011,164
+E-01074,2026-02-20,Freitag,19:16,U-0159,Handy,Autoplay,S-064,19
+E-01075,2026-02-20,Freitag,19:59,U-0058,Handy,Autoplay,S-032,18
+E-01076,2026-02-20,Freitag,20:06,U-0107,Smart Speaker,Playlist,S-032,239
+E-01077,2026-02-20,Freitag,20:52,U-0037,Handy,Playlist,S-031,15
+E-01078,2026-02-20,Freitag,20:57,U-0107,Smart Speaker,Album,S-016,205
+E-01079,2026-02-20,Freitag,20:59,U-0193,Handy,Album,S-086,339
+E-01080,2026-02-20,Freitag,21:08,U-0164,Handy,Autoplay,S-103,257
+E-01081,2026-02-20,Freitag,21:59,U-0105,Handy,Album,S-086,339
+E-01082,2026-02-20,Freitag,22:14,U-0076,Tablet,Autoplay,S-013,174
+E-01083,2026-02-20,Freitag,22:41,U-0110,Handy,Suche,S-064,241
+E-01084,2026-02-20,Freitag,22:49,U-0063,Handy,Playlist,S-067,96
+E-01085,2026-02-20,Freitag,23:05,U-0107,,Autoplay,S-033,241
+E-01086,2026-02-21,Samstag,06:36,U-0086,Desktop,Album,S-062,302
+E-01087,2026-02-21,Samstag,07:15,U-0007,Handy,Playlist,S-043,43
+E-01088,2026-02-21,Samstag,07:29,U-0154,Smart Speaker,Autoplay,S-011,164
+E-01089,2026-02-21,Samstag,07:30,U-0037,Handy,Autoplay,S-021,163
+E-01090,2026-02-21,Samstag,08:20,U-0133,Handy,Playlist,S-047,264
+E-01091,2026-02-21,Samstag,08:39,U-0156,Smart Speaker,Autoplay,S-085,155
+E-01092,2026-02-21,Samstag,09:07,U-0089,Smart Speaker,Autoplay,S-115,341
+E-01093,2026-02-21,Samstag,09:30,U-0045,Handy,Playlist,S-011,164
+E-01094,2026-02-21,Samstag,10:13,U-0038,Desktop,Playlist,S-008,212
+E-01095,2026-02-21,Samstag,10:14,U-0102,Handy,Autoplay,S-064,241
+E-01096,2026-02-21,Samstag,11:18,U-0183,Handy,Suche,S-011,164
+E-01097,2026-02-21,Samstag,11:35,U-0070,Tablet,Autoplay,S-089,230
+E-01098,2026-02-21,Samstag,12:27,U-0134,Tablet,Album,S-024,55
+E-01099,2026-02-21,Samstag,13:51,U-0086,Smart Speaker,Autoplay,S-052,83
+E-01100,2026-02-21,Samstag,15:26,U-0038,Handy,Suche,S-105,202
+E-01101,2026-02-21,Samstag,16:49,,Tablet,Album,S-037,226
+E-01102,2026-02-21,Samstag,17:08,U-0051,Handy,Playlist,S-064,21
+E-01103,2026-02-21,Samstag,17:22,U-0126,Tablet,Suche,S-088,237
+E-01104,2026-02-21,Samstag,18:06,U-0173,Tablet,Playlist,S-104,201
+E-01105,2026-02-21,Samstag,18:10,U-0063,Tablet,Playlist,S-062,31
+E-01106,2026-02-21,Samstag,18:15,U-0103,Handy,Autoplay,S-081,16
+E-01107,2026-02-21,Samstag,18:49,U-0045,Tablet,Suche,S-001,188
+E-01108,2026-02-21,Samstag,19:02,U-0187,Smart Speaker,Autoplay,S-055,316
+E-01109,2026-02-21,Samstag,19:13,U-0051,Handy,Autoplay,S-016,8
+E-01110,2026-02-21,Samstag,19:14,U-0199,Handy,Autoplay,S-047,172
+E-01111,2026-02-21,Samstag,19:55,U-0054,Handy,Playlist,S-013,174
+E-01112,2026-02-21,Samstag,20:23,U-0141,Tablet,Suche,S-024,97
+E-01113,2026-02-21,Samstag,21:05,U-0107,Handy,Playlist,S-041,189
+E-01114,2026-02-21,Samstag,21:24,U-0182,,Autoplay,S-053,56
+E-01115,2026-02-21,Samstag,21:54,U-0085,Smart Speaker,Autoplay,S-075,356
+E-01116,2026-02-21,Samstag,22:12,U-0011,Tablet,Playlist,S-055,316
+E-01117,2026-02-21,Samstag,22:16,U-0098,Desktop,Suche,S-018,189
+E-01118,2026-02-21,Samstag,22:59,U-0052,Handy,Autoplay,S-011,164
+E-01119,2026-02-21,Samstag,23:13,U-0169,Handy,Suche,S-005,205
+E-01120,2026-02-22,Sonntag,07:30,,Desktop,Suche,S-038,107
+E-01121,2026-02-22,Sonntag,07:39,U-0199,Handy,Autoplay,S-074,185
+E-01122,2026-02-22,Sonntag,08:23,U-0118,Handy,Album,S-004,156
+E-01123,2026-02-22,Sonntag,09:18,U-0141,Handy,Suche,S-041,6
+E-01124,2026-02-22,Sonntag,09:46,U-0090,Handy,Playlist,S-096,196
+E-01125,2026-02-22,Sonntag,10:26,U-0164,Handy,Album,S-096,28
+E-01126,2026-02-22,Sonntag,15:26,U-0063,Handy,Album,S-041,16
+E-01127,2026-02-22,Sonntag,15:38,U-0170,Handy,Playlist,S-114,126
+E-01128,2026-02-22,Sonntag,15:42,U-0054,Handy,Suche,S-007,210
+E-01129,2026-02-22,Sonntag,17:10,U-0137,Smart Speaker,Autoplay,S-041,189
+E-01130,2026-02-22,Sonntag,17:35,U-0136,Handy,Playlist,S-061,318
+E-01131,2026-02-22,Sonntag,18:54,U-0102,Handy,Autoplay,S-103,14
+E-01132,2026-02-22,Sonntag,19:52,U-0095,Handy,Playlist,S-001,184
+E-01133,2026-02-22,Sonntag,20:24,U-0146,Handy,Autoplay,S-024,11
+E-01134,2026-02-22,Sonntag,21:33,U-0140,Desktop,Playlist,S-096,14
+E-01135,2026-02-22,Sonntag,22:03,U-0095,Smart Speaker,Playlist,S-026,245
+E-01136,2026-02-22,Sonntag,22:38,U-0098,Smart Speaker,Playlist,S-031,96
+E-01137,2026-02-23,Montag,00:17,U-0147,Handy,Playlist,S-031,242
+E-01138,2026-02-23,Montag,02:56,U-0063,,Suche,S-072,296
+E-01139,2026-02-23,Montag,07:08,U-0149,Desktop,Playlist,S-041,189
+E-01140,2026-02-23,Montag,07:25,U-0169,Handy,Playlist,S-032,239
+E-01141,2026-02-23,Montag,07:32,U-0117,Handy,Album,S-066,260
+E-01142,2026-02-23,Montag,08:54,U-0103,Handy,Autoplay,S-024,27
+E-01143,2026-02-23,Montag,09:51,U-0091,Smart Speaker,Playlist,S-022,157
+E-01144,2026-02-23,Montag,10:11,U-0083,Tablet,Autoplay,S-024,14
+E-01145,2026-02-23,Montag,12:02,U-0088,Handy,Suche,S-092,204
+E-01146,2026-02-23,Montag,12:03,U-0140,Handy,Suche,S-022,15
+E-01147,2026-02-23,Montag,12:52,U-0010,Handy,Playlist,S-102,230
+E-01148,2026-02-23,Montag,14:56,U-0064,Desktop,Playlist,S-066,260
+E-01149,2026-02-23,Montag,15:32,U-0150,Desktop,Album,S-077,242
+E-01150,2026-02-23,Montag,17:08,U-0195,Smart Speaker,Playlist,S-064,241
+E-01151,2026-02-23,Montag,17:53,,Handy,Suche,S-009,102
+E-01152,2026-02-23,Montag,19:00,U-0063,Handy,Album,S-092,13
+E-01153,2026-02-23,Montag,19:26,U-0098,Handy,Playlist,S-001,223
+E-01154,2026-02-23,Montag,20:08,U-0161,,Playlist,S-036,161
+E-01155,2026-02-23,Montag,20:21,U-0026,Handy,Suche,S-031,9
+E-01155,2026-02-23,Montag,20:21,U-0026,Handy,Suche,S-031,9
+E-01156,2026-02-24,Dienstag,00:15,U-0044,Desktop,Autoplay,S-114,416
+E-01157,2026-02-24,Dienstag,03:38,U-0063,Handy,Playlist,S-004,156
+E-01158,2026-02-24,Dienstag,05:29,U-0107,Handy,Playlist,S-105,202
+E-01159,2026-02-24,Dienstag,07:12,U-0117,Handy,Album,S-041,189
+E-01160,2026-02-24,Dienstag,07:24,U-0063,Handy,Playlist,S-064,17
+E-01161,2026-02-24,Dienstag,07:34,U-0029,Handy,Suche,S-007,210
+E-01162,2026-02-24,Dienstag,08:35,U-0049,Desktop,Autoplay,S-039,190
+E-01163,2026-02-24,Dienstag,09:48,U-0057,Handy,Album,S-021,223
+E-01164,2026-02-24,Dienstag,10:17,U-0023,Handy,Suche,S-027,165
+E-01165,2026-02-24,Dienstag,10:23,U-0129,Handy,Album,S-031,242
+E-01166,2026-02-24,Dienstag,11:20,U-0064,Handy,Playlist,S-096,10
+E-01167,2026-02-24,Dienstag,11:46,U-0061,Desktop,Suche,S-004,156
+E-01168,2026-02-24,Dienstag,12:11,U-0196,Handy,Playlist,S-041,189
+E-01169,2026-02-24,Dienstag,15:04,U-0133,Desktop,Suche,S-024,221
+E-01170,2026-02-24,Dienstag,16:49,U-0155,Tablet,Playlist,S-103,257
+E-01171,2026-02-24,Dienstag,17:35,U-0112,,Album,S-001,3
+E-01172,2026-02-24,Dienstag,19:59,,Smart Speaker,Autoplay,S-041,189
+E-01173,2026-02-24,Dienstag,20:31,U-0073,Smart Speaker,Album,S-114,416
+E-01174,2026-02-24,Dienstag,21:37,U-0049,Smart Speaker,Autoplay,S-066,260
+E-01175,2026-02-24,Dienstag,22:06,U-0032,Handy,Autoplay,S-057,113
+E-01176,2026-02-24,Dienstag,22:56,U-0149,Handy,Autoplay,S-087,123
+E-01177,2026-02-25,Mittwoch,07:08,U-0021,Handy,Autoplay,S-041,189
+E-01178,2026-02-25,Mittwoch,07:27,U-0200,Handy,Playlist,S-073,168
+E-01179,2026-02-25,Mittwoch,08:03,U-0175,Handy,Playlist,S-064,241
+E-01180,2026-02-25,Mittwoch,08:10,U-0070,Handy,Playlist,S-062,12
+E-01181,2026-02-25,Mittwoch,08:55,U-0189,Handy,Playlist,S-036,135
+E-01182,2026-02-25,Mittwoch,09:59,U-0058,Desktop,Playlist,S-018,189
+E-01183,2026-02-25,Mittwoch,10:14,U-0037,,Suche,S-011,164
+E-01184,2026-02-25,Mittwoch,15:11,U-0038,Desktop,Playlist,S-020,162
+E-01185,2026-02-25,Mittwoch,16:44,U-0038,Handy,Album,S-041,168
+E-01186,2026-02-25,Mittwoch,17:37,U-0102,Smart Speaker,Playlist,S-024,96
+E-01187,2026-02-25,Mittwoch,18:27,U-0049,Handy,Suche,S-031,242
+E-01188,2026-02-25,Mittwoch,19:03,U-0092,Smart Speaker,Playlist,S-062,23
+E-01189,2026-02-25,Mittwoch,19:42,U-0168,,Album,S-003,181
+E-01190,2026-02-25,Mittwoch,19:55,U-0052,Handy,Autoplay,S-074,21
+E-01191,2026-02-25,Mittwoch,20:04,U-0039,Handy,Autoplay,S-035,169
+E-01192,2026-02-25,Mittwoch,20:15,U-0147,Handy,Playlist,S-004,156
+E-01193,2026-02-25,Mittwoch,20:28,U-0112,Smart Speaker,Autoplay,S-115,227
+E-01194,2026-02-25,Mittwoch,21:28,U-0181,Smart Speaker,Playlist,S-078,158
+E-01195,2026-02-25,Mittwoch,21:48,U-0084,Desktop,Playlist,S-094,59
+E-01196,2026-02-25,Mittwoch,22:12,U-0126,Handy,Autoplay,S-004,156
+E-01197,2026-02-25,Mittwoch,22:28,U-0164,Tablet,Autoplay,S-008,212
+E-01198,2026-02-25,Mittwoch,22:41,U-0182,Handy,Playlist,S-007,210
+E-01199,2026-02-26,Donnerstag,00:52,U-0168,Handy,Playlist,S-031,242
+E-01200,2026-02-26,Donnerstag,07:29,U-0021,Handy,Autoplay,S-091,14
+E-01201,2026-02-26,Donnerstag,07:35,U-0141,Handy,Suche,S-096,196
+E-01202,2026-02-26,Donnerstag,07:55,U-0106,Desktop,Album,S-036,9999
+E-01203,2026-02-26,Donnerstag,08:00,U-0193,Handy,Suche,S-021,223
+E-01204,2026-02-26,Donnerstag,08:06,U-0040,Desktop,Autoplay,S-096,196
+E-01205,2026-02-26,Donnerstag,09:34,U-0100,Handy,Playlist,S-011,125
+E-01206,2026-02-26,Donnerstag,09:34,U-0005,Handy,Autoplay,S-060,22
+E-01207,2026-02-26,Donnerstag,10:06,U-0167,Desktop,Autoplay,S-090,239
+E-01208,2026-02-26,Donnerstag,12:22,U-0061,Smart Speaker,Autoplay,S-041,27
+E-01209,2026-02-26,Donnerstag,13:56,U-0026,Desktop,Suche,S-041,90
+E-01210,2026-02-26,Donnerstag,14:33,U-0105,Desktop,Autoplay,S-058,327
+E-01211,2026-02-26,Donnerstag,14:52,U-0078,Smart Speaker,Playlist,S-105,202
+E-01212,2026-02-26,Donnerstag,14:57,U-0084,Desktop,Playlist,S-066,260
+E-01213,2026-02-26,Donnerstag,15:23,U-0122,Handy,Playlist,S-031,242
+E-01214,2026-02-26,Donnerstag,16:37,U-0092,Desktop,Autoplay,S-059,20
+E-01215,2026-02-26,Donnerstag,17:26,U-0102,Handy,Autoplay,S-040,21
+E-01216,2026-02-26,Donnerstag,20:11,U-0103,Handy,Playlist,S-078,135
+E-01217,2026-02-26,Donnerstag,20:29,U-0015,Smart Speaker,Playlist,S-044,160
+E-01218,2026-02-26,Donnerstag,21:54,U-0022,Smart Speaker,Album,S-103,89
+E-01219,2026-02-26,Donnerstag,22:18,U-0155,Handy,Autoplay,S-041,4
+E-01220,2026-02-26,Donnerstag,23:50,U-0077,Handy,Album,S-062,302
+E-01221,2026-02-27,Freitag,07:43,U-0250,Desktop,Autoplay,S-078,208
+E-01222,2026-02-27,Freitag,08:22,U-0132,Desktop,Playlist,S-021,22
+E-01223,2026-02-27,Freitag,08:26,U-0078,Desktop,Playlist,S-031,242
+E-01223,2026-02-27,Freitag,08:26,U-0078,Desktop,Playlist,S-031,242
+E-01224,2026-02-27,Freitag,08:32,U-0176,Handy,Playlist,S-015,160
+E-01225,2026-02-27,Freitag,08:55,U-0146,Handy,Playlist,S-070,26
+E-01226,2026-02-27,Freitag,10:40,U-0037,Handy,Playlist,S-032,34
+E-01227,2026-02-27,Freitag,11:30,U-0167,Handy,Album,S-011,164
+E-01228,2026-02-27,Freitag,11:50,U-0093,Handy,Playlist,S-086,164
+E-01229,2026-02-27,Freitag,12:06,U-0086,Smart Speaker,Playlist,S-001,223
+E-01230,2026-02-27,Freitag,12:28,U-0027,Handy,Suche,S-012,212
+E-01231,2026-02-27,Freitag,13:00,U-0013,Handy,Suche,S-009,223
+E-01232,2026-02-27,Freitag,13:30,U-0176,Handy,Album,S-035,4
+E-01233,2026-02-27,Freitag,15:17,U-0145,Tablet,Album,S-004,156
+E-01234,2026-02-27,Freitag,16:06,U-0167,Handy,Playlist,S-032,173
+E-01235,2026-02-27,Freitag,16:19,U-0063,Desktop,Suche,S-021,11
+E-01236,2026-02-27,Freitag,16:31,U-0089,Handy,Album,S-049,221
+E-01237,2026-02-27,Freitag,16:39,U-0176,Handy,Album,S-004,156
+E-01238,2026-02-27,Freitag,16:48,U-0164,Smart Speaker,Playlist,S-064,77
+E-01239,2026-02-27,Freitag,16:50,U-0049,Smart Speaker,Playlist,S-065,223
+E-01240,2026-02-27,Freitag,17:06,U-0023,Handy,Playlist,S-035,3
+E-01241,2026-02-27,Freitag,17:24,U-0112,Tablet,Playlist,S-021,137
+E-01242,2026-02-27,Freitag,17:26,U-0182,Tablet,Suche,S-114,356
+E-01243,2026-02-27,Freitag,18:40,U-0152,Tablet,Playlist,S-016,24
+E-01244,2026-02-27,Freitag,18:42,U-0010,Smart Speaker,Playlist,S-088,237
+E-01245,2026-02-27,Freitag,18:49,U-0063,Handy,Suche,S-094,6
+E-01246,2026-02-27,Freitag,19:49,U-0046,Handy,Playlist,S-041,189
+E-01247,2026-02-27,Freitag,20:40,U-0176,Handy,Album,S-028,195
+E-01248,2026-02-27,Freitag,20:41,U-0161,Handy,Suche,S-090,68
+E-01249,2026-02-27,Freitag,21:23,U-0103,Tablet,Playlist,S-013,174
+E-01250,2026-02-27,Freitag,21:52,U-0010,Tablet,Album,S-005,132
+E-01251,2026-02-27,Freitag,21:56,U-0088,Desktop,Playlist,S-004,109
+E-01252,2026-02-27,Freitag,22:54,U-0109,Handy,Album,S-024,221
+E-01253,2026-02-27,Freitag,23:16,U-0022,Handy,Autoplay,S-011,164
+E-01254,2026-02-27,Freitag,23:26,U-0010,Smart Speaker,Playlist,S-109,317
+E-01255,2026-02-27,Freitag,23:56,U-0076,Desktop,Suche,S-041,189
+E-01256,2026-02-27,Freitag,23:58,U-0057,Tablet,Playlist,S-062,302
+E-01257,2026-02-28,Samstag,06:51,U-0108,Handy,Autoplay,S-059,226
+E-01258,2026-02-28,Samstag,07:01,U-0058,Tablet,Album,S-011,98
+E-01259,2026-02-28,Samstag,08:40,U-0156,Handy,Playlist,S-116,28
+E-01260,2026-02-28,Samstag,09:02,U-0160,Handy,Autoplay,S-037,7
+E-01261,2026-02-28,Samstag,09:06,U-0059,Handy,Album,S-076,256
+E-01262,2026-02-28,Samstag,09:20,U-0023,Handy,Autoplay,S-082,18
+E-01263,2026-02-28,Samstag,10:19,U-0007,Handy,Album,S-014,20
+E-01264,2026-02-28,Samstag,10:36,U-0001,Handy,Autoplay,S-024,23
+E-01265,2026-02-28,Samstag,14:38,U-0164,,Suche,S-032,239
+E-01266,2026-02-28,Samstag,15:06,U-0152,Tablet,Autoplay,S-011,124
+E-01267,2026-02-28,Samstag,17:27,U-0124,Tablet,Playlist,S-053,10
+E-01268,2026-02-28,Samstag,17:27,U-0198,Desktop,Playlist,S-021,223
+E-01269,2026-02-28,Samstag,18:54,U-0056,Handy,Album,S-064,241
+E-01270,2026-02-28,Samstag,18:58,U-0169,Tablet,Suche,S-032,201
+E-01271,2026-02-28,Samstag,19:07,U-0178,Desktop,Album,S-064,54
+E-01272,2026-02-28,Samstag,19:22,U-0026,Handy,Playlist,S-104,201
+E-01273,2026-02-28,Samstag,19:51,U-0108,Smart Speaker,Autoplay,S-021,200
+E-01274,2026-02-28,Samstag,21:03,U-0013,Handy,Playlist,S-104,201
+E-01275,2026-02-28,Samstag,21:51,U-0045,Tablet,Playlist,S-004,156
+E-01276,2026-02-28,Samstag,22:33,U-0173,Smart Speaker,Playlist,S-070,319
+E-01277,2026-02-28,Samstag,22:42,U-0156,Smart Speaker,Autoplay,S-096,196
+E-01278,2026-02-28,Samstag,22:47,U-0104,Smart Speaker,Playlist,S-007,210
+E-01279,2026-02-28,Samstag,22:54,U-0192,Smart Speaker,Album,S-031,242
+E-01280,2026-02-28,Samstag,23:00,U-0038,Tablet,Album,S-041,189
+E-01281,2026-03-01,Sonntag,06:14,U-0072,Smart Speaker,Autoplay,S-096,59
+E-01282,2026-03-01,Sonntag,07:35,U-0010,Desktop,Playlist,S-021,223
+E-01283,2026-03-01,Sonntag,07:44,U-0031,Handy,Playlist,S-038,207
+E-01284,2026-03-01,Sonntag,08:16,U-0151,,Suche,S-041,189
+E-01285,2026-03-01,Sonntag,09:05,U-0132,Handy,Autoplay,S-008,212
+E-01286,2026-03-01,Sonntag,09:11,U-0199,Handy,Autoplay,S-021,117
+E-01287,2026-03-01,Sonntag,09:58,U-0002,Handy,Album,S-064,241
+E-01288,2026-03-01,Sonntag,10:32,U-0111,Handy,Suche,S-086,94
+E-01289,2026-03-01,Sonntag,12:01,U-0143,Handy,Playlist,S-021,223
+E-01290,2026-03-01,Sonntag,12:33,U-0172,Handy,Autoplay,S-046,25
+E-01291,2026-03-01,Sonntag,13:07,U-0031,Handy,Suche,S-078,208
+E-01292,2026-03-01,Sonntag,15:27,U-0105,Handy,Playlist,S-068,235
+E-01293,2026-03-01,Sonntag,17:29,U-0141,Handy,Playlist,S-004,156
+E-01294,2026-03-01,Sonntag,17:31,U-0188,Tablet,Autoplay,S-047,12
+E-01295,2026-03-01,Sonntag,17:56,U-0063,Handy,Playlist,S-101,253
+E-01296,2026-03-01,Sonntag,18:10,U-0181,Desktop,Playlist,S-064,241
+E-01297,2026-03-01,Sonntag,18:28,U-0199,Desktop,Playlist,S-008,188
+E-01298,2026-03-01,Sonntag,19:00,U-0023,Handy,Autoplay,S-040,6
+E-01299,2026-03-01,Sonntag,19:20,U-0102,Smart Speaker,Playlist,S-092,204
+E-01300,2026-03-01,Sonntag,19:32,U-0173,Handy,Album,S-105,190
+E-01301,2026-03-01,Sonntag,19:43,U-0064,Handy,Playlist,S-062,16
+E-01302,2026-03-01,Sonntag,19:50,U-0023,Tablet,Album,S-001,223
+E-01303,2026-03-01,Sonntag,20:09,U-0152,Smart Speaker,Playlist,S-070,319
+E-01304,2026-03-01,Sonntag,20:37,U-0156,Desktop,Playlist,S-019,55
+E-01305,2026-03-01,Sonntag,20:47,U-0176,Tablet,Playlist,S-092,26
+E-01306,2026-03-01,Sonntag,21:31,U-0118,Handy,Album,S-048,285
+E-01307,2026-03-01,Sonntag,21:44,U-0083,Smart Speaker,Playlist,S-036,194
+E-01308,2026-03-01,Sonntag,22:10,U-0176,Tablet,Suche,S-031,242
+E-01309,2026-03-02,Montag,05:13,U-0097,Smartphone,Playlist,S-064,221
+E-01310,2026-03-02,Montag,06:04,U-0189,Handy,Playlist,S-011,31
+E-01311,2026-03-02,Montag,06:14,U-0142,Handy,Album,S-021,102
+E-01312,2026-03-02,Montag,08:07,U-0155,,Autoplay,S-109,11
+E-01313,2026-03-02,Montag,08:41,U-0094,Tablet,Playlist,S-107,189
+E-01314,2026-03-02,Montag,08:48,U-0069,Handy,Playlist,S-033,25
+E-01315,2026-03-02,Montag,09:26,U-0163,Handy,Autoplay,S-078,9
+E-01316,2026-03-02,Montag,11:29,U-0063,Handy,Playlist,S-031,242
+E-01317,2026-03-02,Montag,11:46,U-0018,Desktop,Autoplay,S-083,9
+E-01318,2026-03-02,Montag,11:47,U-0170,Handy,Playlist,S-060,76
+E-01319,2026-03-02,Montag,15:35,U-0011,Handy,Playlist,S-001,223
+E-01320,2026-03-02,Montag,16:20,U-0014,,Autoplay,S-011,164
+E-01321,2026-03-02,Montag,18:24,U-0079,Handy,Album,S-101,253
+E-01322,2026-03-02,Montag,18:28,U-0143,Handy,Album,S-020,162
+E-01323,2026-03-02,Montag,19:04,U-0034,Smart Speaker,Autoplay,S-021,223
+E-01324,2026-03-02,Montag,19:14,U-0063,Handy,Suche,S-024,54
+E-01325,2026-03-02,Montag,20:25,U-0021,Handy,Autoplay,S-096,196
+E-01326,2026-03-02,Montag,22:43,U-0038,Handy,Suche,S-042,165
+E-01327,2026-03-02,Montag,23:59,U-0049,Desktop,Playlist,S-001,223
+E-01328,2026-03-03,Dienstag,00:19,U-0103,Tablet,Playlist,S-101,253
+E-01329,2026-03-03,Dienstag,05:11,U-0105,,Album,S-051,23
+E-01330,2026-03-03,Dienstag,07:17,U-0108,Handy,Playlist,S-062,164
+E-01331,2026-03-03,Dienstag,07:41,U-0108,Handy,Playlist,S-011,101
+E-01332,2026-03-03,Dienstag,07:52,U-0063,Handy,Playlist,S-007,210
+E-01333,2026-03-03,Dienstag,07:58,,Handy,Autoplay,S-096,5
+E-01334,2026-03-03,Dienstag,08:20,U-0026,Tablet,Playlist,S-050,40
+E-01335,2026-03-03,Dienstag,09:12,U-0002,Desktop,Suche,S-003,159
+E-01336,2026-03-03,Dienstag,09:40,U-0091,Tablet,Playlist,S-015,4
+E-01337,2026-03-03,Dienstag,09:56,,Handy,Album,S-069,18
+E-01338,2026-03-03,Dienstag,11:41,U-0075,Desktop,Suche,S-078,208
+E-01339,2026-03-03,Dienstag,11:41,,Desktop,Autoplay,S-020,162
+E-01340,2026-03-03,Dienstag,15:43,U-0170,Handy,Suche,S-064,161
+E-01341,2026-03-03,Dienstag,15:54,U-0037,Smart Speaker,Autoplay,S-014,4
+E-01342,2026-03-03,Dienstag,16:40,U-0058,Handy,Suche,S-011,164
+E-01343,2026-03-03,Dienstag,17:09,U-0146,Handy,Playlist,S-092,14
+E-01344,2026-03-03,Dienstag,17:34,U-0014,Smart Speaker,Playlist,S-021,223
+E-01345,2026-03-03,Dienstag,17:38,U-0035,Handy,Autoplay,S-024,124
+E-01346,2026-03-03,Dienstag,17:51,U-0014,Tablet,Suche,S-041,189
+E-01347,2026-03-03,Dienstag,19:13,U-0017,Handy,Playlist,S-057,308
+E-01348,2026-03-03,Dienstag,19:26,U-0021,Handy,Playlist,S-028,137
+E-01349,2026-03-03,Dienstag,20:56,U-0151,Handy,Autoplay,S-029,13
+E-01350,2026-03-03,Dienstag,21:25,U-0145,,Autoplay,S-032,26
+E-01351,2026-03-03,Dienstag,21:45,U-0014,Handy,Autoplay,S-101,8
+E-01352,2026-03-03,Dienstag,23:57,U-0188,Tablet,Playlist,S-115,341
+E-01353,2026-03-04,Mittwoch,00:12,U-0025,Handy,Album,S-076,359
+E-01354,2026-03-04,Mittwoch,00:13,U-0057,Handy,Playlist,S-073,223
+E-01355,2026-03-04,Mittwoch,05:38,U-0007,Tablet,Playlist,S-024,221
+E-01356,2026-03-04,Mittwoch,06:44,U-0037,Handy,Autoplay,S-078,208
+E-01357,2026-03-04,Mittwoch,07:02,U-0140,Handy,Suche,S-105,202
+E-01358,2026-03-04,Mittwoch,08:53,U-0048,Handy,Autoplay,S-031,242
+E-01359,2026-03-04,Mittwoch,09:26,U-0169,Handy,Playlist,S-027,165
+E-01360,2026-03-04,Mittwoch,10:45,U-0135,Desktop,Playlist,S-094,211
+E-01361,2026-03-04,Mittwoch,16:11,U-0121,Handy,Autoplay,S-007,210
+E-01362,2026-03-04,Mittwoch,16:46,U-0110,Tablet,Playlist,S-110,13
+E-01363,2026-03-04,Mittwoch,17:35,U-0095,Handy,Suche,S-064,241
+E-01364,2026-03-04,Mittwoch,17:55,U-0117,Smart Speaker,Album,S-092,204
+E-01365,2026-03-04,Mittwoch,18:15,,Handy,Album,S-043,157
+E-01366,2026-03-04,Mittwoch,18:18,U-0041,Desktop,Autoplay,S-041,189
+E-01367,2026-03-04,Mittwoch,18:24,U-0052,Desktop,Autoplay,S-064,171
+E-01368,2026-03-04,Mittwoch,22:19,U-0093,Smartphone,Autoplay,S-114,6
+E-01369,2026-03-04,Mittwoch,22:31,U-0111,Smart Speaker,Playlist,S-109,15
+E-01370,2026-03-04,Mittwoch,23:33,U-0052,Handy,Playlist,S-032,219
+E-01371,2026-03-04,Mittwoch,23:53,U-0140,Handy,Suche,S-098,257
+E-01372,2026-03-05,Donnerstag,07:22,U-0058,,Playlist,S-096,196
+E-01373,2026-03-05,Donnerstag,08:04,U-0048,Handy,Album,S-064,241
+E-01374,2026-03-05,Donnerstag,08:07,U-0166,Handy,Playlist,S-011,164
+E-01375,2026-03-05,Donnerstag,08:46,U-0186,Smart Speaker,Playlist,S-028,195
+E-01376,2026-03-05,Donnerstag,08:53,U-0068,Handy,Playlist,S-018,9
+E-01377,2026-03-05,Donnerstag,09:23,U-0186,Handy,Album,S-074,168
+E-01378,2026-03-05,Donnerstag,10:28,U-0126,Tablet,Suche,S-081,17
+E-01379,2026-03-05,Donnerstag,10:56,U-0143,Desktop,Album,S-038,136
+E-01380,2026-03-05,Donnerstag,13:03,U-0009,Smart Speaker,Album,S-090,239
+E-01381,2026-03-05,Donnerstag,13:38,U-0001,Handy,Autoplay,S-024,13
+E-01382,2026-03-05,Donnerstag,14:31,U-0086,Handy,Playlist,S-118,28
+E-01383,2026-03-05,Donnerstag,14:52,U-0136,Handy,Album,S-003,181
+E-01384,2026-03-05,Donnerstag,14:56,U-0031,Handy,Playlist,S-082,207
+E-01385,2026-03-05,Donnerstag,17:40,U-0182,Desktop,Album,S-031,242
+E-01386,2026-03-05,Donnerstag,20:55,U-0036,Smart Speaker,Playlist,S-115,17
+E-01387,2026-03-05,Donnerstag,21:02,U-0043,Tablet,Autoplay,S-088,16
+E-01388,2026-03-05,Donnerstag,21:55,U-0156,Handy,Playlist,S-084,205
+E-01389,2026-03-05,Donnerstag,22:19,U-0038,Tablet,Autoplay,S-043,157
+E-01390,2026-03-05,Donnerstag,23:37,U-0170,Smart Speaker,Playlist,S-107,301
+E-01391,2026-03-06,Freitag,06:08,U-0196,Handy,Suche,S-023,173
+E-01392,2026-03-06,Freitag,07:08,U-0107,Handy,Album,S-026,245
+E-01393,2026-03-06,Freitag,07:20,U-0063,Handy,Autoplay,S-078,97
+E-01394,2026-03-06,Freitag,08:00,U-0151,Handy,Playlist,S-005,205
+E-01395,2026-03-06,Freitag,08:23,U-0152,Handy,Playlist,S-028,45
+E-01396,2026-03-06,Freitag,09:11,U-0010,Handy,Autoplay,S-116,312
+E-01397,2026-03-06,Freitag,10:36,U-0024,Desktop,Playlist,S-084,157
+E-01398,2026-03-06,Freitag,11:39,U-0199,Handy,Autoplay,S-024,221
+E-01399,2026-03-06,Freitag,11:56,U-0190,Handy,Suche,S-041,189
+E-01400,2026-03-06,Freitag,12:56,U-0199,Tablet,Playlist,S-021,223
+E-01401,2026-03-06,Freitag,13:29,U-0031,Tablet,Album,S-078,208
+E-01402,2026-03-06,Freitag,13:44,U-0152,Tablet,Suche,S-093,211
+E-01403,2026-03-06,Freitag,13:56,U-0058,Desktop,Suche,S-078,208
+E-01404,2026-03-06,Freitag,14:02,U-0033,Desktop,Album,S-013,155
+E-01405,2026-03-06,Freitag,14:35,U-0006,Desktop,Playlist,S-046,5
+E-01406,2026-03-06,Freitag,15:00,U-0054,Handy,Autoplay,S-010,158
+E-01407,2026-03-06,Freitag,15:10,U-0161,Handy,Suche,S-086,339
+E-01408,2026-03-06,Freitag,16:16,U-0116,Handy,Suche,S-031,242
+E-01409,2026-03-06,Freitag,16:38,U-0167,Handy,Autoplay,S-046,273
+E-01410,2026-03-06,Freitag,17:19,U-0095,,Album,S-061,318
+E-01411,2026-03-06,Freitag,17:28,U-0058,Smart Speaker,Playlist,S-058,327
+E-01412,2026-03-06,Freitag,18:24,U-0084,Smart Speaker,Autoplay,S-041,101
+E-01413,2026-03-06,Freitag,18:36,U-0038,Handy,Playlist,S-001,178
+E-01414,2026-03-06,Freitag,18:42,U-0008,Desktop,Playlist,S-057,19
+E-01415,2026-03-06,Freitag,19:07,U-0164,Desktop,Autoplay,S-081,272
+E-01416,2026-03-06,Freitag,19:30,U-0150,Tablet,Album,S-032,239
+E-01417,2026-03-06,Freitag,19:32,U-0111,Tablet,Playlist,S-015,55
+E-01418,2026-03-06,Freitag,20:26,U-0031,Handy,Autoplay,S-078,61
+E-01419,2026-03-06,Freitag,20:36,,Handy,Autoplay,S-112,17
+E-01420,2026-03-06,Freitag,21:57,U-0007,Handy,Playlist,S-041,177
+E-01421,2026-03-06,Freitag,22:36,U-0063,Desktop,Playlist,S-064,7
+E-01422,2026-03-06,Freitag,23:20,U-0191,Smart Speaker,Album,S-051,261
+E-01423,2026-03-07,Samstag,00:46,U-0003,Tablet,Suche,S-062,302
+E-01424,2026-03-07,Samstag,05:08,,Handy,Autoplay,S-003,181
+E-01425,2026-03-07,Samstag,06:23,U-0182,Handy,Suche,S-026,245
+E-01426,2026-03-07,Samstag,07:04,U-0011,Handy,Album,S-021,223
+E-01427,2026-03-07,Samstag,07:09,U-0083,Desktop,Playlist,S-031,169
+E-01428,2026-03-07,Samstag,08:07,U-0176,Handy,Autoplay,S-103,9
+E-01429,2026-03-07,Samstag,08:49,U-0179,Handy,Playlist,S-007,210
+E-01430,2026-03-07,Samstag,08:51,U-0095,Handy,Autoplay,S-011,11
+E-01431,2026-03-07,Samstag,08:54,U-0183,handy,Suche,S-033,241
+E-01432,2026-03-07,Samstag,08:58,U-0145,Tablet,Suche,S-036,194
+E-01433,2026-03-07,Samstag,09:37,U-0007,Handy,Album,S-020,162
+E-01434,2026-03-07,Samstag,09:44,U-0102,Handy,Autoplay,S-011,164
+E-01435,2026-03-07,Samstag,12:08,U-0112,handy,Playlist,S-009,223
+E-01436,2026-03-07,Samstag,12:18,U-0152,Handy,Playlist,S-062,153
+E-01437,2026-03-07,Samstag,13:23,U-0010,Tablet,Playlist,S-081,362
+E-01438,2026-03-07,Samstag,13:39,U-0171,Tablet,Suche,S-072,27
+E-01439,2026-03-07,Samstag,14:18,U-0023,Handy,Playlist,S-042,189
+E-01440,2026-03-07,Samstag,15:44,U-0200,Handy,Playlist,S-041,48
+E-01441,2026-03-07,Samstag,16:32,U-0021,Handy,Album,S-062,302
+E-01442,2026-03-07,Samstag,17:07,U-0075,Tablet,Playlist,S-078,208
+E-01443,2026-03-07,Samstag,17:29,U-0022,Smart Speaker,Playlist,S-037,78
+E-01444,2026-03-07,Samstag,18:16,U-0192,Handy,Playlist,S-004,156
+E-01445,2026-03-07,Samstag,18:42,U-0037,Tablet,Playlist,S-031,144
+E-01446,2026-03-07,Samstag,19:00,U-0044,Smart Speaker,Autoplay,S-064,63
+E-01447,2026-03-07,Samstag,19:05,U-0108,Handy,Playlist,S-037,226
+E-01448,2026-03-07,Samstag,19:28,U-0176,Handy,Playlist,S-030,213
+E-01449,2026-03-07,Samstag,19:48,U-0151,Smart Speaker,Playlist,S-066,239
+E-01450,2026-03-07,Samstag,19:49,U-0049,Desktop,Playlist,S-042,189
+E-01451,2026-03-07,Samstag,19:54,U-0011,Smart Speaker,Playlist,S-041,133
+E-01452,2026-03-07,Samstag,19:56,U-0001,Handy,Playlist,S-053,157
+E-01453,2026-03-07,Samstag,19:57,U-0176,Smart Speaker,Playlist,S-021,223
+E-01454,2026-03-07,Samstag,19:58,U-0063,Handy,Autoplay,S-078,111
+E-01455,2026-03-07,Samstag,20:08,U-0102,Tablet,Autoplay,S-011,164
+E-01456,2026-03-07,Samstag,20:23,U-0081,Smart Speaker,Autoplay,S-058,327
+E-01457,2026-03-07,Samstag,21:54,U-0096,Desktop,Autoplay,S-082,15
+E-01458,2026-03-07,Samstag,23:53,U-0170,Handy,Album,S-057,308
+E-01459,2026-03-07,Samstag,23:54,U-0115,Tablet,Autoplay,S-051,261
+E-01460,2026-03-08,Sonntag,06:39,U-0040,Handy,Playlist,S-116,26
+E-01461,2026-03-08,Sonntag,06:56,U-0032,Tablet,Playlist,S-026,245
+E-01462,2026-03-08,Sonntag,08:17,U-0020,Desktop,Autoplay,S-041,189
+E-01463,2026-03-08,Sonntag,09:00,U-0176,Desktop,Autoplay,S-073,11
+E-01464,2026-03-08,Sonntag,09:16,U-0037,Handy,Suche,S-064,241
+E-01465,2026-03-08,Sonntag,09:16,U-0118,Handy,Playlist,S-109,256
+E-01466,2026-03-08,Sonntag,09:23,U-0152,Handy,Playlist,S-018,189
+E-01467,2026-03-08,Sonntag,11:01,U-0007,Handy,Playlist,S-024,153
+E-01468,2026-03-08,Sonntag,11:14,U-0021,Handy,Autoplay,S-041,189
+E-01469,2026-03-08,Sonntag,11:25,U-0079,Handy,Autoplay,S-020,162
+E-01470,2026-03-08,Sonntag,11:37,U-0123,Tablet,Autoplay,S-042,14
+E-01471,2026-03-08,Sonntag,11:55,U-0009,Handy,Playlist,S-024,221
+E-01472,2026-03-08,Sonntag,13:07,U-0073,Desktop,Playlist,S-024,37
+E-01473,2026-03-08,Sonntag,13:58,U-0182,Tablet,Album,S-061,318
+E-01474,2026-03-08,Sonntag,14:06,U-0078,Desktop,Playlist,S-032,99
+E-01475,2026-03-08,Sonntag,14:59,U-0140,Tablet,Playlist,S-018,189
+E-01476,2026-03-08,Sonntag,16:29,U-0151,Handy,Playlist,S-010,77
+E-01477,2026-03-08,Sonntag,16:59,U-0037,Desktop,Autoplay,S-011,164
+E-01478,2026-03-08,Sonntag,17:44,U-0118,Desktop,Album,S-011,164
+E-01479,2026-03-08,Sonntag,17:44,U-0051,Smart Speaker,Suche,S-052,204
+E-01480,2026-03-08,Sonntag,18:21,U-0070,Handy,Autoplay,S-003,24
+E-01481,2026-03-08,Sonntag,18:51,U-0049,Smart Speaker,Autoplay,S-027,165
+E-01482,2026-03-08,Sonntag,20:24,U-0082,Smart Speaker,Album,S-042,25
+E-01483,2026-03-08,Sonntag,20:28,U-0093,Desktop,Album,S-097,195
+E-01484,2026-03-08,Sonntag,20:50,U-0107,Smart Speaker,Playlist,S-088,237
+E-01485,2026-03-08,Sonntag,21:00,,Smart Speaker,Playlist,S-041,189
+E-01486,2026-03-08,Sonntag,21:11,U-0093,Handy,Playlist,S-073,223
+E-01487,2026-03-08,Sonntag,21:47,U-0124,Smart Speaker,Suche,S-018,189
+E-01488,2026-03-08,Sonntag,22:40,U-0199,Desktop,Autoplay,S-043,16
+E-01489,2026-03-09,Montag,07:08,U-0017,Desktop,Playlist,S-061,318
+E-01490,2026-03-09,Montag,07:34,U-0042,Desktop,Playlist,S-085,155
+E-01491,2026-03-09,Montag,08:00,U-0088,Smart Speaker,Album,S-064,14
+E-01492,2026-03-09,Montag,08:10,U-0145,Tablet,Playlist,S-011,29
+E-01493,2026-03-09,Montag,08:26,U-0088,Smart Speaker,Playlist,S-095,38
+E-01494,2026-03-09,Montag,08:50,U-0167,Handy,Playlist,S-021,49
+E-01495,2026-03-09,Montag,08:57,U-0049,Handy,Suche,S-031,100
+E-01496,2026-03-09,Montag,10:52,U-0060,Desktop,Album,S-073,64
+E-01497,2026-03-09,Montag,10:59,,Desktop,Suche,S-011,164
+E-01498,2026-03-09,Montag,11:47,U-0037,Desktop,Album,S-004,156
+E-01499,2026-03-09,Montag,13:17,U-0044,Tablet,Suche,S-029,181
+E-01500,2026-03-09,Montag,13:23,U-0023,Handy,Playlist,S-089,151
+E-01501,2026-03-09,Montag,15:11,U-0105,Handy,Playlist,S-082,130
+E-01502,2026-03-09,Montag,15:35,U-0037,Tablet,Playlist,S-096,45
+E-01503,2026-03-09,Montag,15:52,U-0097,Desktop,Autoplay,S-064,27
+E-01504,2026-03-09,Montag,16:36,U-0183,Handy,Playlist,S-021,223
+E-01505,2026-03-09,Montag,16:38,U-0185,Tablet,Autoplay,S-047,8
+E-01506,2026-03-09,Montag,16:57,U-0047,Desktop,Suche,S-096,196
+E-01506,2026-03-09,Montag,16:57,U-0047,Desktop,Suche,S-096,196
+E-01507,2026-03-09,Montag,17:00,U-0153,Handy,Album,S-064,8
+E-01508,2026-03-09,Montag,17:52,U-0108,Handy,Suche,S-024,221
+E-01509,2026-03-09,Montag,19:12,U-0169,,Album,S-079,237
+E-01510,2026-03-09,Montag,19:34,U-0043,Handy,Autoplay,S-011,144
+E-01511,2026-03-09,Montag,19:39,U-0126,Tablet,Playlist,S-026,245
+E-01512,2026-03-09,Montag,20:16,,Smart Speaker,Playlist,S-078,36
+E-01513,2026-03-09,Montag,20:35,U-0021,Handy,Autoplay,S-091,108
+E-01514,2026-03-09,Montag,21:53,U-0077,Smart Speaker,Playlist,S-038,207
+E-01515,2026-03-09,Montag,22:18,,Tablet,Autoplay,S-021,29
+E-01516,2026-03-09,Montag,22:23,U-0049,Smart Speaker,Playlist,S-011,164
+E-01517,2026-03-10,Dienstag,00:08,U-0058,Smart Speaker,Album,S-105,202
+E-01518,2026-03-10,Dienstag,00:09,U-0083,Handy,Suche,S-086,25
+E-01519,2026-03-10,Dienstag,06:22,U-0179,Handy,Autoplay,S-086,206
+E-01520,2026-03-10,Dienstag,07:29,U-0095,Handy,Suche,S-001,28
+E-01521,2026-03-10,Dienstag,08:22,U-0014,Handy,Suche,S-041,189
+E-01522,2026-03-10,Dienstag,09:30,U-0060,Handy,Autoplay,S-090,212
+E-01523,2026-03-10,Dienstag,10:31,U-0031,Desktop,Playlist,S-078,208
+E-01524,2026-03-10,Dienstag,11:00,U-0043,Desktop,Autoplay,S-046,10
+E-01525,2026-03-10,Dienstag,12:14,U-0112,Tablet,Album,S-075,141
+E-01526,2026-03-10,Dienstag,13:36,U-0070,Handy,Album,S-001,14
+E-01527,2026-03-10,Dienstag,14:08,U-0152,Handy,Playlist,S-005,97
+E-01528,2026-03-10,Dienstag,15:09,U-0200,Desktop,Playlist,S-039,190
+E-01529,2026-03-10,Dienstag,16:26,U-0179,Desktop,Autoplay,S-096,196
+E-01530,2026-03-10,Dienstag,17:38,U-0037,Smart Speaker,Playlist,S-041,4
+E-01531,2026-03-10,Dienstag,18:47,U-0183,Handy,Suche,S-041,7
+E-01532,2026-03-10,Dienstag,19:08,U-0140,Handy,Suche,S-026,6
+E-01533,2026-03-10,Dienstag,19:29,U-0168,Tablet,Autoplay,S-041,14
+E-01534,2026-03-10,Dienstag,19:33,U-0041,Handy,Autoplay,S-115,25
+E-01535,2026-03-10,Dienstag,20:20,U-0013,Handy,Suche,S-038,207
+E-01536,2026-03-10,Dienstag,20:29,U-0105,Handy,Autoplay,S-078,208
+E-01537,2026-03-10,Dienstag,20:49,U-0012,Tablet,Album,S-045,52
+E-01538,2026-03-10,Dienstag,21:08,U-0021,Tablet,Playlist,S-062,168
+E-01539,2026-03-10,Dienstag,21:32,U-0200,Smart Speaker,Playlist,S-004,130
+E-01540,2026-03-11,Mittwoch,07:09,U-0113,Handy,Autoplay,S-019,14
+E-01541,2026-03-11,Mittwoch,08:00,U-0010,Desktop,Album,S-110,306
+E-01542,2026-03-11,Mittwoch,08:09,U-0103,,Album,S-068,36
+E-01543,2026-03-11,Mittwoch,08:44,U-0022,Handy,Album,S-016,205
+E-01544,2026-03-11,Mittwoch,08:47,U-0053,Desktop,Playlist,S-093,211
+E-01545,2026-03-11,Mittwoch,08:59,U-0151,Smart Speaker,Album,S-011,164
+E-01546,2026-03-11,Mittwoch,09:16,U-0179,Handy,Suche,S-078,37
+E-01547,2026-03-11,Mittwoch,10:57,U-0023,Desktop,Playlist,S-070,319
+E-01548,2026-03-11,Mittwoch,11:01,U-0066,,Playlist,S-021,223
+E-01549,2026-03-11,Mittwoch,11:41,U-0020,Desktop,Autoplay,S-015,160
+E-01550,2026-03-11,Mittwoch,11:53,U-0182,Handy,Playlist,S-078,19
+E-01551,2026-03-11,Mittwoch,12:01,U-0107,Handy,Playlist,S-041,189
+E-01552,2026-03-11,Mittwoch,13:36,U-0141,Desktop,Suche,S-103,257
+E-01553,2026-03-11,Mittwoch,15:20,U-0145,Desktop,Album,S-094,211
+E-01554,2026-03-11,Mittwoch,15:48,U-0008,Desktop,Album,S-114,416
+E-01555,2026-03-11,Mittwoch,16:21,U-0040,Desktop,Suche,S-036,46
+E-01556,2026-03-11,Mittwoch,17:56,U-0170,Handy,Playlist,S-057,115
+E-01557,2026-03-11,Mittwoch,18:13,U-0051,Desktop,Playlist,S-055,89
+E-01558,2026-03-11,Mittwoch,18:45,U-0040,Tablet,Album,S-028,195
+E-01559,2026-03-11,Mittwoch,19:13,U-0261,Smart Speaker,Playlist,S-105,10
+E-01560,2026-03-11,Mittwoch,19:30,U-0063,Tablet,Playlist,S-097,195
+E-01561,2026-03-11,Mittwoch,20:00,U-0011,Tablet,Playlist,S-024,178
+E-01562,2026-03-11,Mittwoch,20:12,U-0049,Desktop,Album,S-031,16
+E-01563,2026-03-11,Mittwoch,21:38,U-0059,Tablet,Playlist,S-105,202
+E-01564,2026-03-11,Mittwoch,22:22,U-0043,Tablet,Autoplay,S-120,18
+E-01565,2026-03-11,Mittwoch,22:24,,Handy,Playlist,S-078,208
+E-01566,2026-03-12,Donnerstag,00:41,U-0158,Handy,Playlist,S-057,308
+E-01567,2026-03-12,Donnerstag,07:03,U-0168,Desktop,Suche,S-011,164
+E-01568,2026-03-12,Donnerstag,07:04,U-0056,Tablet,Suche,S-059,158
+E-01569,2026-03-12,Donnerstag,08:07,U-0037,Handy,Playlist,S-028,195
+E-01570,2026-03-12,Donnerstag,08:44,U-0097,Smart Speaker,Playlist,S-078,17
+E-01571,2026-03-12,Donnerstag,09:46,U-0144,Desktop,Playlist,S-064,33
+E-01572,2026-03-12,Donnerstag,12:07,U-0017,Handy,Suche,S-066,260
+E-01573,2026-03-12,Donnerstag,12:18,U-0124,Tablet,Autoplay,S-001,83
+E-01574,2026-03-12,Donnerstag,12:30,U-0058,Smart Speaker,Playlist,S-016,205
+E-01575,2026-03-12,Donnerstag,13:00,U-0126,Desktop,Suche,S-010,89
+E-01576,2026-03-12,Donnerstag,14:57,U-0087,Desktop,Playlist,S-070,319
+E-01577,2026-03-12,Donnerstag,15:22,U-0058,Tablet,Suche,S-011,164
+E-01578,2026-03-12,Donnerstag,15:56,U-0110,Tablet,Autoplay,S-090,220
+E-01579,2026-03-12,Donnerstag,16:31,U-0119,Smart Speaker,Playlist,S-064,7
+E-01580,2026-03-12,Donnerstag,16:34,U-0200,Tablet,Playlist,S-093,135
+E-01581,2026-03-12,Donnerstag,17:31,U-0093,Handy,Album,S-111,246
+E-01582,2026-03-12,Donnerstag,17:34,U-0054,Tablet,Autoplay,S-011,164
+E-01583,2026-03-12,Donnerstag,17:55,U-0125,Desktop,Playlist,S-084,26
+E-01584,2026-03-12,Donnerstag,18:45,U-0031,Tablet,Suche,S-072,296
+E-01585,2026-03-12,Donnerstag,19:06,U-0068,Handy,Album,S-078,208
+E-01586,2026-03-12,Donnerstag,19:18,U-0192,Handy,Suche,S-003,181
+E-01587,2026-03-12,Donnerstag,20:04,U-0118,Handy,Album,S-083,133
+E-01588,2026-03-12,Donnerstag,20:36,U-0176,Handy,Autoplay,S-021,223
+E-01589,2026-03-12,Donnerstag,21:09,U-0105,Smart Speaker,Album,S-001,223
+E-01590,2026-03-12,Donnerstag,21:51,U-0143,Desktop,Playlist,S-096,18
+E-01591,2026-03-12,Donnerstag,21:56,,Smart Speaker,Autoplay,S-011,16
+E-01592,2026-03-13,Freitag,06:34,U-0075,Handy,Playlist,S-011,138
+E-01593,2026-03-13,Freitag,07:21,U-0161,Handy,Suche,S-082,207
+E-01594,2026-03-13,Freitag,08:13,U-0035,,Playlist,S-011,164
+E-01595,2026-03-13,Freitag,09:29,,Desktop,Playlist,S-068,235
+E-01596,2026-03-13,Freitag,09:47,U-0108,Smart Speaker,Album,S-027,28
+E-01597,2026-03-13,Freitag,09:47,U-0135,Handy,Autoplay,S-008,33
+E-01598,2026-03-13,Freitag,09:52,U-0054,Tablet,Autoplay,S-011,10
+E-01599,2026-03-13,Freitag,10:13,U-0060,Desktop,Album,S-107,26
+E-01600,2026-03-13,Freitag,10:51,U-0183,Handy,Suche,S-064,241
+E-01601,2026-03-13,Freitag,11:27,U-0130,,Album,S-021,223
+E-01602,2026-03-13,Freitag,11:47,U-0044,Handy,Playlist,S-109,235
+E-01603,2026-03-13,Freitag,12:32,U-0167,Desktop,Playlist,S-045,191
+E-01604,2026-03-13,Freitag,13:18,U-0059,Handy,Playlist,S-068,235
+E-01605,2026-03-13,Freitag,13:55,U-0016,Desktop,Suche,S-083,20
+E-01606,2026-03-13,Freitag,15:08,U-0195,Desktop,Autoplay,S-041,189
+E-01607,2026-03-13,Freitag,15:16,U-0112,Desktop,Autoplay,S-004,156
+E-01608,2026-03-13,Freitag,16:27,U-0116,Desktop,Autoplay,S-024,19
+E-01609,2026-03-13,Freitag,16:34,U-0141,Handy,Autoplay,S-001,223
+E-01610,2026-03-13,Freitag,17:56,U-0135,Handy,Playlist,S-062,222
+E-01611,2026-03-13,Freitag,18:50,U-0056,Handy,Suche,S-038,207
+E-01612,2026-03-13,Freitag,19:50,U-0018,Handy,Album,S-087,354
+E-01613,2026-03-13,Freitag,20:15,U-0041,Handy,Playlist,S-032,239
+E-01614,2026-03-13,Freitag,20:16,U-0110,Handy,Playlist,S-024,26
+E-01615,2026-03-13,Freitag,20:26,U-0114,Handy,Autoplay,S-019,5
+E-01616,2026-03-13,Freitag,20:35,U-0057,Tablet,Playlist,S-090,239
+E-01617,2026-03-13,Freitag,22:08,U-0131,Smart Speaker,Playlist,S-079,17
+E-01618,2026-03-13,Freitag,22:08,,Smart Speaker,Playlist,S-005,205
+E-01619,2026-03-13,Freitag,22:25,U-0038,Handy,Suche,S-007,9
+E-01620,2026-03-13,Freitag,22:44,U-0108,Handy,Playlist,S-024,221
+E-01621,2026-03-14,Samstag,01:29,U-0152,Tablet,Album,S-087,354
+E-01622,2026-03-14,Samstag,04:24,U-0133,Handy,Album,S-018,189
+E-01623,2026-03-14,Samstag,07:06,U-0142,Handy,Playlist,S-027,165
+E-01624,2026-03-14,Samstag,07:15,U-0051,Desktop,Playlist,S-032,12
+E-01625,2026-03-14,Samstag,07:21,U-0002,handy,Album,S-041,4
+E-01626,2026-03-14,Samstag,10:18,U-0194,,Playlist,S-100,226
+E-01627,2026-03-14,Samstag,10:34,U-0111,Handy,Album,S-107,301
+E-01628,2026-03-14,Samstag,11:01,U-0063,Tablet,Playlist,S-096,196
+E-01629,2026-03-14,Samstag,12:09,U-0014,Handy,Album,S-041,189
+E-01630,2026-03-14,Samstag,12:44,U-0054,Handy,Album,S-090,239
+E-01631,2026-03-14,Samstag,14:52,U-0123,Handy,Autoplay,S-023,173
+E-01632,2026-03-14,Samstag,16:06,U-0023,Tablet,Album,S-062,302
+E-01633,2026-03-14,Samstag,16:21,U-0087,Handy,Playlist,S-011,9999
+E-01634,2026-03-14,Samstag,16:56,U-0052,Tablet,Autoplay,S-011,164
+E-01635,2026-03-14,Samstag,17:45,U-0103,Smart Speaker,Playlist,S-060,26
+E-01636,2026-03-14,Samstag,18:15,U-0079,Smart Speaker,Autoplay,S-082,207
+E-01637,2026-03-14,Samstag,18:24,U-0032,Handy,Playlist,S-078,180
+E-01638,2026-03-14,Samstag,18:28,U-0151,Handy,Album,S-080,17
+E-01639,2026-03-14,Samstag,19:36,U-0163,Desktop,Suche,S-062,212
+E-01640,2026-03-14,Samstag,20:10,U-0038,Handy,Playlist,S-096,8
+E-01641,2026-03-14,Samstag,20:20,U-0047,Handy,Album,S-107,301
+E-01642,2026-03-14,Samstag,20:29,U-0170,Handy,Playlist,S-114,6
+E-01643,2026-03-14,Samstag,20:44,U-0037,,Autoplay,S-078,52
+E-01644,2026-03-14,Samstag,20:47,U-0001,Handy,Album,S-021,223
+E-01645,2026-03-14,Samstag,21:02,U-0063,Handy,Playlist,S-024,69
+E-01646,2026-03-14,Samstag,21:05,U-0104,Tablet,Album,S-031,242
+E-01647,2026-03-14,Samstag,21:14,U-0151,Tablet,Autoplay,S-007,14
+E-01648,2026-03-14,Samstag,21:35,U-0063,Tablet,Playlist,S-023,173
+E-01649,2026-03-14,Samstag,21:44,U-0033,Tablet,Suche,S-053,159
+E-01650,2026-03-14,Samstag,22:29,,Smart Speaker,Playlist,S-018,189
+E-01651,2026-03-14,Samstag,22:42,U-0130,Smart Speaker,Autoplay,S-028,195
+E-01652,2026-03-14,Samstag,22:52,U-0143,Smart Speaker,Playlist,S-010,158
+E-01653,2026-03-14,Samstag,23:55,U-0117,Smart Speaker,Playlist,S-032,239
+E-01654,2026-03-15,Sonntag,02:41,U-0108,Desktop,Autoplay,S-064,241
+E-01655,2026-03-15,Sonntag,05:10,U-0063,Handy,Autoplay,S-056,19
+E-01656,2026-03-15,Sonntag,06:09,U-0063,Handy,Autoplay,S-066,14
+E-01657,2026-03-15,Sonntag,07:43,U-0038,Handy,Autoplay,S-078,57
+E-01658,2026-03-15,Sonntag,08:07,U-0075,Handy,Autoplay,S-069,279
+E-01659,2026-03-15,Sonntag,08:24,U-0063,Tablet,Autoplay,S-066,16
+E-01660,2026-03-15,Sonntag,08:26,U-0078,Handy,Playlist,S-007,15
+E-01661,2026-03-15,Sonntag,08:39,U-0127,Handy,Suche,S-031,242
+E-01662,2026-03-15,Sonntag,09:48,U-0105,Handy,Album,S-092,173
+E-01663,2026-03-15,Sonntag,12:48,U-0033,Handy,Suche,S-011,164
+E-01664,2026-03-15,Sonntag,13:42,U-0038,Handy,Album,S-041,189
+E-01665,2026-03-15,Sonntag,15:34,U-0038,Handy,Playlist,S-079,237
+E-01666,2026-03-15,Sonntag,15:45,U-0092,Handy,Autoplay,S-008,7
+E-01667,2026-03-15,Sonntag,16:13,U-0049,Handy,Suche,S-119,331
+E-01668,2026-03-15,Sonntag,17:11,U-0093,Tablet,Playlist,S-094,211
+E-01669,2026-03-15,Sonntag,17:15,U-0200,Handy,Suche,S-060,205
+E-01670,2026-03-15,Sonntag,18:02,U-0023,handy,Playlist,S-026,245
+E-01671,2026-03-15,Sonntag,19:07,U-0022,Tablet,Autoplay,S-041,167
+E-01672,2026-03-15,Sonntag,19:22,U-0219,Tablet,Autoplay,S-007,12
+E-01673,2026-03-15,Sonntag,19:32,U-0143,Handy,Suche,S-105,202
+E-01674,2026-03-15,Sonntag,20:00,U-0049,Handy,Album,S-053,248
+E-01675,2026-03-15,Sonntag,20:32,U-0146,,Autoplay,S-011,124
+E-01676,2026-03-15,Sonntag,20:33,,Handy,Playlist,S-062,36
+E-01677,2026-03-15,Sonntag,20:36,U-0027,handy,Playlist,S-074,281
+E-01678,2026-03-15,Sonntag,21:20,U-0140,Smart Speaker,Suche,S-056,204
+E-01679,2026-03-15,Sonntag,21:36,U-0080,Tablet,Playlist,S-043,35
+E-01680,2026-03-15,Sonntag,21:55,U-0097,Smartphone,Playlist,S-078,118
+E-01681,2026-03-15,Sonntag,23:15,U-0188,Handy,Playlist,S-108,4
+E-01682,2026-03-16,Montag,06:38,U-0152,Handy,Playlist,S-032,239
+E-01683,2026-03-16,Montag,07:30,U-0170,Desktop,Autoplay,S-001,25
+E-01684,2026-03-16,Montag,08:23,U-0001,Handy,Playlist,S-114,416
+E-01685,2026-03-16,Montag,09:02,U-0054,Desktop,Suche,S-096,196
+E-01686,2026-03-16,Montag,12:17,U-0081,Desktop,Playlist,S-062,302
+E-01687,2026-03-16,Montag,15:35,U-0022,Handy,Album,S-004,12
+E-01688,2026-03-16,Montag,16:17,U-0177,Handy,Suche,S-031,12
+E-01689,2026-03-16,Montag,17:45,U-0037,Smart Speaker,Playlist,S-096,196
+E-01690,2026-03-16,Montag,19:10,U-0160,Handy,Playlist,S-007,210
+E-01691,2026-03-16,Montag,20:31,U-0143,Smart Speaker,Playlist,S-032,239
+E-01692,2026-03-16,Montag,21:10,U-0147,Smart Speaker,Autoplay,S-082,18
+E-01693,2026-03-16,Montag,21:34,U-0081,Smart Speaker,Autoplay,S-078,208
+E-01694,2026-03-16,Montag,22:18,U-0089,Handy,Playlist,S-064,12
+E-01695,2026-03-16,Montag,22:30,U-0054,Handy,Suche,S-095,47
+E-01696,2026-03-16,Montag,22:31,U-0015,Smart Speaker,Suche,S-023,173
+E-01697,2026-03-17,Dienstag,06:08,U-0128,,Playlist,S-083,8
+E-01698,2026-03-17,Dienstag,07:11,U-0011,Smart Speaker,Playlist,S-091,74
+E-01699,2026-03-17,Dienstag,08:29,U-0105,Handy,Playlist,S-075,26
+E-01700,2026-03-17,Dienstag,09:29,U-0083,Handy,Playlist,S-031,61
+E-01701,2026-03-17,Dienstag,11:21,U-0068,Smart Speaker,Playlist,S-026,245
+E-01702,2026-03-17,Dienstag,11:50,U-0084,Handy,Autoplay,S-101,253
+E-01703,2026-03-17,Dienstag,15:49,U-0004,Tablet,Playlist,S-064,241
+E-01704,2026-03-17,Dienstag,17:54,U-0176,Desktop,Album,S-078,30
+E-01704,2026-03-17,Dienstag,17:54,U-0176,Desktop,Album,S-078,30
+E-01705,2026-03-17,Dienstag,18:27,U-0068,Tablet,Playlist,S-109,296
+E-01706,2026-03-17,Dienstag,18:52,U-0160,Handy,Playlist,S-041,189
+E-01707,2026-03-17,Dienstag,19:16,U-0167,Desktop,Suche,S-091,216
+E-01708,2026-03-17,Dienstag,20:14,,Tablet,Playlist,S-092,204
+E-01709,2026-03-17,Dienstag,20:25,U-0019,,Autoplay,S-026,111
+E-01710,2026-03-17,Dienstag,20:32,U-0017,Handy,Playlist,S-078,14
+E-01711,2026-03-17,Dienstag,20:33,U-0180,Handy,Autoplay,S-038,17
+E-01712,2026-03-17,Dienstag,21:01,,Handy,Playlist,S-062,239
+E-01713,2026-03-17,Dienstag,21:48,U-0155,Desktop,Suche,S-021,223
+E-01714,2026-03-17,Dienstag,21:49,U-0011,Tablet,Album,S-044,130
+E-01715,2026-03-18,Mittwoch,03:00,U-0038,Handy,Album,S-011,40
+E-01716,2026-03-18,Mittwoch,06:49,U-0011,Handy,Suche,S-038,207
+E-01717,2026-03-18,Mittwoch,07:36,U-0102,Desktop,Playlist,S-105,202
+E-01718,2026-03-18,Mittwoch,07:37,U-0044,Handy,Suche,S-096,196
+E-01719,2026-03-18,Mittwoch,08:46,,Handy,Album,S-078,67
+E-01720,2026-03-18,Mittwoch,09:52,U-0155,Handy,Album,S-101,3
+E-01721,2026-03-18,Mittwoch,10:03,U-0105,Tablet,Suche,S-064,241
+E-01722,2026-03-18,Mittwoch,10:10,U-0107,Desktop,Album,S-012,212
+E-01723,2026-03-18,Mittwoch,10:16,U-0167,Desktop,Playlist,S-031,242
+E-01724,2026-03-18,Mittwoch,11:53,U-0103,,Autoplay,S-043,157
+E-01725,2026-03-18,Mittwoch,14:59,U-0095,Handy,Suche,S-090,239
+E-01726,2026-03-18,Mittwoch,15:24,U-0105,Desktop,Autoplay,S-052,172
+E-01727,2026-03-18,Mittwoch,15:37,U-0058,Desktop,Autoplay,S-105,202
+E-01728,2026-03-18,Mittwoch,17:50,U-0097,Tablet,Playlist,S-033,241
+E-01729,2026-03-18,Mittwoch,18:27,U-0063,Handy,Suche,S-063,298
+E-01730,2026-03-18,Mittwoch,19:19,U-0023,Smart Speaker,Playlist,S-088,237
+E-01731,2026-03-18,Mittwoch,19:45,U-0196,Handy,Autoplay,S-011,26
+E-01732,2026-03-18,Mittwoch,20:07,U-0069,Handy,Playlist,S-041,45
+E-01733,2026-03-18,Mittwoch,20:20,U-0160,Tablet,Suche,S-021,223
+E-01734,2026-03-18,Mittwoch,21:03,U-0045,handy,Suche,S-029,181
+E-01735,2026-03-18,Mittwoch,21:46,U-0095,Desktop,Autoplay,S-041,4
+E-01736,2026-03-18,Mittwoch,22:05,,Desktop,Suche,S-097,195
+E-01737,2026-03-18,Mittwoch,22:32,U-0119,Smart Speaker,Playlist,S-057,308
+E-01738,2026-03-18,Mittwoch,23:39,U-0099,Smart Speaker,Album,S-010,158
+E-01739,2026-03-19,Donnerstag,06:55,U-0008,Handy,Playlist,S-103,22
+E-01740,2026-03-19,Donnerstag,07:01,U-0176,Handy,Autoplay,S-078,21
+E-01741,2026-03-19,Donnerstag,07:58,U-0072,Handy,Album,S-016,97
+E-01742,2026-03-19,Donnerstag,08:07,U-0096,Handy,Autoplay,S-042,24
+E-01743,2026-03-19,Donnerstag,08:46,,Handy,Autoplay,S-090,173
+E-01744,2026-03-19,Donnerstag,09:04,U-0173,Handy,Playlist,S-021,223
+E-01745,2026-03-19,Donnerstag,09:09,U-0185,Handy,Autoplay,S-021,17
+E-01746,2026-03-19,Donnerstag,09:23,U-0027,Handy,Playlist,S-021,223
+E-01747,2026-03-19,Donnerstag,09:38,U-0135,Tablet,Suche,S-011,164
+E-01748,2026-03-19,Donnerstag,11:16,,Handy,Playlist,S-041,189
+E-01749,2026-03-19,Donnerstag,11:16,U-0054,Smart Speaker,Suche,S-024,107
+E-01750,2026-03-19,Donnerstag,11:18,U-0183,,Album,S-103,105
+E-01751,2026-03-19,Donnerstag,15:05,U-0176,Smart Speaker,Autoplay,S-011,164
+E-01752,2026-03-19,Donnerstag,16:23,U-0037,Tablet,Suche,S-026,18
+E-01753,2026-03-19,Donnerstag,18:15,U-0032,Smart Speaker,Album,S-001,223
+E-01754,2026-03-19,Donnerstag,18:23,U-0049,Tablet,Suche,S-019,163
+E-01755,2026-03-19,Donnerstag,18:26,U-0207,Handy,Playlist,S-004,156
+E-01756,2026-03-19,Donnerstag,18:51,U-0104,Smart Speaker,Playlist,S-114,27
+E-01757,2026-03-19,Donnerstag,19:02,U-0117,Smart Speaker,Autoplay,S-095,36
+E-01758,2026-03-19,Donnerstag,19:25,U-0200,Tablet,Playlist,S-104,201
+E-01759,2026-03-19,Donnerstag,19:42,U-0170,Handy,Suche,S-057,308
+E-01760,2026-03-19,Donnerstag,19:43,U-0054,Desktop,Album,S-096,196
+E-01761,2026-03-19,Donnerstag,19:51,U-0037,Handy,Suche,S-082,21
+E-01762,2026-03-19,Donnerstag,20:17,U-0102,Smart Speaker,Playlist,S-011,9999
+E-01763,2026-03-19,Donnerstag,20:47,U-0261,Tablet,Suche,S-026,245
+E-01764,2026-03-19,Donnerstag,22:54,U-0061,Smart Speaker,Playlist,S-043,157
+E-01765,2026-03-19,Donnerstag,23:05,U-0049,Handy,Playlist,S-011,45
+E-01766,2026-03-19,Donnerstag,23:43,U-0176,Smart Speaker,Playlist,S-088,237
+E-01767,2026-03-20,Freitag,00:11,U-0199,Tablet,Autoplay,S-105,147
+E-01768,2026-03-20,Freitag,06:49,U-0161,Handy,Playlist,S-042,189
+E-01769,2026-03-20,Freitag,06:49,U-0037,Handy,Suche,S-019,163
+E-01770,2026-03-20,Freitag,07:25,U-0138,Handy,Album,S-088,13
+E-01771,2026-03-20,Freitag,07:43,U-0051,Handy,Playlist,S-026,25
+E-01772,2026-03-20,Freitag,08:03,U-0038,Handy,Album,S-018,189
+E-01773,2026-03-20,Freitag,08:21,U-0011,Handy,Playlist,S-041,156
+E-01774,2026-03-20,Freitag,08:50,U-0069,Handy,Playlist,S-041,189
+E-01775,2026-03-20,Freitag,09:01,U-0161,,Suche,S-041,189
+E-01776,2026-03-20,Freitag,09:26,U-0127,Handy,Suche,S-057,183
+E-01777,2026-03-20,Freitag,09:28,U-0119,Desktop,Suche,S-064,241
+E-01778,2026-03-20,Freitag,09:42,U-0014,Handy,Suche,S-011,164
+E-01779,2026-03-20,Freitag,10:43,U-0181,Smart Speaker,Playlist,S-031,242
+E-01780,2026-03-20,Freitag,10:51,U-0119,Handy,Playlist,S-061,18
+E-01781,2026-03-20,Freitag,11:27,,Handy,Playlist,S-057,265
+E-01782,2026-03-20,Freitag,11:46,U-0088,Desktop,Autoplay,S-014,114
+E-01783,2026-03-20,Freitag,12:36,U-0132,Smart Speaker,Playlist,S-004,156
+E-01784,2026-03-20,Freitag,12:53,U-0060,Desktop,Autoplay,S-064,12
+E-01785,2026-03-20,Freitag,14:21,U-0135,Desktop,Autoplay,S-088,10
+E-01786,2026-03-20,Freitag,15:02,U-0010,Handy,Album,S-033,5
+E-01786,2026-03-20,Freitag,15:02,U-0010,Handy,Album,S-033,5
+E-01787,2026-03-20,Freitag,15:03,U-0127,Desktop,Album,S-031,242
+E-01788,2026-03-20,Freitag,17:01,U-0163,Tablet,Playlist,S-053,248
+E-01789,2026-03-20,Freitag,17:08,U-0177,Handy,Playlist,S-011,164
+E-01790,2026-03-20,Freitag,17:16,U-0165,Tablet,Playlist,S-008,212
+E-01791,2026-03-20,Freitag,17:49,U-0063,Desktop,Playlist,S-105,202
+E-01792,2026-03-20,Freitag,18:29,U-0021,Smart Speaker,Suche,S-096,196
+E-01793,2026-03-20,Freitag,18:33,U-0158,Smart Speaker,Album,S-046,273
+E-01794,2026-03-20,Freitag,19:03,U-0039,Smart Speaker,Playlist,S-021,223
+E-01795,2026-03-20,Freitag,19:18,U-0152,Handy,Autoplay,S-047,11
+E-01796,2026-03-20,Freitag,19:40,U-0132,Smart Speaker,Album,S-013,5
+E-01797,2026-03-20,Freitag,20:15,U-0049,Smart Speaker,Playlist,S-085,203
+E-01798,2026-03-20,Freitag,20:47,U-0140,Smart Speaker,Suche,S-014,201
+E-01799,2026-03-20,Freitag,21:21,U-0164,Smart Speaker,Playlist,S-118,16
+E-01800,2026-03-20,Freitag,22:04,U-0086,Desktop,Album,S-104,184
+E-01801,2026-03-21,Samstag,07:33,U-0007,Tablet,Suche,S-004,156
+E-01802,2026-03-21,Samstag,07:43,U-0165,Handy,Suche,S-011,164
+E-01803,2026-03-21,Samstag,08:02,U-0122,Handy,Suche,S-041,189
+E-01804,2026-03-21,Samstag,08:08,U-0087,Handy,Suche,S-041,189
+E-01805,2026-03-21,Samstag,08:44,U-0133,Desktop,Playlist,S-011,164
+E-01806,2026-03-21,Samstag,09:00,U-0070,Handy,Autoplay,S-062,171
+E-01807,2026-03-21,Samstag,09:03,U-0049,Desktop,Album,S-072,7
+E-01808,2026-03-21,Samstag,10:27,U-0088,Handy,Autoplay,S-041,189
+E-01809,2026-03-21,Samstag,11:44,U-0107,Desktop,Suche,S-011,164
+E-01810,2026-03-21,Samstag,12:00,U-0058,Handy,Playlist,S-085,61
+E-01811,2026-03-21,Samstag,14:19,U-0161,Smart Speaker,Suche,S-031,242
+E-01812,2026-03-21,Samstag,14:21,U-0086,Desktop,Playlist,S-088,237
+E-01813,2026-03-21,Samstag,17:19,U-0149,Handy,Autoplay,S-023,173
+E-01814,2026-03-21,Samstag,17:40,U-0110,Handy,Playlist,S-101,110
+E-01815,2026-03-21,Samstag,17:43,U-0054,Handy,Playlist,S-093,211
+E-01816,2026-03-21,Samstag,17:45,U-0049,,Playlist,S-011,164
+E-01817,2026-03-21,Samstag,18:27,U-0058,Smart Speaker,Album,S-022,157
+E-01818,2026-03-21,Samstag,18:42,U-0152,Smart Speaker,Autoplay,S-019,65
+E-01819,2026-03-21,Samstag,19:06,U-0064,Handy,Playlist,S-031,242
+E-01820,2026-03-21,Samstag,19:27,U-0164,Smart Speaker,Suche,S-064,241
+E-01821,2026-03-21,Samstag,19:35,U-0147,Handy,Autoplay,S-096,135
+E-01821,2026-03-21,Samstag,19:35,U-0147,Handy,Autoplay,S-096,135
+E-01822,2026-03-21,Samstag,19:41,U-0038,Desktop,Playlist,S-041,189
+E-01823,2026-03-21,Samstag,19:48,U-0119,Smart Speaker,Autoplay,S-057,8
+E-01824,2026-03-21,Samstag,21:05,U-0172,Handy,Autoplay,S-064,47
+E-01825,2026-03-21,Samstag,21:14,U-0012,Handy,Album,S-041,189
+E-01826,2026-03-21,Samstag,22:05,U-0261,Tablet,Playlist,S-096,116
+E-01827,2026-03-21,Samstag,22:33,U-0085,Handy,Suche,S-088,237
+E-01828,2026-03-21,Samstag,23:23,U-0058,Handy,Autoplay,S-080,196
+E-01829,2026-03-22,Sonntag,04:20,U-0063,Handy,Playlist,S-116,9999
+E-01830,2026-03-22,Sonntag,06:24,U-0031,Handy,Autoplay,S-085,77
+E-01831,2026-03-22,Sonntag,06:49,,Desktop,Playlist,S-064,16
+E-01832,2026-03-22,Sonntag,08:50,U-0038,,Album,S-103,257
+E-01833,2026-03-22,Sonntag,08:55,U-0001,Handy,Album,S-059,308
+E-01834,2026-03-22,Sonntag,09:22,U-0041,Handy,Album,S-024,221
+E-01835,2026-03-22,Sonntag,09:32,U-0188,Handy,Suche,S-109,27
+E-01836,2026-03-22,Sonntag,09:33,U-0037,Desktop,Autoplay,S-103,257
+E-01837,2026-03-22,Sonntag,10:03,U-0014,Desktop,Playlist,S-036,194
+E-01838,2026-03-22,Sonntag,11:01,U-0095,Handy,Suche,S-092,158
+E-01839,2026-03-22,Sonntag,11:11,U-0182,Handy,Autoplay,S-066,29
+E-01840,2026-03-22,Sonntag,11:24,U-0070,Handy,Album,S-059,8
+E-01841,2026-03-22,Sonntag,12:25,U-0200,Tablet,Playlist,S-011,164
+E-01842,2026-03-22,Sonntag,13:50,U-0123,Desktop,Suche,S-096,196
+E-01843,2026-03-22,Sonntag,14:30,U-0087,Desktop,Suche,S-080,44
+E-01844,2026-03-22,Sonntag,15:37,U-0070,Tablet,Playlist,S-062,13
+E-01845,2026-03-22,Sonntag,16:48,U-0097,Handy,Playlist,S-057,11
+E-01846,2026-03-22,Sonntag,17:17,U-0167,,Album,S-011,29
+E-01847,2026-03-22,Sonntag,17:27,U-0023,Smart Speaker,Playlist,S-075,356
+E-01847,2026-03-22,Sonntag,17:27,U-0023,Smart Speaker,Playlist,S-075,356
+E-01848,2026-03-22,Sonntag,17:52,U-0070,Handy,Autoplay,S-064,241
+E-01849,2026-03-22,Sonntag,19:06,U-0169,Smart Speaker,Suche,S-063,298
+E-01850,2026-03-22,Sonntag,19:32,U-0093,Tablet,Suche,S-062,173
+E-01851,2026-03-22,Sonntag,19:40,U-0103,Handy,Autoplay,S-078,144
+E-01852,2026-03-22,Sonntag,20:20,U-0152,Smart Speaker,Suche,S-037,226
+E-01853,2026-03-22,Sonntag,20:35,U-0038,Handy,Suche,S-094,211
+E-01854,2026-03-22,Sonntag,20:44,U-0149,Handy,Playlist,S-064,4
+E-01855,2026-03-23,Montag,07:20,U-0022,Smart Speaker,Autoplay,S-070,5
+E-01856,2026-03-23,Montag,07:36,U-0189,Handy,Suche,S-096,196
+E-01857,2026-03-23,Montag,08:22,U-0146,Desktop,Album,S-095,240
+E-01858,2026-03-23,Montag,08:55,U-0189,Handy,Album,S-064,241
+E-01859,2026-03-23,Montag,10:22,U-0039,Handy,Suche,S-105,202
+E-01860,2026-03-23,Montag,12:31,U-0160,Handy,Autoplay,S-090,5
+E-01861,2026-03-23,Montag,12:57,,Desktop,Playlist,S-100,59
+E-01862,2026-03-23,Montag,13:11,U-0031,Desktop,Album,S-083,200
+E-01863,2026-03-23,Montag,14:39,U-0072,Tablet,Autoplay,S-097,12
+E-01864,2026-03-23,Montag,15:26,U-0025,Tablet,Autoplay,S-101,17
+E-01865,2026-03-23,Montag,15:47,U-0156,Desktop,Playlist,S-090,239
+E-01866,2026-03-23,Montag,17:07,U-0046,Handy,Suche,S-028,195
+E-01867,2026-03-23,Montag,18:07,U-0073,Smart Speaker,Autoplay,S-041,23
+E-01868,2026-03-23,Montag,18:11,U-0196,Handy,Playlist,S-118,314
+E-01869,2026-03-23,Montag,19:35,U-0077,,Album,S-064,241
+E-01870,2026-03-23,Montag,20:28,U-0170,Tablet,Autoplay,S-108,310
+E-01871,2026-03-23,Montag,20:41,U-0042,Smart Speaker,Playlist,S-088,237
+E-01872,2026-03-23,Montag,21:18,U-0069,Tablet,Playlist,S-001,53
+E-01873,2026-03-23,Montag,23:56,U-0107,Handy,Playlist,S-011,32
+E-01874,2026-03-24,Dienstag,06:20,U-0127,Handy,Suche,S-064,241
+E-01875,2026-03-24,Dienstag,07:00,U-0045,Handy,Playlist,S-011,164
+E-01876,2026-03-24,Dienstag,11:05,U-0179,Desktop,Autoplay,S-064,201
+E-01877,2026-03-24,Dienstag,12:01,U-0120,Handy,Autoplay,S-062,302
+E-01878,2026-03-24,Dienstag,13:09,U-0068,Tablet,Album,S-047,140
+E-01879,2026-03-24,Dienstag,13:21,U-0038,Tablet,Suche,S-011,164
+E-01880,2026-03-24,Dienstag,16:24,U-0182,Handy,Suche,S-040,150
+E-01881,2026-03-24,Dienstag,16:38,U-0145,Desktop,Album,S-020,162
+E-01882,2026-03-24,Dienstag,17:45,,handy,Album,S-031,17
+E-01883,2026-03-24,Dienstag,19:08,U-0186,Tablet,Autoplay,S-081,362
+E-01884,2026-03-24,Dienstag,19:36,,Handy,Autoplay,S-054,208
+E-01885,2026-03-24,Dienstag,19:56,U-0120,Handy,Playlist,S-041,189
+E-01886,2026-03-24,Dienstag,20:22,U-0152,Handy,Playlist,S-011,164
+E-01887,2026-03-24,Dienstag,21:18,U-0019,Handy,Album,S-047,12
+E-01888,2026-03-24,Dienstag,21:18,U-0061,Smart Speaker,Playlist,S-021,223
+E-01889,2026-03-24,Dienstag,22:02,U-0112,Handy,Suche,S-031,14
+E-01890,2026-03-24,Dienstag,22:08,U-0188,Smart Speaker,Playlist,S-023,20
+E-01891,2026-03-24,Dienstag,22:59,U-0072,Handy,Suche,S-057,308
+E-01892,2026-03-25,Mittwoch,06:50,U-0152,Desktop,Playlist,S-108,195
+E-01893,2026-03-25,Mittwoch,07:45,U-0070,Handy,Album,S-046,273
+E-01894,2026-03-25,Mittwoch,08:55,U-0023,Handy,Suche,S-042,189
+E-01895,2026-03-25,Mittwoch,09:40,U-0038,Desktop,Album,S-033,164
+E-01896,2026-03-25,Mittwoch,09:47,U-0152,Desktop,Playlist,S-031,242
+E-01897,2026-03-25,Mittwoch,13:23,U-0100,Desktop,Playlist,S-041,45
+E-01898,2026-03-25,Mittwoch,15:25,U-0129,Desktop,Playlist,S-114,10
+E-01899,2026-03-25,Mittwoch,15:36,U-0058,Desktop,Playlist,S-021,137
+E-01900,2026-03-25,Mittwoch,17:26,U-0186,Smart Speaker,Playlist,S-007,122
+E-01901,2026-03-25,Mittwoch,17:55,U-0013,Handy,Autoplay,S-014,201
+E-01902,2026-03-25,Mittwoch,17:57,U-0120,Handy,Playlist,S-101,25
+E-01903,2026-03-25,Mittwoch,18:20,U-0041,Tablet,Suche,S-092,204
+E-01904,2026-03-25,Mittwoch,19:05,U-0176,Tablet,Playlist,S-032,45
+E-01905,2026-03-25,Mittwoch,19:05,U-0019,Tablet,Album,S-043,157
+E-01906,2026-03-25,Mittwoch,19:17,U-0083,Handy,Playlist,S-031,218
+E-01907,2026-03-25,Mittwoch,19:57,U-0088,Handy,Autoplay,S-013,13
+E-01908,2026-03-25,Mittwoch,20:55,U-0219,Desktop,Playlist,S-055,316
+E-01909,2026-03-25,Mittwoch,21:38,U-0101,Smart Speaker,Album,S-114,21
+E-01910,2026-03-26,Donnerstag,06:15,U-0199,Handy,Playlist,S-047,264
+E-01911,2026-03-26,Donnerstag,06:41,U-0032,Handy,Playlist,S-066,260
+E-01912,2026-03-26,Donnerstag,07:57,U-0070,Handy,Album,S-096,122
+E-01913,2026-03-26,Donnerstag,08:14,U-0104,Handy,Playlist,S-011,18
+E-01914,2026-03-26,Donnerstag,09:05,U-0105,Handy,Playlist,S-086,285
+E-01915,2026-03-26,Donnerstag,12:00,U-0168,Handy,Autoplay,S-021,196
+E-01916,2026-03-26,Donnerstag,12:21,U-0098,Desktop,Playlist,S-011,43
+E-01917,2026-03-26,Donnerstag,13:23,U-0096,Handy,Album,S-022,157
+E-01918,2026-03-26,Donnerstag,13:46,U-0073,Handy,Playlist,S-029,129
+E-01919,2026-03-26,Donnerstag,14:01,U-0088,Handy,Autoplay,S-041,15
+E-01920,2026-03-26,Donnerstag,14:30,U-0118,Smart Speaker,Autoplay,S-062,3
+E-01921,2026-03-26,Donnerstag,14:55,U-0032,Smart Speaker,Playlist,S-024,10
+E-01922,2026-03-26,Donnerstag,15:41,U-0142,Tablet,Autoplay,S-041,189
+E-01923,2026-03-26,Donnerstag,17:09,U-0069,Handy,Playlist,S-036,194
+E-01924,2026-03-26,Donnerstag,17:52,U-0031,Handy,Suche,S-004,156
+E-01925,2026-03-26,Donnerstag,18:37,U-0155,Handy,Playlist,S-041,61
+E-01926,2026-03-26,Donnerstag,18:45,U-0063,Smart Speaker,Playlist,S-047,146
+E-01927,2026-03-26,Donnerstag,18:47,U-0037,Tablet,Playlist,S-041,189
+E-01928,2026-03-26,Donnerstag,19:11,U-0156,Smart Speaker,Playlist,S-084,25
+E-01929,2026-03-26,Donnerstag,19:48,U-0122,Tablet,Playlist,S-011,9
+E-01930,2026-03-26,Donnerstag,20:07,U-0013,Handy,Playlist,S-078,6
+E-01931,2026-03-26,Donnerstag,20:15,U-0008,Tablet,Playlist,S-009,223
+E-01932,2026-03-26,Donnerstag,20:46,U-0153,Desktop,Suche,S-022,157
+E-01933,2026-03-26,Donnerstag,21:10,U-0170,Handy,Playlist,S-021,223
+E-01934,2026-03-26,Donnerstag,21:21,U-0135,Handy,Album,S-086,60
+E-01935,2026-03-26,Donnerstag,23:11,U-0094,Handy,Album,S-101,253
+E-01936,2026-03-27,Freitag,06:08,U-0173,Handy,Album,S-086,9
+E-01937,2026-03-27,Freitag,07:24,U-0034,Handy,Playlist,S-009,223
+E-01938,2026-03-27,Freitag,07:24,U-0045,Desktop,Autoplay,S-021,223
+E-01939,2026-03-27,Freitag,07:29,U-0111,Handy,Album,S-011,164
+E-01940,2026-03-27,Freitag,07:44,U-0047,Desktop,Autoplay,S-052,204
+E-01941,2026-03-27,Freitag,07:52,U-0057,Handy,Playlist,S-066,260
+E-01942,2026-03-27,Freitag,08:13,U-0056,Desktop,Album,S-088,237
+E-01943,2026-03-27,Freitag,08:27,U-0115,Handy,Suche,S-041,189
+E-01944,2026-03-27,Freitag,08:45,U-0143,,Album,S-082,11
+E-01945,2026-03-27,Freitag,09:19,,Desktop,Album,S-041,189
+E-01946,2026-03-27,Freitag,10:05,U-0105,Handy,Playlist,S-111,225
+E-01947,2026-03-27,Freitag,10:07,U-0034,Desktop,Autoplay,S-046,11
+E-01948,2026-03-27,Freitag,10:19,U-0125,Smartphone,Suche,S-026,245
+E-01949,2026-03-27,Freitag,11:06,U-0013,Desktop,Playlist,S-114,14
+E-01950,2026-03-27,Freitag,12:41,U-0102,Desktop,Playlist,S-011,17
+E-01951,2026-03-27,Freitag,13:04,U-0052,Desktop,Playlist,S-091,24
+E-01952,2026-03-27,Freitag,13:18,U-0167,handy,Autoplay,S-079,237
+E-01953,2026-03-27,Freitag,14:22,U-0162,Handy,Playlist,S-064,77
+E-01954,2026-03-27,Freitag,16:38,,Desktop,Album,S-118,440
+E-01955,2026-03-27,Freitag,17:01,U-0023,Tablet,Autoplay,S-010,17
+E-01956,2026-03-27,Freitag,17:27,U-0059,Handy,Autoplay,S-031,16
+E-01957,2026-03-27,Freitag,17:53,,Tablet,Autoplay,S-070,243
+E-01958,2026-03-27,Freitag,17:56,U-0063,Smart Speaker,Album,S-104,16
+E-01959,2026-03-27,Freitag,18:15,U-0093,Handy,Playlist,S-029,68
+E-01960,2026-03-27,Freitag,18:21,U-0108,Smart Speaker,Playlist,S-081,13
+E-01961,2026-03-27,Freitag,19:08,U-0111,Tablet,Album,S-021,223
+E-01962,2026-03-27,Freitag,19:11,U-0140,Handy,Suche,S-021,223
+E-01963,2026-03-27,Freitag,19:17,U-0160,Smart Speaker,Autoplay,S-011,17
+E-01964,2026-03-27,Freitag,19:26,,Tablet,Autoplay,S-078,208
+E-01965,2026-03-27,Freitag,20:03,U-0183,Smart Speaker,Autoplay,S-022,17
+E-01966,2026-03-27,Freitag,20:10,U-0032,Handy,Playlist,S-086,339
+E-01967,2026-03-27,Freitag,20:36,,Handy,Playlist,S-081,21
+E-01968,2026-03-27,Freitag,21:04,U-0189,Desktop,Suche,S-109,114
+E-01969,2026-03-27,Freitag,21:05,U-0057,Tablet,Suche,S-109,317
+E-01970,2026-03-27,Freitag,21:07,U-0072,Tablet,Playlist,S-064,6
+E-01971,2026-03-27,Freitag,21:22,U-0129,Handy,Autoplay,S-022,23
+E-01972,2026-03-27,Freitag,21:34,U-0027,Smart Speaker,Album,S-088,237
+E-01973,2026-03-27,Freitag,21:37,U-0010,Handy,Album,S-088,237
+E-01974,2026-03-27,Freitag,21:46,U-0151,Smart Speaker,Autoplay,S-001,26
+E-01975,2026-03-27,Freitag,21:54,U-0077,Smart Speaker,Autoplay,S-116,312
+E-01976,2026-03-27,Freitag,22:38,U-0200,Smart Speaker,Playlist,S-031,242
+E-01977,2026-03-27,Freitag,23:00,U-0207,Tablet,Playlist,S-016,6
+E-01978,2026-03-28,Samstag,06:46,U-0117,Handy,Suche,S-062,302
+E-01979,2026-03-28,Samstag,06:59,U-0049,Handy,Album,S-011,164
+E-01980,2026-03-28,Samstag,07:15,U-0011,Handy,Autoplay,S-022,15
+E-01981,2026-03-28,Samstag,07:35,U-0081,Desktop,Album,S-078,208
+E-01982,2026-03-28,Samstag,07:42,U-0161,Handy,Suche,S-041,189
+E-01983,2026-03-28,Samstag,07:49,U-0061,Desktop,Album,S-085,253
+E-01984,2026-03-28,Samstag,08:00,U-0001,Handy,Playlist,S-100,256
+E-01985,2026-03-28,Samstag,08:18,U-0165,Handy,Album,S-041,41
+E-01986,2026-03-28,Samstag,08:21,U-0121,Handy,Playlist,S-116,14
+E-01987,2026-03-28,Samstag,08:57,U-0128,,Playlist,S-003,181
+E-01988,2026-03-28,Samstag,09:24,U-0023,Smartphone,Autoplay,S-029,13
+E-01989,2026-03-28,Samstag,10:08,U-0179,Tablet,Playlist,S-115,60
+E-01990,2026-03-28,Samstag,10:24,U-0129,Handy,Album,S-067,100
+E-01991,2026-03-28,Samstag,11:23,U-0033,Tablet,Autoplay,S-090,239
+E-01992,2026-03-28,Samstag,11:34,U-0103,Desktop,Album,S-105,202
+E-01993,2026-03-28,Samstag,12:05,U-0141,Tablet,Album,S-064,241
+E-01994,2026-03-28,Samstag,12:51,U-0196,Desktop,Autoplay,S-011,164
+E-01995,2026-03-28,Samstag,13:25,U-0087,handy,Autoplay,S-118,26
+E-01996,2026-03-28,Samstag,14:28,,Handy,Autoplay,S-082,182
+E-01997,2026-03-28,Samstag,15:19,U-0102,Handy,Autoplay,S-014,201
+E-01998,2026-03-28,Samstag,18:20,U-0112,Desktop,Suche,S-096,196
+E-01999,2026-03-28,Samstag,18:49,U-0014,Handy,Playlist,S-011,112
+E-02000,2026-03-28,Samstag,19:18,U-0048,Tablet,Playlist,S-011,40
+E-02001,2026-03-28,Samstag,19:24,U-0124,Handy,Album,S-036,194
+E-02002,2026-03-28,Samstag,19:54,U-0109,Handy,Playlist,S-018,189
+E-02003,2026-03-28,Samstag,20:51,U-0102,Tablet,Suche,S-015,78
+E-02004,2026-03-28,Samstag,20:52,U-0002,Handy,Playlist,S-014,118
+E-02005,2026-03-28,Samstag,21:19,U-0143,Handy,Playlist,S-011,164
+E-02006,2026-03-28,Samstag,21:52,U-0017,Handy,Suche,S-029,181
+E-02007,2026-03-28,Samstag,22:38,U-0176,Smart Speaker,Album,S-021,223
+E-02008,2026-03-28,Samstag,23:02,U-0025,Tablet,Album,S-063,298
+E-02009,2026-03-28,Samstag,23:36,U-0021,Handy,Playlist,S-011,33
+E-02010,2026-03-29,Sonntag,07:10,U-0169,handy,Autoplay,S-075,174
+E-02011,2026-03-29,Sonntag,07:25,U-0164,Handy,Album,S-116,312
+E-02012,2026-03-29,Sonntag,08:04,U-0079,Handy,Suche,S-105,146
+E-02013,2026-03-29,Sonntag,08:55,U-0021,Handy,Autoplay,S-041,189
+E-02014,2026-03-29,Sonntag,09:09,U-0219,Handy,Playlist,S-062,302
+E-02015,2026-03-29,Sonntag,10:43,U-0044,Handy,Playlist,S-001,223
+E-02016,2026-03-29,Sonntag,11:15,U-0149,Handy,Album,S-082,20
+E-02017,2026-03-29,Sonntag,12:17,U-0070,Handy,Album,S-048,285
+E-02018,2026-03-29,Sonntag,12:43,U-0147,Desktop,Playlist,S-028,69
+E-02019,2026-03-29,Sonntag,14:25,U-0077,Tablet,Suche,S-003,181
+E-02020,2026-03-29,Sonntag,16:21,U-0045,Handy,Playlist,S-032,183
+E-02021,2026-03-29,Sonntag,16:43,U-0054,Desktop,Playlist,S-036,194
+E-02022,2026-03-29,Sonntag,18:02,U-0100,Handy,Playlist,S-024,221
+E-02023,2026-03-29,Sonntag,18:13,U-0079,Handy,Album,S-031,9999
+E-02024,2026-03-29,Sonntag,18:13,U-0170,Desktop,Album,S-023,173
+E-02025,2026-03-29,Sonntag,18:34,U-0170,Smart Speaker,Album,S-064,241
+E-02026,2026-03-29,Sonntag,18:36,U-0098,Desktop,Playlist,S-097,195
+E-02027,2026-03-29,Sonntag,18:41,U-0182,Handy,Album,S-105,202
+E-02028,2026-03-29,Sonntag,19:05,U-0026,Tablet,Playlist,S-101,110
+E-02029,2026-03-29,Sonntag,19:07,U-0037,,Album,S-096,196
+E-02030,2026-03-29,Sonntag,19:26,U-0132,Handy,Playlist,S-021,88
+E-02031,2026-03-29,Sonntag,19:52,U-0083,Smart Speaker,Autoplay,S-011,164
+E-02032,2026-03-29,Sonntag,20:50,U-0145,Smart Speaker,Autoplay,S-014,201
+E-02033,2026-03-29,Sonntag,21:29,U-0037,Desktop,Album,S-043,157
+E-02034,2026-03-29,Sonntag,21:29,U-0049,Handy,Playlist,S-041,135
+E-02035,2026-03-30,Montag,07:06,,Handy,Autoplay,S-041,28
+E-02036,2026-03-30,Montag,07:54,U-0104,Handy,Autoplay,S-011,9
+E-02037,2026-03-30,Montag,07:56,U-0151,Smart Speaker,Playlist,S-011,144
+E-02038,2026-03-30,Montag,08:25,U-0135,Handy,Suche,S-009,223
+E-02039,2026-03-30,Montag,08:51,U-0151,Handy,Album,S-041,189
+E-02040,2026-03-30,Montag,09:11,U-0178,Desktop,Suche,S-078,208
+E-02041,2026-03-30,Montag,09:13,U-0021,Handy,Playlist,S-031,3
+E-02042,2026-03-30,Montag,09:41,U-0108,Handy,Playlist,S-109,317
+E-02043,2026-03-30,Montag,16:28,U-0140,Handy,Playlist,S-066,260
+E-02044,2026-03-30,Montag,16:33,U-0161,Handy,Autoplay,S-011,141
+E-02045,2026-03-30,Montag,17:31,U-0040,Handy,Album,S-011,164
+E-02046,2026-03-30,Montag,17:35,,Smart Speaker,Playlist,S-080,41
+E-02047,2026-03-30,Montag,17:50,U-0014,Smart Speaker,Playlist,S-037,20
+E-02048,2026-03-30,Montag,18:58,U-0173,Handy,Album,S-011,164
+E-02049,2026-03-30,Montag,19:11,U-0151,Tablet,Suche,S-008,212
+E-02050,2026-03-30,Montag,20:21,U-0055,Tablet,Playlist,S-062,179
+E-02051,2026-03-30,Montag,20:42,U-0151,Handy,Suche,S-001,223
+E-02052,2026-03-30,Montag,22:13,U-0060,Handy,Autoplay,S-038,207
+E-02053,2026-03-30,Montag,22:58,U-0141,Handy,Autoplay,S-038,207
+E-02054,2026-03-31,Dienstag,07:46,U-0038,Handy,Playlist,S-024,5
+E-02055,2026-03-31,Dienstag,08:00,U-0138,handy,Suche,S-078,3
+E-02056,2026-03-31,Dienstag,08:25,U-0010,Smart Speaker,Playlist,S-001,223
+E-02057,2026-03-31,Dienstag,09:58,U-0071,Desktop,Playlist,S-041,177
+E-02058,2026-03-31,Dienstag,09:58,U-0073,Handy,Playlist,S-105,202
+E-02059,2026-03-31,Dienstag,10:08,U-0036,Smart Speaker,Autoplay,S-096,196
+E-02060,2026-03-31,Dienstag,10:29,U-0151,Tablet,Autoplay,S-011,26
+E-02061,2026-03-31,Dienstag,10:49,U-0155,Desktop,Autoplay,S-036,194
+E-02062,2026-03-31,Dienstag,11:27,U-0191,Handy,Album,S-062,302
+E-02063,2026-03-31,Dienstag,11:34,U-0070,Tablet,Album,S-009,28
+E-02064,2026-03-31,Dienstag,12:32,U-0107,Handy,Autoplay,S-044,4
+E-02065,2026-03-31,Dienstag,13:34,U-0084,Handy,Suche,S-031,242
+E-02066,2026-03-31,Dienstag,14:07,U-0002,Handy,Playlist,S-084,205
+E-02067,2026-03-31,Dienstag,14:13,U-0107,Handy,Playlist,S-021,223
+E-02068,2026-03-31,Dienstag,14:50,,Smart Speaker,Album,S-026,245
+E-02069,2026-03-31,Dienstag,17:19,U-0051,Tablet,Autoplay,S-007,210
+E-02070,2026-03-31,Dienstag,17:37,U-0112,Handy,Autoplay,S-062,73
+E-02071,2026-03-31,Dienstag,19:34,U-0014,Smart Speaker,Autoplay,S-092,165
+E-02072,2026-03-31,Dienstag,20:50,U-0177,Smart Speaker,Playlist,S-064,241
+E-02073,2026-03-31,Dienstag,20:59,U-0087,Handy,Playlist,S-055,72
+E-02074,2026-03-31,Dienstag,21:59,U-0023,Desktop,Album,S-043,157
+E-02075,2026-03-31,Dienstag,22:27,U-0095,Smart Speaker,Autoplay,S-042,12
+E-02076,2026-03-31,Dienstag,22:47,U-0100,Handy,Suche,S-001,189
+E-02077,2026-03-31,Dienstag,22:52,U-0105,Handy,Playlist,S-064,21

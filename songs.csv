@@ -1,0 +1,122 @@
+song_id;titel;kuenstler;genre;laenge;erscheinungsjahr;label
+S-001;Uferlos;Mara Feldt;Pop;3:43;2016;Hafenkante
+S-002;Achterbahn;Mara Feldt;Pop;2:32;2026;Kaltwasser Musik
+S-003;Funkstille;Mara Feldt;Pop;3:01;2019;Pulsar Media
+S-004;Feuerwerk;Juno Kley;pop;2:36;2018;Hafenkante
+S-005;Wildwechsel;Juno Kley;Pop;3:25;2018;Hafenkante
+S-006;Zuckerwatte;Juno Kley;Pop;3:41;2023;Hafenkante
+S-007;Dauerlauf;Liv Sanders;Pop;3:30;2024;Pulsar Media
+S-008;Späte Stunde;Liv Sanders;Pop;3:32;2016;Grüne Welle
+S-009;Wolkenlos;Liv Sanders;Pop;3:43;2021;Nordton Records
+S-010;Goldregen;Toni Hagedorn;Pop;2:38;2017;Hafenkante
+S-011;Herzklopfen;Toni Hagedorn;Pop;2:44;2025;Nordton Records
+S-012;Leichtsinn;Toni Hagedorn;Pop;3:32;2025;Grüne Welle
+S-013;Kopfkino;Elif & Ray;Pop;2:54;2021;Grüne Welle
+S-014;Endlos;Elif & Ray;Pop;3:21;2023;Hafenkante
+S-015;Neonlicht;Elif & Ray;POP;2:40;2020;Hafenkante
+S-016;Fernweh;Paulina Voss;pop;3:25;2023;Pulsar Media
+S-017;Heimweg;Paulina Voss;pop;3:26;2019;Kaltwasser Musik
+S-018;Kaltes Gold;Paulina Voss;Pop;3:09;2018;Grüne Welle
+S-019;Rückenwind;Nele Brandt;pop;2:43;2017;Hafenkante
+S-020;Zeitlupe;Nele Brandt;Pop;2:42;2016;Nordton Records
+S-021;Glasherz;Nele Brandt;Pop;3:43;2020;Hafenkante
+S-022;Sommerregen;Casimir;Pop;2:37;2019;
+S-023;Spiegelbild;Casimir;Pop;2:53;2021;
+S-024;Nachtzug;Casimir;POP;3:41;2014;
+S-025;Papiermond;K.O. Brandt;HipHop;3:14;2026;Grüne Welle
+S-026;Blaulicht;K.O. Brandt;HipHop;4:05;2018;Kaltwasser Musik
+S-026;Blaulicht;K.O. Brandt;HipHop;4:05;2018;Kaltwasser Musik
+S-027;Freigang;K.O. Brandt;HipHop;2:45;2016;Kaltwasser Musik
+S-028;Grauzone;MC Taro;Hip Hop;3:15;2021;Nordton Records
+S-029;Neustart;MC Taro;HipHop;3:01;2019;Grüne Welle
+S-030;Salzhaut;MC Taro;HipHop;3:33;2017;Nordton Records
+S-031;Betonblume;Nsix;HipHop;4:02;2016;Grüne Welle
+S-032;Kaltstart;Nsix;HipHop;3:59;2024;Pulsar Media
+S-033;Blitzlicht;Nsix;hiphop;4:01;2023;Pulsar Media
+S-034;Hochhaus;Layla Kaan;HipHop;3:20;2021;Kaltwasser Musik
+S-035;Nachtschicht;Layla Kaan;HipHop;2:49;2018;Pulsar Media
+S-036;Tunnelblick;Layla Kaan;HipHop;3:14;2025;Kaltwasser Musik
+S-037;Schachmatt;Zwei Zimmer;HipHop;3:46;2020;Nordton Records
+S-038;Weiter;Zwei Zimmer;HipHop;3:27;2019;Pulsar Media
+S-039;Gegenwind;Zwei Zimmer;Hip Hop;3:10;2024;Pulsar Media
+S-040;Vollgas;Dime Ayo;HipHop;2:30;2017;Grüne Welle
+S-041;Asphalt;Dime Ayo;Hip Hop;3:09;2014;Hafenkante
+S-042;Signal;Dime Ayo;hiphop;3:09;2017;Grüne Welle
+S-043;Kettenreaktion;Rasko;HipHop;2:37;2017;
+S-044;Hitzefrei;Rasko;HipHop;2:40;2022;
+S-045;Echo;Rasko;HipHop;3:11;2016;
+S-046;Hochwasser;Die Nordlichter;Rock;4:33;2019;Pulsar Media
+S-048;Kaltfront;Die Nordlichter;Rock;4:45;2016;Nordton Records
+S-049;Nachtwache;Basalt;Rock;3:41;2022;Hafenkante
+S-050;Kettenhund;Basalt;Rock;5:32;2020;Hafenkante
+S-051;Steinschlag;Basalt;Rock;4:21;2021;Pulsar Media
+S-052;Halbschatten;Hale & Sturm;Rock;3:24;2018;Nordton Records
+S-053;Freischwimmer;Hale & Sturm;Rock;4:08;2019;Pulsar Media
+S-054;Sperrstunde;Hale & Sturm;Rock;5:01;2019;Grüne Welle
+S-055;Zwischen uns;Fabrik 12;Rock;5:16;2019;Hafenkante
+S-056;Rostlaube;Fabrik 12;Rock;3:24;2022;Pulsar Media
+S-057;Nordwärts;Fabrik 12;Rock;5:08;2020;Kaltwasser Musik
+S-058;Brandung;Grauwal;Rock;5:27;2018;Pulsar Media
+S-059;Gewitterfront;Grauwal;Rock;5:08;2014;Pulsar Media
+S-060;Sturmwarnung;Grauwal;Rock;3:25;2023;Nordton Records
+S-061;Regenbogenstaub;Schwester Rost;Rock;5:18;2020;Hafenkante
+S-062;Schlagseite;Schwester Rost;Rock;5:02;2017;Pulsar Media
+S-063;Flimmern;Schwester Rost;Rock;4:58;2019;Hafenkante
+S-064;Tonspur;Kiesbett;Rock;4:01;2026;
+S-064;Tonspur;Kiesbett;Rock;4:01;2026;
+S-065;Bruchlandung;Kiesbett;Rock;3:43;2024;
+S-066;Eisenzeit;Kiesbett;Rock;4:20;2025;
+S-067;Funkenflug;Vektor;Electronic;4:12;2014;Hafenkante
+S-068;Nachtflug;Vektor;Electronic;3:55;2018;Grüne Welle
+S-069;Bruchstück;Vektor;Electronic;5:13;2022;Grüne Welle
+S-070;Barfuß;Nachtmodus;electronic;5:19;2017;Pulsar Media
+S-071;Datenstrom;Nachtmodus;Electronic;4:16;2020;Kaltwasser Musik
+S-072;Halbleiter;Nachtmodus;Electronic;4:56;2018;Grüne Welle
+S-073;Tiefsee;Aera;Electronic;3:43;2023;Kaltwasser Musik
+S-074;Impuls;Aera;Electronic;4:41;2025;Pulsar Media
+S-075;Lichtjahre;Aera;Elektro;5:56;2024;Grüne Welle
+S-076;Laserfeld;Lumen Drift;Electronic;5:59;2021;Kaltwasser Musik
+S-076;Laserfeld;Lumen Drift;Electronic;5:59;2021;Kaltwasser Musik
+S-077;Sog;Lumen Drift;Electronic;4:02;2015;Grüne Welle
+S-078;Kondensstreifen;Lumen Drift;Electronic;3:28;2025;Grüne Welle
+S-079;Stromkreis;Modul 9;Electronic;3:57;2014;Hafenkante
+S-080;Polarlicht;Modul 9;Electronic;3:16;2017;Nordton Records
+S-081;Orbit;Modul 9;electronic;6:02;2017;Pulsar Media
+S-082;Zeitraffer;Sina Kessler;Electronic;3:27;2022;Kaltwasser Musik
+S-083;Schwerelos;Sina Kessler;electronic;3:20;2019;Kaltwasser Musik
+S-084;Treibgut;Sina Kessler;Elektro;3:25;2015;Grüne Welle
+S-085;Nebelwand;Polar Pulse;Electronic;4:13;2014;
+S-086;Frequenz;Polar Pulse;Electronic;5:39;2021;
+S-087;Nullpunkt;Polar Pulse;Electronic;5:54;2019;
+S-089;Fluchtpunkt;Papierboot;Indie;3:50;2020;Hafenkante
+S-090;Hinterhof;Papierboot;Indie;3:59;2024;Nordton Records
+S-091;Bahnsteig;Frida Mohn;Indie;3:36;2025;Pulsar Media
+S-092;Morgengrau;Frida Mohn;Indie;3:24;2016;Pulsar Media
+S-093;Untiefe;Frida Mohn;Indie;3:31;2025;Grüne Welle
+S-094;Schrebergarten;Kollektiv Ost;Indie;3:31;2023;Grüne Welle
+S-095;Fahrradkeller;Kollektiv Ost;Indie;4:00;2021;Kaltwasser Musik
+S-096;Lagerfeuer;Kollektiv Ost;Indie;3:16;2021;Kaltwasser Musik
+S-097;Wolkenbruch;Halbmond;Indie;3:15;2020;
+S-098;Altglas;Halbmond;Indie;4:17;2025;
+S-099;Nachbarn;Halbmond;Indie;4:35;2016;
+S-100;Landregen;Jonas Ferber;Indie;4:16;2021;Pulsar Media
+S-101;Fensterplatz;Jonas Ferber;Indie;4:13;2023;Grüne Welle
+S-102;Vinyl;Jonas Ferber;Indie;3:50;2015;Hafenkante
+S-103;Kastanie;Tiefgang;Indie;4:17;2021;
+S-104;Stromab;Tiefgang;Indie;3:21;2018;
+S-105;Sonntag;Tiefgang;Indie;3:22;2023;
+S-106;Spätvorstellung;Otto Reims Trio;Jazz;5:12;2014;Pulsar Media
+S-107;Kellerbar;Otto Reims Trio;Jazz;5:01;2021;Nordton Records
+S-108;Seitwärts;Otto Reims Trio;Jazz;6:07;2024;Kaltwasser Musik
+S-109;Sonntagsbraten;Blaue Marlene;Jazz;5:17;2021;Grüne Welle
+S-110;Blaue Stunde;Blaue Marlene;Jazz;7:24;2017;Kaltwasser Musik
+S-111;Nachbrenner;Blaue Marlene;Jazz;4:06;2021;Grüne Welle
+S-112;Fieber;Samt;Jazz;6:09;2018;Kaltwasser Musik
+S-113;Klartext;Samt;Jazz;6:01;2022;Kaltwasser Musik
+S-114;Samtpfote;Samt;Jazz;6:56;2015;Kaltwasser Musik
+S-115;Zugabe;Quartett Nordwind;Jazz;5:41;2017;Pulsar Media
+S-116;Weißes Rauschen;Quartett Nordwind;Jazz;5:12;2014;Hafenkante
+S-117;Herbstblatt;Quartett Nordwind;Jazz;5:31;2015;Pulsar Media
+S-118;Mondsichel;Ida Lorenz;Jazz;7:20;2020;
+S-119;Improvisation Nr. 3;Ida Lorenz;Jazz;5:31;2016;
+S-120;Nachtcafé;Ida Lorenz;Jazz;7:22;2020;
