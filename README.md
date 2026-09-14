@@ -2,7 +2,7 @@
 
 Zwischenprojekt im Rahmen der Weiterbildung Data Analytics (DataSmart Point), Modul Python für Datenanalyse.
 
-Auftrag, Vorgehen und Ergebnisse sind im Notebook selbst dokumentiert: [Zwischenprojekt_Streaming_Praese.ipynb](./Zwischenprojekt_Streaming_Praese.ipynb)
+Auftrag, Vorgehen und Ergebnisse sind im Notebook selbst dokumentiert: [Zwischenprojekt_Streaming_Praese.ipynb](./Zwischenprojekt_Streaming Praese.ipynb)
 
 ## Kurzfassung
 
